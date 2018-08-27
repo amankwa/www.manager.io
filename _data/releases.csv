@@ -839,3 +839,4 @@ date,version,message
 2018-08-27,18.8.66,"no message"
 2018-08-27,18.8.67,"no message"
 2018-08-27,18.8.68,"no message"
+2018-08-27,18.8.69,"Fixed PDF generator issue on Mac OS X #16352"
