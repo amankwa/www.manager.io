@@ -863,3 +863,4 @@ date,version,message
 2018-09-02,18.9.0,"Merge branch 'master' of https://github.com/lubos/Manager"
 2018-09-02,18.9.1,"Fixed custom field date formatting so the time is not added to the output #17711"
 2018-09-02,18.9.2,"no message"
+2018-09-03,18.9.3,"no message"
