@@ -7,15 +7,18 @@ title: Translations
 
   <table class="table table-striped">
     <tbody>
-      {% for language in site.data.translations %}
+      {% for item in site.data.translations %}
+      {% assign key = item[0] %}      
+      {% assign language = site.data.translations[key] %}
+      {% if language.localName %}{% else %}{% continue %}{% endif %}
       <tr>
         <td class="text-right"><span class="badge badge-pill badge-dark">{{ forloop.index0 | plus:1 }}</span></td>
         <td class="pr-4">
-          <h5 class="font-weight-bold">{{ language.localname }}<small class="text-muted ml-2">{{ language.englishname }}</small></h5>
-          <div class="text-muted small">{{ language.contributors }}</div>
+          <h5 class="font-weight-bold">{{ language.localName }}<small class="text-muted ml-2">{{ language.englishName }}</small></h5>
+          <div class="text-muted small">{{ language.translators }}</div>
         </td>
         <td style="width: 200px">
-          <div class="progress"><div class="progress-bar{% if language.percentage == "100" %} bg-success{% endif %}" style="width: {{ language.percentage }}%">{{ language.percentage }}%</div></div>
+          <div class="progress"><div class="progress-bar{% if language.percentage == 100 %} bg-success{% endif %}" style="width: {{ language.percentage }}%">{{ language.percentage }}%</div></div>
         </td>
       </tr>
       {% endfor %}
