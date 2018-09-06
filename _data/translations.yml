@@ -1,4 +1,4 @@
-﻿nl:
+nl:
   percentage: 100
   localName: Nederlands
   englishName: Dutch
@@ -700,7 +700,7 @@
     XXX_Transactions: "{0} transacties"
     XxxHours: "{0} h"
     XxxMinutes: "{0} min"
-en-US:
+en-us:
 el:
   percentage: 99
   localName: Ελληνικά
@@ -4913,7 +4913,7 @@ mk:
     FreeAccountingSoftware: "Free Accounting Software"
     FreeDownload: "Free Download"
     Screenshots: "Screenshots"
-zh-HK:
+zh-hk:
   percentage: 99
   localName: 中文(香港)
   englishName: Traditional Chinese (Hong Kong)
@@ -18251,7 +18251,7 @@ fr:
     Withdrawal: "Withdrawal"
     Withholding_tax_receipt: "Withholding tax receipt"
     XXX_Transactions: "{0} transactions"
-de-CH:
+de-ch:
   percentage: 82
   localName: Deutsch (Schweiz)
   englishName: German (Switzerland)
@@ -25973,7 +25973,7 @@ uz:
     Withholding_tax_receipt: "Withholding tax receipt"
     WithholdingTaxReceivable: "Withholding tax receivable"
     XXX_Transactions: "{0} transactions"
-zh-CN:
+zh-cn:
   percentage: 65
   localName: 中文(简体)
   englishName: Simplified Chinese (China)
@@ -32993,7 +32993,7 @@ hu:
     WithholdingTaxReceivable: "Withholding tax receivable"
     WrittenOff: "Written-off"
     XXX_Transactions: "{0} transactions"
-zh-TW:
+zh-tw:
   percentage: 44
   localName: 中文(台灣)
   englishName: Traditional Chinese (Taiwan)
