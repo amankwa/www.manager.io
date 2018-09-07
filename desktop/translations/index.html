@@ -17,7 +17,7 @@ title: Translations
           <div class="text-muted small">{{ language.translators }}</div>
         </td>
         <td style="width: 200px">
-          <div class="progress"><div class="progress-bar{% if language.percentage == 100 %} bg-success{% endif %}" style="width: {{ language.percentage }}%">{{ language.percentage }}%</div></div>
+          <div class="progress"><div class="progress-bar{% if language.percentage == 100 %} bg-success{% endif %}" style="width: {{ language.percentage }}%">{% if language.percentage > 19 %}{{ language.percentage }}%{% endif %}</div></div>
         </td>
       </tr>
       {% endfor %}
