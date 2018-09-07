@@ -4,7 +4,7 @@ title: Pricing
 ---
 <h4 class="text-center font-weight-bold">We do not charge by the user or by the business</h4>
 <p class="text-center lead">We offer predictable & consistent pricing in your currency - exactly how it should be.</p>
-<div class="text-center mb-4"><select id="currency" class="custom-select" onchange="document.getElementById('price').innerHTML = this.value">{% for currency in site.data.cloud_pricing %}<option value="{{ currency.Price }} {{ currency.Code }}"{% if currency.Code == "USD" %} selected{% endif %}>{{ currency.Code }} - {{ currency.Name }}</option>{% endfor %}</select></div>
+<div class="text-center mb-4"><select id="currency" class="w-50 custom-select" onchange="document.getElementById('price').innerHTML = this.value">{% for currency in site.data.cloud_pricing %}<option value="{{ currency.Price }} {{ currency.Code }}"{% if currency.Code == "USD" %} selected{% endif %}>{{ currency.Code }} - {{ currency.Name }}</option>{% endfor %}</select></div>
 <hr />
 
 <div id="priceContainer" class="row">

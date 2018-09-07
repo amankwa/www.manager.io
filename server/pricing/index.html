@@ -4,7 +4,7 @@ title: Pricing
 ---
 <h4 class="text-center font-weight-bold">Pay once, use forever</h4>
 <p class="text-center lead">Self-hosted accounting software without monthly fees.</p>
-<div class="text-center mb-4"><select id="currency" class="custom-select" onchange="document.getElementById('price').innerHTML = this.value">{% for currency in site.data.server_pricing %}<option data-price="{{ currency.StripePrice }}" data-currency="{{ currency.Code | downcase }}" value="{{ currency.Price }} {{ currency.Code }}"{% if currency.Code == "USD" %} selected{% endif %}>{{ currency.Code }} - {{ currency.Name }}</option>{% endfor %}</select></div>
+<div class="text-center mb-4"><select id="currency" class="custom-select w-50" onchange="document.getElementById('price').innerHTML = this.value">{% for currency in site.data.server_pricing %}<option data-price="{{ currency.StripePrice }}" data-currency="{{ currency.Code | downcase }}" value="{{ currency.Price }} {{ currency.Code }}"{% if currency.Code == "USD" %} selected{% endif %}>{{ currency.Code }} - {{ currency.Name }}</option>{% endfor %}</select></div>
 <hr />
 
 <div id="priceContainer" class="row">
