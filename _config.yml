@@ -1,16 +1,6 @@
 markdown: kramdown
 
 collections:
-  screenshots:
+  translations:
     output: true
-    permalink: /desktop/screenshots/:name
-  cloud_pricing:
-    output: true
-    permalink: /cloud/pricing/:name
-  server_pricing:
-    output: true
-    permalink: /server/pricing/:name
-  themes:
-    output: true
-  guides:
-    output: true
+    permalink: /:name/index.html

@@ -1,6 +1,6 @@
-nl:
+﻿"nl":
   percentage: 100
-  name: Dutch
+  name: "Dutch"
   translators: "Hennie Eerhart, Ernst Bunders, martijn, vincent, Tomasz Nguyen, carel.ketelaars, Paul van Rijn, Mehh, Yorrick Hardeman, tomas.scheldeman, Richard, Martijn D., Aart van Oploo, joost, fred.roubos, Jos Geluk, Anton, Frank, reyjamin, sraslan, aartdijkstra, rory, Mitch Gooijer, rob, ingeschuffelen, 2BeFresh, alex, Reggie Dinsbach, marloesknetemann, t.aski, rikroukens, raymondlukassen, bram.kort, peterfick.nl, trudyvendel"
   strings:
     _1_30_days_overdue: "1-30 dagen te laat"
@@ -699,9 +699,9 @@ nl:
     XXX_Transactions: "{0} transacties"
     XxxHours: "{0} h"
     XxxMinutes: "{0} min"
-sr:
+"sr":
   percentage: 100
-  name: Serbian
+  name: "Serbian"
   translators: "analiza.fin.izvjestaja, vojkan.milovanovic, dragan.vukosavljevic, Nikola Maric, Dr Nedic Nikola, dragoslav.nikolic, tanicbozidar, bojanpavlovicoffice, milanzugic91, draganmatrox, Goran Jordović"
   strings:
     _1_30_days_overdue: "1-30 dana kašnjenja"
@@ -1400,9 +1400,9 @@ sr:
     XXX_Transactions: "{0}transakcije"
     XxxHours: "{0} h"
     XxxMinutes: "{0} m"
-et:
+"et":
   percentage: 100
-  name: Estonian
+  name: "Estonian"
   translators: "Gunnar Michelson, jjk, arva.arp, raha, 6598335, rivozangov, secret123"
   strings:
     _1_30_days_overdue: "1-30 päeva üle tähtaja"
@@ -2101,9 +2101,9 @@ et:
     XXX_Transactions: "{0} tehingut"
     XxxHours: "{0} h"
     XxxMinutes: "{0} min"
-zh-hk:
+"zh-hk":
   percentage: 100
-  name: Chinese, Hong Kong
+  name: "Chinese, Hong Kong"
   translators: "erph.com.hk"
   strings:
     _1_30_days_overdue: "1-30日逾期"
@@ -2802,9 +2802,9 @@ zh-hk:
     XXX_Transactions: "{0}交易"
     XxxHours: "{0}小時"
     XxxMinutes: "{0}分鐘"
-el:
+"el":
   percentage: 99
-  name: Greek
+  name: "Greek"
   translators: "ntrimmis, Antonis Vlachos, pandhm, Kostas Subdee, giorgos.arnakis, manolis, Stathis Mellios, dpantoulas, skazakis, nitro912gr, theodorakisg, leongreece, info, panarapi, forologinpc, pcon, konstantinos.tsatsarounos, aristeidisgkoros, delliospetros, vcharlos"
   strings:
     _1_30_days_overdue: "Ληξιπρόθεσμα 1-30 ημέρες"
@@ -3503,9 +3503,9 @@ el:
     FreeAccountingSoftware: "Free Accounting Software"
     FreeDownload: "Free Download"
     Screenshots: "Screenshots"
-vi:
+"vi":
   percentage: 99
-  name: Vietnamese
+  name: "Vietnamese"
   translators: "Vũ Văn Hoàn - Asanzo Hà Nội, buitrunghau, yewleung, Nguyễn Đình Quân, Duy Trung, tbn.tran93, hungphamquoc, lxkhanh189, lequanghoa, Pablo Alvarado, hoanglongrs, xoojulian"
   strings:
     _1_30_days_overdue: "Quá hạn 1 - 30 ngày"
@@ -4204,9 +4204,9 @@ vi:
     FreeAccountingSoftware: "Free Accounting Software"
     FreeDownload: "Free Download"
     Screenshots: "Screenshots"
-is:
+"is":
   percentage: 99
-  name: Icelandic
+  name: "Icelandic"
   translators: "Gunnar Geir, snaei8, heimir, kjartansverrisson, mattiazer, omar, advocat, ingimarjons, vorverk"
   strings:
     _1_30_days_overdue: "Gjaldfallið fyrir 1-30 dögum"
@@ -4905,9 +4905,9 @@ is:
     FreeAccountingSoftware: "Free Accounting Software"
     FreeDownload: "Free Download"
     Screenshots: "Screenshots"
-mk:
+"mk":
   percentage: 99
-  name: Macedonian
+  name: "Macedonian"
   translators: "novica, Predrag Tasevski, marko.aleksov, gligorovski.g, dlalkov"
   strings:
     _1_30_days_overdue: "1-30 денови доцнење"
@@ -5606,9 +5606,9 @@ mk:
     FreeAccountingSoftware: "Free Accounting Software"
     FreeDownload: "Free Download"
     Screenshots: "Screenshots"
-ar:
+"ar":
   percentage: 99
-  name: Arabic
+  name: "Arabic"
   translators: "Haitham Doraidy, mohammad naji, yaser nanoua, Abdulbari, mokhles.atallah, efaiald, Yasser Elkhateeb €gypt, southern.carpenter, majed404, imosa3da, a.gamal.eldin88, luai.naji, k.alqaheri, loubani.yahia, samarrai, m256a, acc.mohamedhamza88, adnan, facysd, SBSCC, aalkaf.94, usama.ibraheem, z.kheliwi, akhatib, ms.ismail, scony10, magasal20, yasir_smart8889, asaawan, rizkadel, ali.nasser.93, ashraf.i.salameh, bookkuwait, mohammedessam111, atmaalouf, mohammadayoubq, aabuzaid, aymanaaat, omair5354, osman.a.mahmoud, omarelmasry2006, jihad"
   strings:
     _1_30_days_overdue: "30-01 يوماً بعد تاريخ الإستحقاق"
@@ -6307,9 +6307,9 @@ ar:
     FreeDownload: "Free Download"
     Screenshots: "Screenshots"
     Termination: "Termination"
-id:
+"id":
   percentage: 97
-  name: Indonesian
+  name: "Indonesian"
   translators: "reyjamin, stanisk3101, Yhoga Heru Pratama, kapkuncara, Ajisaka, teddie, tesargusmawan, w.nugrahadi, mandau, Anies Pertiwi, adipriyanto.bpn, darmawan.sidiq, 19.guardians, rahmat, jeppy.chriz, khairfathul, fikri514, herrycandi1963, tuliskode, amantun, dnirawan79, didi.purwadi, mastertranskrip, rhama.donny, morsen_hepi, ubaylicious, sariningbhuana, bermansnbbn"
   strings:
     _1_30_days_overdue: "Jatuh Tempo dalam 1-30 Hari"
@@ -7008,9 +7008,9 @@ id:
     Termination: "Termination"
     UntilFurtherNotice: "Until further notice"
     Withdrawal: "Withdrawal"
-af:
+"af":
   percentage: 97
-  name: Afrikaans
+  name: "Afrikaans"
   translators: "martinmeyer007, jannie, durkpotgieter, claudine.venter1, thinusg, belinda.truscott, gerhard.bez, hitimanajphugues, alex.caudron, Andrew van der Spuy"
   strings:
     _1_30_days_overdue: "1-30 dae agterstallig"
@@ -7709,9 +7709,9 @@ af:
     Termination: "Termination"
     UntilFurtherNotice: "Until further notice"
     Withdrawal: "Withdrawal"
-sq:
+"sq":
   percentage: 96
-  name: Albanian
+  name: "Albanian"
   translators: "Egzon Prokupla, jurild_hoxha, Suad A. Tafili, atdhe_19, taulant.haxholli"
   strings:
     _1_30_days_overdue: "1-30 ditë vonesë"
@@ -8410,9 +8410,9 @@ sq:
     Termination: "Termination"
     UntilFurtherNotice: "Until further notice"
     Withdrawal: "Withdrawal"
-de:
+"de":
   percentage: 96
-  name: German
+  name: "German"
   translators: "Daniel Ruf, Marko Langer, d_k1, nielsaufdeepspace9, khargoth24, taieyaman, tosho1994, Manuel Klarmann, Daniel Banck, arno, abdulshafie99"
   strings:
     _1_30_days_overdue: "1-30 Tage überfällig"
@@ -9111,9 +9111,9 @@ de:
     Termination: "Termination"
     UntilFurtherNotice: "Until further notice"
     Withdrawal: "Withdrawal"
-lt:
+"lt":
   percentage: 95
-  name: Lithuanian
+  name: "Lithuanian"
   translators: "MES GALIM, irina, edlu73, ramunas, atolodas, andrius, Povilas Klusas"
   strings:
     _1_30_days_overdue: "Vėluojama 1-30 dienų"
@@ -9812,9 +9812,9 @@ lt:
     There_is_at_least_one_invoice_with_pending_early_payment_discount: "There is at least one invoice with pending early payment discount"
     UntilFurtherNotice: "Until further notice"
     Withdrawal: "Withdrawal"
-pt:
+"pt":
   percentage: 94
-  name: Portuguese
+  name: "Portuguese"
   translators: "Manuela Silva, bmrcarneiro, Nuno Lopes, celexi, Alexsander Donay, Samuel Mesquita, Ana Fonseca, ido, sooskca, chinguelessi, euhudson, aapinto, luiz, Lucas, felipe, godoyjon, osmar.mateus, Luis Panao, guilhermeschneiderbr, diego.viegas"
   strings:
     _1_30_days_overdue: "1 a 30 dias de atraso"
@@ -10513,9 +10513,9 @@ pt:
     UntilFurtherNotice: "Until further notice"
     Withdrawal: "Withdrawal"
     Withholding_tax_receipt: "Withholding tax receipt"
-tr:
+"tr":
   percentage: 93
-  name: Turkish
+  name: "Turkish"
   translators: "ahmetnsr07, erincfirtina, posta, Ufuk, enesemretas, ŞENOL KOÇAN, bunyaminkoz, ademalp, selimelitas7, ipek, srknakarcay, ilham123836, brnozcan, alisanari, doganhatip, İsmail Demirbilek, a.kadirgngr, alierhanersoy, okanciftci34, berke.turgan, artunalyan, Egzon Prokupla, ahmet, talatcorak, netusta"
   strings:
     _1_30_days_overdue: "1-30 gün vadeli"
@@ -11214,9 +11214,9 @@ tr:
     UntilFurtherNotice: "Until further notice"
     Withdrawal: "Withdrawal"
     Withholding_tax_receipt: "Withholding tax receipt"
-te:
+"te":
   percentage: 93
-  name: Telugu
+  name: "Telugu"
   translators: "sekhar.apps10, Chinta Sudha, kesava reddy, hana, raj.nann, vsurimanchi, vveeru19"
   strings:
     _1_30_days_overdue: "1-30 రోజులు గడువు తీరినది"
@@ -11915,9 +11915,9 @@ te:
     There_is_at_least_one_recurring_payslip_pending_to_be_issued: "There is at least one recurring payslip pending to be issued"
     Withdrawal: "Withdrawal"
     Withholding_tax_receipt: "Withholding tax receipt"
-ro:
+"ro":
   percentage: 91
-  name: Romanian
+  name: "Romanian"
   translators: "consult.brasov, paul.pitea, Sorin, vfrunza, Catalin Dragomirescu, vasile.chisu, toda ioan"
   strings:
     _1_30_days_overdue: "Depăşit cu 1-30 zile"
@@ -12616,9 +12616,9 @@ ro:
     Website: "Website"
     Withdrawal: "Withdrawal"
     Withholding_tax_receipt: "Withholding tax receipt"
-da:
+"da":
   percentage: 91
-  name: Danish
+  name: "Danish"
   translators: "finnwandersen, fh, Torben, Hasse Kirkegaard, railer12, soren, wegeberg, kurtha, bkooss"
   strings:
     _1_30_days_overdue: "1-30 dage overskredet"
@@ -13317,9 +13317,9 @@ da:
     Website: "Website"
     Withdrawal: "Withdrawal"
     Withholding_tax_receipt: "Withholding tax receipt"
-ht:
+"ht":
   percentage: 91
-  name: Haitian
+  name: "Haitian"
   translators: "Johnson"
   strings:
     _1_30_days_overdue: "1-30 jou an reta"
@@ -14018,9 +14018,9 @@ ht:
     Website: "Website"
     Withdrawal: "Withdrawal"
     Withholding_tax_receipt: "Withholding tax receipt"
-fa:
+"fa":
   percentage: 90
-  name: Persian
+  name: "Persian"
   translators: "pnshad, Aiub, MRNasseri, o.ahmadi.mail, monib19, hamzelo.ali, mehdi_song, torabian.7, metalixon, mo_jair, efa, programingc42, kamitoto1995, mmojadad, peyman.mohamadpour, navidhaghi, waheed"
   strings:
     _1_30_days_overdue: "۱ تا ۳۰ روز دیرکرد"
@@ -14719,9 +14719,9 @@ fa:
     Withholding_tax_receipt: "Withholding tax receipt"
     WriteOn: "Write-on"
     WrittenOff: "Written-off"
-sv:
+"sv":
   percentage: 90
-  name: Swedish
+  name: "Swedish"
   translators: "Jan-Eric Lindh, larsonniwik, Fredrik Duwell, mattenrone"
   strings:
     _1_30_days_overdue: "1-30 dagar försenad"
@@ -15420,9 +15420,9 @@ sv:
     UntilFurtherNotice: "Until further notice"
     Withdrawal: "Withdrawal"
     Withholding_tax_receipt: "Withholding tax receipt"
-es:
+"es":
   percentage: 86
-  name: Spanish
+  name: "Spanish"
   translators: "Marco Picón, oscargonz, Diego Represas, jf150552, taxmatters.richmond, cametiope, romsaz, info, juanmagic01, josegjimenez, greatexe, Luis Galvez, lublanchod, fernando.lguevara, Angel, luis, info, Freddy Isaac, egonzalez, Luigi, osorio022, caparra, ferwind, alaskamama, antoniomagagna, flira1010, des, gustavo, malrod, waldinads1987, leonsk29, arlopeza, leoxordonez, franciscobama, info, rodrigo.ortiz, mauricio.iturriaga"
   strings:
     _1_30_days_overdue: "1-30 días vencido"
@@ -16121,9 +16121,9 @@ es:
     Withdrawal: "Withdrawal"
     Withholding_tax_receipt: "Withholding tax receipt"
     XXX_Transactions: "{0} transactions"
-sk:
+"sk":
   percentage: 85
-  name: Slovak
+  name: "Slovak"
   translators: "managerioslovak, Lubos Hasko, hiddenvs, pavol.paluga, Július Meri, monikafoster"
   strings:
     _1_30_days_overdue: "1-30 dní po splatnosti"
@@ -16822,9 +16822,9 @@ sk:
     Website: "Website"
     Withdrawal: "Withdrawal"
     Withholding_tax_receipt: "Withholding tax receipt"
-hr:
+"hr":
   percentage: 83
-  name: Croatian
+  name: "Croatian"
   translators: "vedran.ivancevic, daniel.phenomena, frost.giant.miniatures, zsvegar, darko.borojevic, bbbbxxx, civija, mario.strmen.dvorski, christian, misic.mirko"
   strings:
     _1_30_days_overdue: "1-30 dana kašnjenja"
@@ -17523,9 +17523,9 @@ hr:
     Withdrawal: "Withdrawal"
     Withholding_tax_receipt: "Withholding tax receipt"
     XXX_Transactions: "{0} transactions"
-fr:
+"fr":
   percentage: 83
-  name: French
+  name: "French"
   translators: "antoinebargel, nujabe.com, webtranslateit.com, 500assets.com, jpmorin, nicolas, julien, Erwin Mayer, scialet, Daniel G, olivier.asselin, doris.gagnon, icij79, eriam, kdaffef, Wesly , pavel, robert, ju, alexandre.gauvin, alexandrehitchcox, lamarane, natalia.pokrovskaya, antoine.rouse, jacques.huyghebaert, chsmo33, mickaelramanitrera, rabodanmaha, Abdellah Elfilali, karensg.mk"
   strings:
     _1_30_days_overdue: "en retard de 1-30 jours"
@@ -18224,9 +18224,9 @@ fr:
     Withdrawal: "Withdrawal"
     Withholding_tax_receipt: "Withholding tax receipt"
     XXX_Transactions: "{0} transactions"
-de-ch:
+"de-ch":
   percentage: 82
-  name: German, Switzerland
+  name: "German, Switzerland"
   translators: "Radio64, johnwhosmithwatson, Phantom75, wkfrehner"
   strings:
     _1_30_days_overdue: "Fälligkeiten in 1-30 Tagen"
@@ -18925,9 +18925,9 @@ de-ch:
     Termination: "Termination"
     UntilFurtherNotice: "Until further notice"
     Withdrawal: "Withdrawal"
-az:
+"az":
   percentage: 80
-  name: Azeri
+  name: "Azeri"
   translators: "anarsmac, elxan96, 90ez090, moize"
   strings:
     _1_30_days_overdue: "1-30 gün gecikmə"
@@ -19626,9 +19626,9 @@ az:
     Withholding_tax_receipt: "Withholding tax receipt"
     WithholdingTaxReceivable: "Withholding tax receivable"
     WriteOn: "Write-on"
-sl:
+"sl":
   percentage: 80
-  name: Slovenian
+  name: "Slovenian"
   translators: "David, blaziusgr, Silvo Jakob, Gregor Sušanj, Jure Medved, Ivo, foseklin, marko.munda, andrej.volpi, lionidas0001, bostjan.petru, thegreatwise"
   strings:
     _1_30_days_overdue: "Zapadlo 1-30 dni"
@@ -20327,9 +20327,9 @@ sl:
     Withdrawal: "Withdrawal"
     Withholding_tax_receipt: "Withholding tax receipt"
     XXX_Transactions: "{0} transactions"
-si:
+"si":
   percentage: 75
-  name: Sinhala
+  name: "Sinhala"
   translators: "admin, Pahan, SBSCC, virajkavn, sheronwollas, chanakaicdl, thisara.gunathilaka, akjhemachandra, kasun.subasinghe"
   strings:
     _1_30_days_overdue: "දින 1 ත් 30 ත් අතර කල් ඉක්ම වූ"
@@ -21028,9 +21028,9 @@ si:
     Withdrawal: "Withdrawal"
     Withholding_tax_receipt: "Withholding tax receipt"
     XXX_Transactions: "{0} transactions"
-ta:
+"ta":
   percentage: 75
-  name: Tamil
+  name: "Tamil"
   translators: "M. Palaniappan, Jiyath ahamed, ayyanprasathpalani, SBSCC, dr.kumarasingam, mail2muthuram, sundaresanraja, thavaruban, befrontliner, kvenkat_2k1, Mohamed Basheer, sathyayuge24"
   strings:
     _1_30_days_overdue: "1-30 நாட்கள் நிலுவை"
@@ -21729,9 +21729,9 @@ ta:
     Withdrawal: "Withdrawal"
     Withholding_tax_receipt: "Withholding tax receipt"
     XXX_Transactions: "{0} transactions"
-ca:
+"ca":
   percentage: 73
-  name: Catalan
+  name: "Catalan"
   translators: "Quim Gual"
   strings:
     _1_30_days_overdue: "1-30 dies vençut"
@@ -22430,9 +22430,9 @@ ca:
     Withdrawal: "Withdrawal"
     Withholding_tax_receipt: "Withholding tax receipt"
     XXX_Transactions: "{0} transactions"
-dv:
+"dv":
   percentage: 72
-  name: Divehi
+  name: "Divehi"
   translators: "ޔާސިފް, abdhulla.alim"
   strings:
     _1_30_days_overdue: "1 ދުވަހާއި 30 ދުވަހަށްވުރެ ގިނަދުވަސްވެފައި"
@@ -23131,9 +23131,9 @@ dv:
     Withdrawal: "Withdrawal"
     Withholding_tax_receipt: "Withholding tax receipt"
     XXX_Transactions: "{0} transactions"
-bs:
+"bs":
   percentage: 70
-  name: Bosnian
+  name: "Bosnian"
   translators: "dino.bojcic, logical, ahajdar, adnan, Vesmir Ruznic, sraslan"
   strings:
     _1_30_days_overdue: "1-30 dana kašnjenja"
@@ -23832,9 +23832,9 @@ bs:
     Withdrawal: "Withdrawal"
     Withholding_tax_receipt: "Withholding tax receipt"
     XXX_Transactions: "{0} transactions"
-ru:
+"ru":
   percentage: 70
-  name: Russian
+  name: "Russian"
   translators: "mprokopov, Anastasia, Оля, Stepan Galkin, azampas, Ramonkz, broslavski, natalia.pokrovskaya"
   strings:
     _1_30_days_overdue: "Превышение 1-30 дней"
@@ -24533,9 +24533,9 @@ ru:
     WithholdingTaxReceivable: "Withholding tax receivable"
     WrittenOff: "Written-off"
     XXX_Transactions: "{0} transactions"
-ms:
+"ms":
   percentage: 67
-  name: Malay
+  name: "Malay"
   translators: "firdauspr, auradash, hamzah, norman05051984, aeo.ashraf, detjohn13, asyrafkhairuddin92, Rshd Mohd, mydispomail-001, cskhua, idea_hairul, mysycsolutions, adrysabry, halimhamdan, amirul.asswad, od3n"
   strings:
     _1_30_days_overdue: "1-30 hari tertunggak"
@@ -25234,9 +25234,9 @@ ms:
     WithholdingTaxReceivable: "Withholding tax receivable"
     WriteOn: "Write-on"
     XXX_Transactions: "{0} transactions"
-uz:
+"uz":
   percentage: 67
-  name: Uzbek
+  name: "Uzbek"
   translators: "Diyor"
   strings:
     _1_30_days_overdue: "1-30 kun kechiktirildi"
@@ -25935,9 +25935,9 @@ uz:
     Withholding_tax_receipt: "Withholding tax receipt"
     WithholdingTaxReceivable: "Withholding tax receivable"
     XXX_Transactions: "{0} transactions"
-zh-cn:
+"zh-cn":
   percentage: 65
-  name: Chinese, China
+  name: "Chinese, China"
   translators: "zlg.happy, thresh14, fantacyzc, ryan.lufh, jameslee4848, xoojulian, zack, hzfywkj, jtayyw, 593915157, beiruoyi_1016, admin, tony.tong, yanchoo"
   strings:
     _1_30_days_overdue: "逾期1-30日"
@@ -26636,9 +26636,9 @@ zh-cn:
     Withholding_tax_receipt: "Withholding tax receipt"
     WithholdingTaxReceivable: "Withholding tax receivable"
     XXX_Transactions: "{0} transactions"
-bn:
+"bn":
   percentage: 61
-  name: Bengali
+  name: "Bengali"
   translators: "andrew, Monowar Hossain, sykat007, iktheruddin096, hasandhali, arif.css123, qstar.inc, hasan87abc, mazhar266, polashpalchowdury, jessoreit, mannuinfo, rashidul6, shafizelal, ceo, contact, Md. Ikramul Hossain , topu11543"
   strings:
     _1_30_days_overdue: "১-৩০ দিনের বকেয়া সমূহ"
@@ -27337,9 +27337,9 @@ bn:
     Withholding_tax_receipt: "Withholding tax receipt"
     WithholdingTaxReceivable: "Withholding tax receivable"
     XXX_Transactions: "{0} transactions"
-fi:
+"fi":
   percentage: 61
-  name: Finnish
+  name: "Finnish"
   translators: "Juha Auvinen, shotdog, mikko"
   strings:
     _1_30_days_overdue: "1-30 päivää myöhässä"
@@ -28038,9 +28038,9 @@ fi:
     Withholding_tax_receipt: "Withholding tax receipt"
     WithholdingTaxReceivable: "Withholding tax receivable"
     XXX_Transactions: "{0} transactions"
-my:
+"my":
   percentage: 57
-  name: Burmese
+  name: "Burmese"
   translators: "Lin Win Thu, tunwn.mdy, mbanyar033, pyephyoeaung1"
   strings:
     _1_30_days_overdue: "(၁) ရက် မှ ရက် (၃၀) အတွင်း"
@@ -28739,9 +28739,9 @@ my:
     WithholdingTaxReceivable: "Withholding tax receivable"
     WrittenOff: "Written-off"
     XXX_Transactions: "{0} transactions"
-th:
+"th":
   percentage: 57
-  name: Thai
+  name: "Thai"
   translators: "Pichaya.L, ChiVasCz, nattariya, kunthawat, ssrinora, saravuthc, suratlee, tawat.ted"
   strings:
     _1_30_days_overdue: "เกินกำหนด 1-30 วัน"
@@ -29440,9 +29440,9 @@ th:
     WriteOn: "Write-on"
     WrittenOff: "Written-off"
     XXX_Transactions: "{0} transactions"
-no:
+"no":
   percentage: 56
-  name: Norwegian Bokmål
+  name: "Norwegian Bokmål"
   translators: "Kevin Jung Park, theodor, Rune Michael Hofstad, alexander.dawson"
   strings:
     _1_30_days_overdue: "Forfalt for 1-30 dager siden"
@@ -30141,9 +30141,9 @@ no:
     WithholdingTaxReceivable: "Withholding tax receivable"
     WrittenOff: "Written-off"
     XXX_Transactions: "{0} transactions"
-ur:
+"ur":
   percentage: 50
-  name: Urdu
+  name: "Urdu"
   translators: "aasim.sethi, tmntbob, Moeen Hashmi, Hassaan Khawer, Amjad Cheema, thenewelectricstore, muhammadatif.memon, mshahid7194090, awais_sohail89, ashfaq202, jahangir.amin, ajmal.kh86, celticom, 91.syedhunain, mzraza, saqib.pcg, usrana52"
   strings:
     _1_30_days_overdue: "1 سے 30 دن زائد المیعاد"
@@ -30842,9 +30842,9 @@ ur:
     WithholdingTaxReceivable: "Withholding tax receivable"
     WrittenOff: "Written-off"
     XXX_Transactions: "{0} transactions"
-pl:
+"pl":
   percentage: 50
-  name: Polish
+  name: "Polish"
   translators: "Krzysztof Pilars, greg, goliat4, daaaaniel, atudetank, info, rzeka"
   strings:
     _1_30_days_overdue: "1-30 dni opóźnienia"
@@ -31543,9 +31543,9 @@ pl:
     WithholdingTaxReceivable: "Withholding tax receivable"
     WrittenOff: "Written-off"
     XXX_Transactions: "{0} transactions"
-ko:
+"ko":
   percentage: 48
-  name: Korean
+  name: "Korean"
   translators: "ingen"
   strings:
     _1_30_days_overdue: "1~30일연체"
@@ -32244,9 +32244,9 @@ ko:
     WithholdingTaxReceivable: "Withholding tax receivable"
     WrittenOff: "Written-off"
     XXX_Transactions: "{0} transactions"
-hu:
+"hu":
   percentage: 47
-  name: Hungarian
+  name: "Hungarian"
   translators: "radi, Pal Turcsan, pmarjai, radnog, ovari123, zolenor, gabor"
   strings:
     _1_30_days_overdue: "1-30 napja lejárt"
@@ -32945,9 +32945,9 @@ hu:
     WithholdingTaxReceivable: "Withholding tax receivable"
     WrittenOff: "Written-off"
     XXX_Transactions: "{0} transactions"
-zh-tw:
+"zh-tw":
   percentage: 44
-  name: Chinese, Taiwan
+  name: "Chinese, Taiwan"
   translators: "assanges, simon.tai, Jefferson, matt81412, c.hwa.liu, iverson83102005, macho9929"
   strings:
     _1_30_days_overdue: "逾期 1-30 天"
@@ -33646,9 +33646,9 @@ zh-tw:
     WrittenOff: "Written-off"
     XXX_Cr: "{0} Cr"
     XXX_Dr: "{0} Dr"
-hi:
+"hi":
   percentage: 41
-  name: Hindi
+  name: "Hindi"
   translators: "Sameer Gupta, anshumang244, pradeepkumarjangir, pgaworld, robin08rangi, universalmedicaregkp, ss621480, jbmakwana1, hunaidzaki, patel8795"
   strings:
     _1_30_days_overdue: "1-30 दिन अतिदेय"
@@ -34347,9 +34347,9 @@ hi:
     WrittenOff: "Written-off"
     XXX_Cr: "{0} Cr"
     XXX_Dr: "{0} Dr"
-it:
+"it":
   percentage: 36
-  name: Italian
+  name: "Italian"
   translators: "a.giordano.mi, tommaso.muro, ruozzistefano, Enrico Baioni, grassi.alessio, francesco.monte, davide, io, webmaster, brigo92.pb, aces85, info, Daniele Giulianelli, piccioli66, m.apice74, jessica.oppedisano, nlogozzo123, aurasanu, alby, fbgulotta"
   strings:
     _1_30_days_overdue: "Scaduto 1-30 giorni"
@@ -35048,9 +35048,9 @@ it:
     XxxHours: "{0}h"
     XxxMinutes: "{0}m"
     XXX_Transactions: "{0} transactions"
-mn:
+"mn":
   percentage: 35
-  name: Mongolian
+  name: "Mongolian"
   translators: "munkh.munkhsoyol, dulguunb, ireedui2k5, daj_bud"
   strings:
     _1_30_days_overdue: "1-30 өдрөөр хугацаа хэтэрсэн"
@@ -35749,9 +35749,9 @@ mn:
     XxxHours: "{0}h"
     XxxMinutes: "{0}m"
     XXX_Transactions: "{0} transactions"
-bg:
+"bg":
   percentage: 31
-  name: Bulgarian
+  name: "Bulgarian"
   translators: "y.hinov, simeonov.martin, krapchev, dimo.chankov, ivanov.ivaylo"
   strings:
     _1_30_days_overdue: "1-30 дни просрочване"
@@ -36450,9 +36450,9 @@ bg:
     XxxHours: "{0}h"
     XxxMinutes: "{0}m"
     XXX_Transactions: "{0} transactions"
-uk:
+"uk":
   percentage: 26
-  name: Ukrainian
+  name: "Ukrainian"
   translators: "dgorbachov, julia.litovenko, swet92, d.matiushko"
   strings:
     _1_30_days_overdue: "Прострочено 1–30 днів"
@@ -37151,9 +37151,9 @@ uk:
     XxxHours: "{0}h"
     XxxMinutes: "{0}m"
     XXX_Transactions: "{0} transactions"
-ne:
+"ne":
   percentage: 26
-  name: Nepali
+  name: "Nepali"
   translators: "Shital Subedi, psychrabi, rushon_4life, srsroshan16, knocktouraj, surendra.chand8"
   strings:
     _1_30_days_overdue: "१-३० दिन भाका नाघेको"
@@ -37852,9 +37852,9 @@ ne:
     XxxHours: "{0}h"
     XxxMinutes: "{0}m"
     XXX_Transactions: "{0} transactions"
-ku:
+"ku":
   percentage: 24
-  name: Kurdish
+  name: "Kurdish"
   translators: "diyako, eye.aram, ibrahimqadir, rebazsalih, barhambakr"
   strings:
     _1_30_days_overdue: "١ بۆ ٣٠ ڕۆژ دواكەوتوو"
@@ -38553,9 +38553,9 @@ ku:
     XxxHours: "{0}h"
     XxxMinutes: "{0}m"
     XXX_Transactions: "{0} transactions"
-so:
+"so":
   percentage: 23
-  name: Somali
+  name: "Somali"
   translators: "hasantanni, mudey001, liinxasan10"
   strings:
     _1_30_days_overdue: "Deyn Ku Eeg 1-30 maalmood."
@@ -39254,9 +39254,9 @@ so:
     XxxHours: "{0}h"
     XxxMinutes: "{0}m"
     XXX_Transactions: "{0} transactions"
-he:
+"he":
   percentage: 23
-  name: Hebrew
+  name: "Hebrew"
   translators: "Isaac Portal, sergey.rav, nir, danielh101"
   strings:
     _1_30_days_overdue: "30-1 ימי איחור"
@@ -39955,9 +39955,9 @@ he:
     XXX_Cr: "{0} Cr"
     XXX_Dr: "{0} Dr"
     XXX_Transactions: "{0} transactions"
-be:
+"be":
   percentage: 20
-  name: Belarusian
+  name: "Belarusian"
   translators: "6598335"
   strings:
     _1_30_days_overdue: "1-30 дзён пратэрміноўкі"
@@ -40656,9 +40656,9 @@ be:
     XxxHours: "{0}h"
     XxxMinutes: "{0}m"
     XXX_Transactions: "{0} transactions"
-ml:
+"ml":
   percentage: 18
-  name: Malayalam
+  name: "Malayalam"
   translators: "supergassales, shinerajendran, xkaterboi, chinturj, rafeekpp, muraliksa, sameerudma, spacesofttech, sameeh1986, musthafaanas"
   strings:
     Account: "വ്യാപാര ഇടപാട്"
@@ -41357,9 +41357,9 @@ ml:
     XxxHours: "{0}h"
     XxxMinutes: "{0}m"
     XXX_Transactions: "{0} transactions"
-gl:
+"gl":
   percentage: 17
-  name: Galician
+  name: "Galician"
   translators: "Diego Represas"
   strings:
     _1_30_days_overdue: "1-30 días atrasado"
@@ -42058,9 +42058,9 @@ gl:
     XxxHours: "{0}h"
     XxxMinutes: "{0}m"
     XXX_Transactions: "{0} transactions"
-cs:
+"cs":
   percentage: 17
-  name: Czech
+  name: "Czech"
   translators: "lukas, Daniel Vítek, karel.jakub, Petr Paťha"
   strings:
     ActualBalance: "Aktuální zůstatek"
@@ -42759,9 +42759,9 @@ cs:
     XxxHours: "{0}h"
     XxxMinutes: "{0}m"
     XXX_Transactions: "{0} transactions"
-fy:
+"fy":
   percentage: 17
-  name: Western Frisian
+  name: "Western Frisian"
   translators: "land_wilco"
   strings:
     _1_30_days_overdue: "1-30 dagen efterstallich"
@@ -43460,9 +43460,9 @@ fy:
     XxxHours: "{0}h"
     XxxMinutes: "{0}m"
     XXX_Transactions: "{0} transactions"
-ka:
+"ka":
   percentage: 16
-  name: Georgian
+  name: "Georgian"
   translators: "sssfile, g.mikaia, gzirishvili, bmamuka, gzviadadze"
   strings:
     _1_30_days_overdue: "1-30 დღემდე ვადაგადაცილება"
@@ -44161,9 +44161,9 @@ ka:
     XxxHours: "{0}h"
     XxxMinutes: "{0}m"
     XXX_Transactions: "{0} transactions"
-gu:
+"gu":
   percentage: 10
-  name: Gujarati
+  name: "Gujarati"
   translators: "thenewelectricstore, Mayur Vyas, samism.91, info.navkarsoftware, patel8795"
   strings:
     _1_30_days_overdue: "1-30 દિવસો પછીનું"
@@ -44862,9 +44862,9 @@ gu:
     XxxHours: "{0}h"
     XxxMinutes: "{0}m"
     XXX_Transactions: "{0} transactions"
-as:
+"as":
   percentage: 8
-  name: Assamese
+  name: "Assamese"
   translators: "mishra.ksarma2014, mksarma.ngo"
   strings:
     Account: "একাউন্ট"
@@ -45563,9 +45563,9 @@ as:
     XxxHours: "{0}h"
     XxxMinutes: "{0}m"
     XXX_Transactions: "{0} transactions"
-kk:
+"kk":
   percentage: 7
-  name: Kazakh
+  name: "Kazakh"
   translators: "genakarpov97"
   strings:
     _1_day: "1 күн"
@@ -46264,9 +46264,9 @@ kk:
     XXX_Cr: "{0} Cr"
     XXX_Dr: "{0} Dr"
     XXX_Transactions: "{0} transactions"
-km:
+"km":
   percentage: 7
-  name: Khmer
+  name: "Khmer"
   translators: "admin, translate"
   strings:
     Account: "គណនី"
@@ -46965,9 +46965,9 @@ km:
     XxxHours: "{0}h"
     XxxMinutes: "{0}m"
     XXX_Transactions: "{0} transactions"
-sw:
+"sw":
   percentage: 6
-  name: Swahili
+  name: "Swahili"
   translators: "atbazel, faraji5, jamesmpemba, kweixalice, mjema.ezekiel"
   strings:
     Account: "Akaunti"
@@ -47666,9 +47666,9 @@ sw:
     XxxHours: "{0}h"
     XxxMinutes: "{0}m"
     XXX_Transactions: "{0} transactions"
-ja:
+"ja":
   percentage: 6
-  name: Japanese
+  name: "Japanese"
   translators: "matsumoto, htapmk22"
   strings:
     _1_30_days_overdue: "1-30日遅延債権"
@@ -48367,9 +48367,9 @@ ja:
     XxxHours: "{0}h"
     XxxMinutes: "{0}m"
     XXX_Transactions: "{0} transactions"
-lv:
+"lv":
   percentage: 3
-  name: Latvian
+  name: "Latvian"
   translators: "sk, inaram"
   strings:
     Account: "Konts"
@@ -49068,9 +49068,9 @@ lv:
     XxxHours: "{0}h"
     XxxMinutes: "{0}m"
     XXX_Transactions: "{0} transactions"
-tw:
+"tw":
   percentage: 2
-  name: Twi
+  name: "Twi"
   translators: "nanakwamester"
   strings:
     Account: "Akkaunto"
@@ -49769,9 +49769,9 @@ tw:
     XxxHours: "{0}h"
     XxxMinutes: "{0}m"
     XXX_Transactions: "{0} transactions"
-kn:
+"kn":
   percentage: 2
-  name: Kannada
+  name: "Kannada"
   translators: ""
   strings:
     Assets: "ಆಸ್ತಿಗಳು"
@@ -50470,9 +50470,9 @@ kn:
     XxxHours: "{0}h"
     XxxMinutes: "{0}m"
     XXX_Transactions: "{0} transactions"
-hy:
+"hy":
   percentage: 2
-  name: Armenian
+  name: "Armenian"
   translators: ""
   strings:
     Assets: "Ակտիվներ"
@@ -51171,9 +51171,9 @@ hy:
     XxxHours: "{0}h"
     XxxMinutes: "{0}m"
     XXX_Transactions: "{0} transactions"
-mt:
+"mt":
   percentage: 2
-  name: Maltese
+  name: "Maltese"
   translators: ""
   strings:
     Assets: "Assi"
@@ -51872,9 +51872,9 @@ mt:
     XxxHours: "{0}h"
     XxxMinutes: "{0}m"
     XXX_Transactions: "{0} transactions"
-bo:
+"bo":
   percentage: 1
-  name: Tibetan
+  name: "Tibetan"
   translators: "mlbodyig"
   strings:
     Account: "རྩིས་ཁྲ།"
@@ -52573,9 +52573,9 @@ bo:
     XxxHours: "{0}h"
     XxxMinutes: "{0}m"
     XXX_Transactions: "{0} transactions"
-ps:
+"ps":
   percentage: 0
-  name: Pushto
+  name: "Pushto"
   translators: "Sherwali Mayar"
   strings:
     Account: "Account"
@@ -53274,9 +53274,9 @@ ps:
     XxxHours: "{0}h"
     XxxMinutes: "{0}m"
     XXX_Transactions: "{0} transactions"
-tk:
+"tk":
   percentage: 0
-  name: Turkmen
+  name: "Turkmen"
   translators: "azat"
   strings:
     Account: "Account"
@@ -53975,9 +53975,9 @@ tk:
     XxxHours: "{0}h"
     XxxMinutes: "{0}m"
     XXX_Transactions: "{0} transactions"
-mr:
+"mr":
   percentage: 0
-  name: Marathi
+  name: "Marathi"
   translators: "mktgsols"
   strings:
     Account: "Account"
