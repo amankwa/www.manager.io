@@ -1,0 +1,2088 @@
+﻿[
+  {
+    "id": 5490,
+    "title": "Set reporting period",
+    "tags": [
+      "summary",
+      "summary-start-date-form"
+    ]
+  },
+  {
+    "id": 5494,
+    "title": "Set starting balances for customers",
+    "tags": [
+      "customers",
+      "starting-balances",
+      "customer-form",
+      "starting-balances-for-customer-invoices",
+      "starting-balances-for-customers"
+    ]
+  },
+  {
+    "id": 5495,
+    "title": "Pay a refund",
+    "tags": [
+      "receipts-and-payments",
+      "receipt-or-payment-form",
+      "receipt-or-payment-view"
+    ]
+  },
+  {
+    "id": 5497,
+    "title": "Set starting balances for inventory items",
+    "tags": [
+      "inventory-items",
+      "batch-operations",
+      "starting-balances",
+      "inventory-item-form"
+    ]
+  },
+  {
+    "id": 5500,
+    "title": "Use production orders for repairs, maintenance, or improvements",
+    "tags": [
+      "inventory-items",
+      "production-orders",
+      "production-order-view",
+      "production-order-form"
+    ]
+  },
+  {
+    "id": 5502,
+    "title": "Invoice billable time",
+    "tags": [
+      "sales-invoices",
+      "customers",
+      "billable-time-entries"
+    ]
+  },
+  {
+    "id": 5503,
+    "title": "Record billable expenses",
+    "tags": [
+      "customers",
+      "billable-expenses",
+      "receipts-and-payments",
+      "receipt-or-payment-form",
+      "receipt-or-payment-view"
+    ]
+  },
+  {
+    "id": 5510,
+    "title": "Set lock date",
+    "tags": [
+      "settings",
+      "lock-date-form"
+    ]
+  },
+  {
+    "id": 5649,
+    "title": "Adjust tax accounting for partial personal use",
+    "tags": [
+      "tax-codes",
+      "payment-form"
+    ]
+  },
+  {
+    "id": 6263,
+    "title": "Import a sample business",
+    "tags": [
+      "businesses"
+    ]
+  },
+  {
+    "id": 6898,
+    "title": "Use expense claims",
+    "tags": [
+      "expense-claims",
+      "expense-claim-view",
+      "expense-claim-form",
+      "expense-claims-payers",
+      "expense-claims-payer-form"
+    ]
+  },
+  {
+    "id": 6935,
+    "title": "Record billable time",
+    "tags": [
+      "billable-time",
+      "customers",
+      "billable-time-entries",
+      "billable-time-form"
+    ]
+  },
+  {
+    "id": 6971,
+    "title": "Simplify equity accounting for sole traders / proprietors",
+    "tags": [
+      "capital-accounts",
+      "retained-earnings",
+      "owner's-equity",
+      "chart-of-accounts"
+    ]
+  },
+  {
+    "id": 7018,
+    "title": "Enter customers",
+    "tags": [
+      "customers",
+      "customer-form"
+    ]
+  },
+  {
+    "id": 7020,
+    "title": "Enter suppliers",
+    "tags": [
+      "suppliers",
+      "supplier-form"
+    ]
+  },
+  {
+    "id": 7022,
+    "title": "Issue customer statements",
+    "tags": [
+      "reports",
+      "customers",
+      "customer-statements-unpaid-invoices",
+      "customer-statements-transactions",
+      "customer-statements-transactions-view",
+      "customer-statements-transactions-form",
+      "customer-statements-unpaid-invoices-form",
+      "customer-statements-unpaid-invoices-view"
+    ]
+  },
+  {
+    "id": 7023,
+    "title": "Issue supplier statements",
+    "tags": [
+      "reports",
+      "suppliers",
+      "supplier-statements-unpaid-invoices",
+      "supplier-statements-unpaid-invoices-view",
+      "supplier-statements-transactions",
+      "supplier-statements-transactions-view",
+      "supplier-statements-unpaid-invoices-form",
+      "supplier-statements-transactions-form"
+    ]
+  },
+  {
+    "id": 7035,
+    "title": "Set up credit cards",
+    "tags": [
+      "bank-accounts",
+      "bank-account-form"
+    ]
+  },
+  {
+    "id": 7043,
+    "title": "Set date format",
+    "tags": [
+      "preferences",
+      "date-format-form"
+    ]
+  },
+  {
+    "id": 7054,
+    "title": "Refresh unit prices on sales invoices",
+    "tags": [
+      "sales-invoice-form"
+    ]
+  },
+  {
+    "id": 7067,
+    "title": "Experiment with a test business",
+    "tags": [
+      "businesses"
+    ]
+  },
+  {
+    "id": 7093,
+    "title": "Record customer deposits and advances",
+    "tags": [
+      "customers",
+      "receipts-and-payments",
+      "receipt-or-payment-form",
+      "receipt-or-payment-view",
+      "customer-transactions"
+    ]
+  },
+  {
+    "id": 7095,
+    "title": "Record supplier deposits and advances",
+    "tags": [
+      "suppliers",
+      "receipts-and-payments",
+      "receipt-or-payment-form",
+      "receipt-or-payment-view"
+    ]
+  },
+  {
+    "id": 7106,
+    "title": "Clear transactions in Suspense account",
+    "tags": [
+      "summary",
+      "chart-of-accounts"
+    ]
+  },
+  {
+    "id": 7116,
+    "title": "Install or update desktop edition on macOS",
+    "tags": [
+      "support"
+    ]
+  },
+  {
+    "id": 7128,
+    "title": "Set and display account codes",
+    "tags": [
+      "summary",
+      "chart-of-accounts",
+      "settings",
+      "summary-start-date-form"
+    ]
+  },
+  {
+    "id": 7129,
+    "title": "Choose between accrual or cash basis accounting",
+    "tags": [
+      "reports",
+      "summary",
+      "summary-start-date-form"
+    ]
+  },
+  {
+    "id": 7171,
+    "title": "Work with multi-component custom tax codes",
+    "tags": [
+      "tax-codes"
+    ]
+  },
+  {
+    "id": 7178,
+    "title": "Create sales invoices",
+    "tags": [
+      "sales-invoices",
+      "customers",
+      "sales-invoice-form",
+      "sales-order-view",
+      "sales-quote-view",
+      "sales-invoice-view",
+      "purchase-invoice-view"
+    ]
+  },
+  {
+    "id": 7189,
+    "title": "Create purchase invoices",
+    "tags": [
+      "purchase-invoices",
+      "sales-order-view",
+      "purchase-invoice-form",
+      "sales-quote-view",
+      "sales-invoice-view",
+      "purchase-order-view"
+    ]
+  },
+  {
+    "id": 7210,
+    "title": "Issue purchase orders",
+    "tags": [
+      "purchase-orders",
+      "sales-order-view",
+      "sales-quote-view",
+      "sales-invoice-view",
+      "purchase-order-form",
+      "purchase-order-view"
+    ]
+  },
+  {
+    "id": 7226,
+    "title": "Set up accounts receivable",
+    "tags": [
+      "customers",
+      "chart-of-accounts"
+    ]
+  },
+  {
+    "id": 7227,
+    "title": "Set starting balances for suppliers",
+    "tags": [
+      "suppliers",
+      "starting-balances",
+      "settings",
+      "purchase-invoice-form",
+      "supplier-form",
+      "starting-balances-for-supplier-invoices",
+      "supplier-transactions",
+      "starting-balances-for-suppliers"
+    ]
+  },
+  {
+    "id": 7236,
+    "title": "Create sales orders",
+    "tags": [
+      "sales-orders",
+      "sales-order-form",
+      "sales-order-view",
+      "sales-quote-view",
+      "sales-invoice-view"
+    ]
+  },
+  {
+    "id": 7238,
+    "title": "Create sales quotes",
+    "tags": [
+      "sales-quotes",
+      "sales-quote-form",
+      "sales-quote-view",
+      "sales-invoice-view"
+    ]
+  },
+  {
+    "id": 7262,
+    "title": "Use Copy to function",
+    "tags": [
+      "sales-invoices",
+      "purchase-invoices",
+      "credit-notes",
+      "sales-quotes",
+      "sales-orders",
+      "purchase-orders",
+      "debit-notes",
+      "delivery-notes",
+      "goods-receipts",
+      "sales-order-view",
+      "sales-quote-view",
+      "credit-note-view",
+      "sales-invoice-view",
+      "purchase-invoice-view",
+      "purchase-order-view",
+      "goods-receipt-view",
+      "debit-note-view",
+      "supplier-statement-unpaid-invoices-view",
+      "receipts-and-payments",
+      "receipt-or-payment-view"
+    ]
+  },
+  {
+    "id": 7277,
+    "title": "Expense fixed assets",
+    "tags": [
+      "fixed-assets"
+    ]
+  },
+  {
+    "id": 7307,
+    "title": "Track cleared and pending status of bank transactions",
+    "tags": [
+      "bank-accounts",
+      "inter-account-transfer-form"
+    ]
+  },
+  {
+    "id": 7321,
+    "title": "Make cash sales (sell without sales invoices)",
+    "tags": [
+      "receipts-and-payments",
+      "receipt-or-payment-form",
+      "receipt-or-payment-view"
+    ]
+  },
+  {
+    "id": 7325,
+    "title": "Make cash purchases (purchase without purchase invoices)",
+    "tags": [
+      "receipts-and-payments",
+      "receipt-or-payment-form",
+      "receipt-or-payment-view"
+    ]
+  },
+  {
+    "id": 7344,
+    "title": "Create non-inventory items",
+    "tags": [
+      "non-inventory-items",
+      "settings",
+      "non-inventory-item-form"
+    ]
+  },
+  {
+    "id": 7397,
+    "title": "Simplify Manager",
+    "tags": [
+      "summary",
+      "businesses",
+      "tabs"
+    ]
+  },
+  {
+    "id": 7425,
+    "title": "Use credit notes for customer returns and refunds",
+    "tags": [
+      "credit-notes",
+      "credit-note-form",
+      "credit-note-view",
+      "sales-invoice-view"
+    ]
+  },
+  {
+    "id": 7426,
+    "title": "Use debit notes for supplier returns and refunds",
+    "tags": [
+      "debit-notes",
+      "debit-note-view",
+      "debit-note-form"
+    ]
+  },
+  {
+    "id": 7468,
+    "title": "Create reports",
+    "tags": [
+      "reports",
+      "profit-and-loss-statement-list",
+      "balance-sheet-list",
+      "statement-of-changes-in-equity-list",
+      "bank-reconciliation-statement-list",
+      "cash-summary-list",
+      "trial-balance-list",
+      "general-ledger-summary-list",
+      "general-ledger-transactions-list",
+      "tax-audit-list",
+      "tax-reconciliation-list",
+      "tax-transactions-list",
+      "custom-tax-report-list",
+      "aged-receivables-list",
+      "aged-payables-list",
+      "inventory-value-movement-list",
+      "inventory-quantity-movement-list",
+      "inventory-profit-margin-list",
+      "fixed-asset-summary-list",
+      "intangible-asset-summary-list",
+      "expense-claims-summary-list",
+      "capital-accounts-summary-list",
+      "work-in-progress-report-list",
+      "payslip-summary-list",
+      "payslip-deductions-summary-list",
+      "payslip-contributions-summary-list",
+      "tracking-exception-report-list"
+    ]
+  },
+  {
+    "id": 7470,
+    "title": "Close an accounting period",
+    "tags": [
+      "summary",
+      "summary-start-date-form"
+    ]
+  },
+  {
+    "id": 7551,
+    "title": "Create and manage inventory items",
+    "tags": [
+      "inventory-items",
+      "inventory-item-form"
+    ]
+  },
+  {
+    "id": 7716,
+    "title": "Use customer codes",
+    "tags": [
+      "customers",
+      "themes",
+      "customer-form"
+    ]
+  },
+  {
+    "id": 7767,
+    "title": "Use production orders to manufacture inventory items",
+    "tags": [
+      "production-orders",
+      "production-order-view",
+      "production-order-form"
+    ]
+  },
+  {
+    "id": 7820,
+    "title": "Record a receipt",
+    "tags": [
+      "receipts-and-payments",
+      "receipt-or-payment-form",
+      "receipt-or-payment-view"
+    ]
+  },
+  {
+    "id": 7821,
+    "title": "Record a payment",
+    "tags": [
+      "receipts-and-payments",
+      "receipt-or-payment-form",
+      "receipt-or-payment-view"
+    ]
+  },
+  {
+    "id": 7877,
+    "title": "Change a form title",
+    "tags": [
+      "themes",
+      "theme-form",
+      "theme-view"
+    ]
+  },
+  {
+    "id": 8394,
+    "title": "Manage application data folder contents",
+    "tags": [
+      "preferences"
+    ]
+  },
+  {
+    "id": 8679,
+    "title": "Find and recode bank transactions",
+    "tags": [
+      "receipts-and-payments",
+      "find-and-recode-receipts-and-payments"
+    ]
+  },
+  {
+    "id": 8855,
+    "title": "Issue your first invoice to a customer",
+    "tags": [
+      "sales-invoices",
+      "sales-invoice-form",
+      "sales-invoice-view"
+    ]
+  },
+  {
+    "id": 8865,
+    "title": "Customize a business",
+    "tags": [
+      "summary",
+      "businesses",
+      "tabs"
+    ]
+  },
+  {
+    "id": 8867,
+    "title": "Use compact mode on small screens",
+    "tags": [
+      "businesses"
+    ]
+  },
+  {
+    "id": 8889,
+    "title": "Prepare a quick profit and loss statement",
+    "tags": [
+      "reports",
+      "profit-and-loss-statement-list",
+      "profit-and-loss-statement-view"
+    ]
+  },
+  {
+    "id": 8890,
+    "title": "Backup, restore and transfer businesses",
+    "tags": [
+      "settings",
+      "businesses",
+      "business-details-form",
+      "import-business",
+      "remove-business"
+    ]
+  },
+  {
+    "id": 8893,
+    "title": "Name or rename a business",
+    "tags": [
+      "businesses"
+    ]
+  },
+  {
+    "id": 8901,
+    "title": "Create tax codes",
+    "tags": [
+      "tax-codes",
+      "settings",
+      "in-built-tax-code-form",
+      "tax-code-form",
+      "new-tax-code"
+    ]
+  },
+  {
+    "id": 8936,
+    "title": "Set up and use capital accounts",
+    "tags": [
+      "capital-accounts",
+      "capital-subaccounts",
+      "capital-subaccount-form",
+      "capital-account-form"
+    ]
+  },
+  {
+    "id": 8941,
+    "title": "Use custom fields",
+    "tags": [
+      "custom-fields",
+      "non-inventory-items",
+      "cash-account-form",
+      "customer-form",
+      "sales-quote-form",
+      "sales-invoice-form",
+      "sales-order-form",
+      "expense-claim-form",
+      "purchase-invoice-form",
+      "journal-entry-form",
+      "credit-note-form",
+      "purchase-order-form",
+      "goods-receipt-form",
+      "supplier-form",
+      "debit-note-form",
+      "inventory-item-form",
+      "production-order-form",
+      "payslip-form",
+      "employee-form",
+      "billable-time-entry-form",
+      "fixed-asset-form",
+      "intangible-asset-form",
+      "folder-form",
+      "custom-field-form",
+      "delivery-note-form",
+      "inventory-transfer-form",
+      "inventory-write-off-form",
+      "bank-account-form",
+      "receipts-and-payments",
+      "receipt-or-payment-form",
+      "receipt-or-payment-view"
+    ]
+  },
+  {
+    "id": 8956,
+    "title": "Use tracking codes",
+    "tags": [
+      "reports",
+      "tracking-codes",
+      "settings",
+      "tracking-exception-report-list",
+      "tracking-code-form",
+      "tracking-exception-report-form",
+      "tracking-exception-report-view"
+    ]
+  },
+  {
+    "id": 8960,
+    "title": "Account for GST on goods imported to Australia",
+    "tags": [
+      "tax-codes"
+    ]
+  },
+  {
+    "id": 8965,
+    "title": "Design a chart of accounts",
+    "tags": [
+      "summary",
+      "chart-of-accounts",
+      "settings"
+    ]
+  },
+  {
+    "id": 9100,
+    "title": "Troubleshoot email issues",
+    "tags": [
+      "email-settings",
+      "settings",
+      "emails"
+    ]
+  },
+  {
+    "id": 9106,
+    "title": "Purchase fixed assets",
+    "tags": [
+      "fixed-assets",
+      "fixed-asset-form",
+      "fixed-asset-transactions",
+      "fixed-assets-accumulated-depreciation-transactions",
+      "receipts-and-payments"
+    ]
+  },
+  {
+    "id": 9107,
+    "title": "Migrate fixed assets from prior accounting system",
+    "tags": [
+      "fixed-assets",
+      "starting-balances",
+      "fixed-asset-form",
+      "fixed-asset-transactions",
+      "fixed-asset-accumulated-depreciation-transactions",
+      "starting-balances-for-fixed-assets"
+    ]
+  },
+  {
+    "id": 9119,
+    "title": "Depreciate fixed assets",
+    "tags": [
+      "fixed-assets",
+      "fixed-asset-accumulated-depreciation-transactions",
+      "fixed-asset-depreciation-form"
+    ]
+  },
+  {
+    "id": 9121,
+    "title": "Dispose of fixed assets",
+    "tags": [
+      "fixed-assets",
+      "fixed-asset-form"
+    ]
+  },
+  {
+    "id": 9123,
+    "title": "Remove a business",
+    "tags": [
+      "businesses"
+    ]
+  },
+  {
+    "id": 9155,
+    "title": "Set number format",
+    "tags": [
+      "preferences",
+      "number-format-form"
+    ]
+  },
+  {
+    "id": 9156,
+    "title": "Set language",
+    "tags": [
+      "preferences",
+      "language-form"
+    ]
+  },
+  {
+    "id": 9158,
+    "title": "Use multiple currencies",
+    "tags": [
+      "employees",
+      "cash-accounts",
+      "expense-claims",
+      "customers",
+      "suppliers",
+      "journal-entries",
+      "summary",
+      "settings",
+      "cash-account-form",
+      "customer-form",
+      "expense-claim-form",
+      "journal-entry-form",
+      "supplier-form",
+      "employee-form",
+      "exchange-rates",
+      "exchange-rate-form",
+      "bank-accounts",
+      "bank-account-form"
+    ]
+  },
+  {
+    "id": 9162,
+    "title": "Create users",
+    "tags": [
+      "users"
+    ]
+  },
+  {
+    "id": 9181,
+    "title": "Build a chart of accounts",
+    "tags": [
+      "chart-of-accounts",
+      "settings",
+      "balance-sheet-account-form",
+      "profit-and-loss-statement-account-form",
+      "balance-sheet-group-form",
+      "profit-and-loss-statement-group-form",
+      "profit-and-loss-statement-subtotal-form"
+    ]
+  },
+  {
+    "id": 9219,
+    "title": "Set up a cash account",
+    "tags": [
+      "cash-accounts",
+      "cash-account-form"
+    ]
+  },
+  {
+    "id": 9235,
+    "title": "Reconcile bank accounts",
+    "tags": [
+      "bank-reconciliation-statement-list",
+      "bank-accounts",
+      "bank-reconciliation-statement-view",
+      "bank-reconciliation-statement-form"
+    ]
+  },
+  {
+    "id": 9240,
+    "title": "Import bank statements",
+    "tags": [
+      "import-bank-statement-form",
+      "bank-accounts",
+      "bank-account-transactions"
+    ]
+  },
+  {
+    "id": 9243,
+    "title": "Use bank rules to categorize imported transactions",
+    "tags": [
+      "bank-rules",
+      "settings",
+      "import-bank-statement-form",
+      "bank-rule-form",
+      "bank-accounts",
+      "uncategorized-bank-transactions"
+    ]
+  },
+  {
+    "id": 9256,
+    "title": "Add custom control accounts",
+    "tags": [
+      "fixed-assets",
+      "chart-of-accounts",
+      "intangible-assets",
+      "settings",
+      "balance-sheet-account-form"
+    ]
+  },
+  {
+    "id": 9265,
+    "title": "Add a business",
+    "tags": [
+      "businesses"
+    ]
+  },
+  {
+    "id": 9309,
+    "title": "Set up accounts payable",
+    "tags": [
+      "suppliers",
+      "chart-of-accounts"
+    ]
+  },
+  {
+    "id": 9312,
+    "title": "Use supplier codes",
+    "tags": [
+      "suppliers",
+      "themes",
+      "supplier-form"
+    ]
+  },
+  {
+    "id": 9450,
+    "title": "Manage inactive customers",
+    "tags": [
+      "customers",
+      "customer-form"
+    ]
+  },
+  {
+    "id": 9451,
+    "title": "Edit or add customer information",
+    "tags": [
+      "customers",
+      "customer-form"
+    ]
+  },
+  {
+    "id": 9466,
+    "title": "Manage inactive suppliers",
+    "tags": [
+      "suppliers",
+      "supplier-form"
+    ]
+  },
+  {
+    "id": 9470,
+    "title": "Edit or add supplier information",
+    "tags": [
+      "suppliers",
+      "supplier-form"
+    ]
+  },
+  {
+    "id": 9488,
+    "title": "Set up and manage recurring invoices",
+    "tags": [
+      "sales-invoices",
+      "purchase-invoices",
+      "recurring-sales-invoices",
+      "recurring-sales-invoice-form",
+      "recurring-purchase-invoices",
+      "recurring-purchase-invoice-form"
+    ]
+  },
+  {
+    "id": 9499,
+    "title": "Adjust rounding differences on purchase invoices",
+    "tags": [
+      "purchase-invoices",
+      "purchase-invoice-form"
+    ]
+  },
+  {
+    "id": 9502,
+    "title": "Choose between tax-exclusive and tax-inclusive prices",
+    "tags": [
+      "sales-invoices",
+      "purchase-invoices",
+      "tax-codes",
+      "sales-quote-form",
+      "sales-invoice-form",
+      "sales-order-form",
+      "purchase-invoice-form",
+      "credit-note-form",
+      "sales-invoice-view",
+      "purchase-invoice-view",
+      "purchase-order-form",
+      "debit-note-form",
+      "inventory-item-form",
+      "non-inventory-item-form",
+      "receipts-and-payments",
+      "receipt-or-payment-form",
+      "receipt-or-payment-view"
+    ]
+  },
+  {
+    "id": 9572,
+    "title": "Use Batch Create and Batch Update functions",
+    "tags": [
+      "employees",
+      "inventory-items",
+      "customers",
+      "suppliers",
+      "batch-operations",
+      "fixed-assets",
+      "tracking-codes",
+      "non-inventory-items",
+      "intangible-assets",
+      "batch-create",
+      "batch-update",
+      "batch-delete",
+      "exchange-rates",
+      "receipts-and-payments"
+    ]
+  },
+  {
+    "id": 9610,
+    "title": "Add freight-in to inventory item costs",
+    "tags": [
+      "purchase-invoices",
+      "inventory-items",
+      "purchase-invoice-form"
+    ]
+  },
+  {
+    "id": 9629,
+    "title": "Use inventory kits",
+    "tags": [
+      "inventory-items",
+      "settings",
+      "inventory-kits",
+      "inventory-kit-form",
+      "inventory-kit-view"
+    ]
+  },
+  {
+    "id": 9649,
+    "title": "Add billable time details with custom fields",
+    "tags": [
+      "billable-time",
+      "custom-fields",
+      "settings",
+      "billable-time-entries",
+      "billable-time-entry-form"
+    ]
+  },
+  {
+    "id": 9650,
+    "title": "Transfer money between bank and cash accounts",
+    "tags": [
+      "cash-accounts",
+      "bank-accounts",
+      "inter-account-transfers",
+      "inter-account-transfer-form",
+      "inter-account-transfer-view"
+    ]
+  },
+  {
+    "id": 9651,
+    "title": "Write off billable expenses",
+    "tags": [
+      "billable-expenses",
+      "billable-expense-form"
+    ]
+  },
+  {
+    "id": 9652,
+    "title": "Invoice billable expenses",
+    "tags": [
+      "sales-invoices",
+      "customers",
+      "billable-expenses",
+      "billable-expense-form"
+    ]
+  },
+  {
+    "id": 9655,
+    "title": "Offset simultaneous sales and purchase invoices",
+    "tags": [
+      "sales-invoices",
+      "purchase-invoices",
+      "journal-entries",
+      "journal-entry-form"
+    ]
+  },
+  {
+    "id": 9667,
+    "title": "Set up payslip items",
+    "tags": [
+      "payslips",
+      "settings",
+      "payslip-view",
+      "payslip-form",
+      "payslip-items",
+      "payslip-earnings-item-form",
+      "payslip-deduction-item-form",
+      "payslip-employer-contribution-item-form"
+    ]
+  },
+  {
+    "id": 9700,
+    "title": "Purchase intangible assets",
+    "tags": [
+      "intangible-assets",
+      "intangible-asset-form",
+      "intangible-asset-transactions",
+      "receipts-and-payments"
+    ]
+  },
+  {
+    "id": 9701,
+    "title": "Amortize intangible assets",
+    "tags": [
+      "intangible-assets",
+      "intangible-asset-accumulated-amortization-transact"
+    ]
+  },
+  {
+    "id": 9702,
+    "title": "Dispose of intangible assets",
+    "tags": [
+      "intangible-assets",
+      "intangible-asset-form"
+    ]
+  },
+  {
+    "id": 9713,
+    "title": "Migrate intangible assets from prior accounting system",
+    "tags": [
+      "intangible-assets",
+      "intangible-asset-form",
+      "intangible-asset-accumulated-amortization-transact",
+      "starting-balances-for-intangible-assets"
+    ]
+  },
+  {
+    "id": 9751,
+    "title": "Enter employees",
+    "tags": [
+      "employees",
+      "employee-form",
+      "starting-balances-for-employees",
+      "employee-transactions"
+    ]
+  },
+  {
+    "id": 9752,
+    "title": "Issue payslips",
+    "tags": [
+      "payslips",
+      "payslip-view",
+      "payslip-form"
+    ]
+  },
+  {
+    "id": 9753,
+    "title": "Set up and manage recurring payslips",
+    "tags": [
+      "payslips",
+      "recurring-payslips",
+      "recurring-payslip-form"
+    ]
+  },
+  {
+    "id": 9768,
+    "title": "Pay employees",
+    "tags": [
+      "employees",
+      "payslips",
+      "payslip-view",
+      "receipts-and-payments",
+      "receipt-or-payment-form",
+      "receipt-or-payment-view"
+    ]
+  },
+  {
+    "id": 9783,
+    "title": "Set start date",
+    "tags": [
+      "starting-balances",
+      "settings",
+      "start-date-form"
+    ]
+  },
+  {
+    "id": 9812,
+    "title": "Add an account",
+    "tags": [
+      "chart-of-accounts",
+      "settings",
+      "balance-sheet-account-form",
+      "profit-and-loss-statement-account-form",
+      "balance-sheet-control-account-form",
+      "profit-and-loss-statement-control-account-form"
+    ]
+  },
+  {
+    "id": 9813,
+    "title": "Delete an account",
+    "tags": [
+      "chart-of-accounts",
+      "settings"
+    ]
+  },
+  {
+    "id": 9816,
+    "title": "Organize attachments with folders",
+    "tags": [
+      "folders",
+      "folder-view",
+      "folder-form"
+    ]
+  },
+  {
+    "id": 9817,
+    "title": "Attach supporting documentation",
+    "tags": [
+      "expense-claim-view",
+      "sales-order-view",
+      "sales-quote-view",
+      "credit-note-view",
+      "sales-invoice-view",
+      "purchase-invoice-view",
+      "purchase-order-view",
+      "delivery-note-view",
+      "goods-receipt-view",
+      "journal-entry-view",
+      "debit-note-view",
+      "inventory-transfer-view",
+      "production-order-view",
+      "payslip-view",
+      "folder-view",
+      "inter-account-transfer-view"
+    ]
+  },
+  {
+    "id": 9820,
+    "title": "Make journal entries",
+    "tags": [
+      "journal-entries",
+      "journal-entry-form",
+      "journal-entry-view"
+    ]
+  },
+  {
+    "id": 9834,
+    "title": "Add or change a business logo",
+    "tags": [
+      "settings",
+      "business-logo-form"
+    ]
+  },
+  {
+    "id": 9835,
+    "title": "Enter business details",
+    "tags": [
+      "settings",
+      "business-details-form"
+    ]
+  },
+  {
+    "id": 10303,
+    "title": "Add line numbers to themes",
+    "tags": [
+      "themes",
+      "theme-form",
+      "theme-view"
+    ]
+  },
+  {
+    "id": 10342,
+    "title": "Avoid automatic credit allocations with special accounts",
+    "tags": [
+      "sales-invoices",
+      "purchase-invoices",
+      "customers",
+      "suppliers",
+      "special-accounts"
+    ]
+  },
+  {
+    "id": 10348,
+    "title": "Move application data to another folder (e. g., Dropbox)",
+    "tags": [
+      "preferences"
+    ]
+  },
+  {
+    "id": 10355,
+    "title": "Resolve issues with automatic credit allocations",
+    "tags": [
+      "sales-invoices",
+      "purchase-invoices",
+      "customers",
+      "suppliers",
+      "supplier-statements-unpaid-invoices",
+      "supplier-statements-transactions",
+      "customer-statements-unpaid-invoices",
+      "customer-statements-transactions"
+    ]
+  },
+  {
+    "id": 10366,
+    "title": "Change the look of forms with themes",
+    "tags": [
+      "settings",
+      "themes",
+      "theme-form",
+      "theme-view"
+    ]
+  },
+  {
+    "id": 10368,
+    "title": "Customize themes",
+    "tags": [
+      "themes",
+      "theme-form",
+      "theme-view"
+    ]
+  },
+  {
+    "id": 10388,
+    "title": "Implement 2017 GST scheme for India",
+    "tags": [
+      "tax-codes"
+    ]
+  },
+  {
+    "id": 10392,
+    "title": "Use email templates",
+    "tags": [
+      "settings",
+      "email-templates",
+      "email-template-form",
+      "emails"
+    ]
+  },
+  {
+    "id": 10411,
+    "title": "Add custom fields for individual line items",
+    "tags": [
+      "sales-invoices",
+      "purchase-invoices",
+      "credit-notes",
+      "custom-fields",
+      "sales-quotes",
+      "sales-orders",
+      "purchase-orders",
+      "delivery-notes",
+      "custom-field-form",
+      "receipt-or-payment-form",
+      "receipt-or-payment-view"
+    ]
+  },
+  {
+    "id": 10530,
+    "title": "Apply a discount",
+    "tags": [
+      "settings",
+      "sales-quote-form",
+      "sales-invoice-form",
+      "sales-order-form",
+      "purchase-invoice-form",
+      "credit-note-form",
+      "purchase-order-form",
+      "debit-note-form"
+    ]
+  },
+  {
+    "id": 10551,
+    "title": "Set base currency",
+    "tags": [
+      "cash-accounts",
+      "special-accounts",
+      "settings",
+      "cash-account-form",
+      "customer-form",
+      "supplier-form",
+      "employee-form",
+      "base-currency-form",
+      "special-account-form",
+      "bank-accounts",
+      "bank-account-form"
+    ]
+  },
+  {
+    "id": 10555,
+    "title": "Use special accounts",
+    "tags": [
+      "special-accounts",
+      "balance-sheet-account-form",
+      "special-account-form"
+    ]
+  },
+  {
+    "id": 10584,
+    "title": "Assess late payment fees",
+    "tags": [
+      "sales-invoices",
+      "chart-of-accounts",
+      "sales-invoice-form",
+      "sales-invoice-view"
+    ]
+  },
+  {
+    "id": 10643,
+    "title": "Email transactions and reports",
+    "tags": [
+      "email-settings",
+      "settings",
+      "email-templates",
+      "email-template-form",
+      "email-settings-form",
+      "emails"
+    ]
+  },
+  {
+    "id": 10645,
+    "title": "Export lists and reports",
+    "tags": [
+      "employees",
+      "payslips",
+      "sales-invoices",
+      "cash-accounts",
+      "purchase-invoices",
+      "credit-notes",
+      "capital-accounts",
+      "inventory-items",
+      "expense-claims",
+      "reports",
+      "customers",
+      "sales-quotes",
+      "suppliers",
+      "fixed-assets",
+      "journal-entries",
+      "billable-expenses",
+      "production-orders",
+      "sales-orders",
+      "purchase-orders",
+      "debit-notes",
+      "intangible-assets",
+      "delivery-notes",
+      "goods-receipts",
+      "inventory-transfers",
+      "special-accounts",
+      "folders",
+      "billable-time-entries",
+      "inventory-write-offs",
+      "bank-accounts"
+    ]
+  },
+  {
+    "id": 10676,
+    "title": "Create delivery notes",
+    "tags": [
+      "delivery-notes",
+      "sales-order-view",
+      "sales-quote-view",
+      "credit-note-view",
+      "sales-invoice-view",
+      "delivery-note-form"
+    ]
+  },
+  {
+    "id": 10677,
+    "title": "Add inventory locations",
+    "tags": [
+      "settings",
+      "inventory-locations",
+      "inventory-location-form"
+    ]
+  },
+  {
+    "id": 10694,
+    "title": "Reset the administrator password",
+    "tags": [
+      "users"
+    ]
+  },
+  {
+    "id": 10704,
+    "title": "Create goods receipts",
+    "tags": [
+      "goods-receipts",
+      "purchase-invoice-view",
+      "purchase-order-view",
+      "goods-receipt-form",
+      "goods-receipt-view",
+      "debit-note-view"
+    ]
+  },
+  {
+    "id": 10707,
+    "title": "Transfer inventory between locations",
+    "tags": [
+      "inventory-transfers",
+      "inventory-transfer-view",
+      "inventory-transfer-form"
+    ]
+  },
+  {
+    "id": 10709,
+    "title": "Write off inventory",
+    "tags": [
+      "inventory-write-offs",
+      "inventory-write-off-form"
+    ]
+  },
+  {
+    "id": 10809,
+    "title": "Set up business as a self-employed services provider",
+    "tags": [
+      "chart-of-accounts",
+      "businesses"
+    ]
+  },
+  {
+    "id": 11069,
+    "title": "Create a budget",
+    "tags": [
+      "reports",
+      "profit-and-loss-statement-actual-vs-budget-list",
+      "profit-and-loss-statement-actual-vs-budget-form",
+      "profit-and-loss-statement-actual-vs-budget-view"
+    ]
+  },
+  {
+    "id": 11111,
+    "title": "Manage inventory - Part 1 Introduction",
+    "tags": [
+      "sales-invoices",
+      "purchase-invoices",
+      "inventory-items",
+      "reports",
+      "production-orders",
+      "delivery-notes",
+      "goods-receipts",
+      "inventory-value-movement-list",
+      "inventory-quantity-movement-list",
+      "inventory-profit-margin-list",
+      "inventory-kits",
+      "inventory-locations",
+      "inventory-value-movement-form",
+      "inventory-value-movement-view",
+      "inventory-quantity-movement-form",
+      "inventory-quantity-movement-view",
+      "inventory-profit-margin-form",
+      "inventory-profit-margin-view",
+      "inventory-price-list",
+      "inventory-price-list-form",
+      "inventory-price-list-view"
+    ]
+  },
+  {
+    "id": 11128,
+    "title": "Manage inventory - Part 2 Continuation",
+    "tags": [
+      "sales-invoices",
+      "purchase-invoices",
+      "inventory-items",
+      "reports",
+      "production-orders",
+      "delivery-notes",
+      "goods-receipts",
+      "settings",
+      "inventory-value-movement-list",
+      "inventory-quantity-movement-list",
+      "inventory-profit-margin-list",
+      "inventory-kits",
+      "inventory-kit-form",
+      "inventory-kit-view",
+      "inventory-locations",
+      "inventory-value-movement-form",
+      "inventory-value-movement-view",
+      "inventory-quantity-movement-form",
+      "inventory-quantity-movement-view",
+      "inventory-profit-margin-form",
+      "inventory-profit-margin-view",
+      "inventory-price-list",
+      "inventory-price-list-form",
+      "inventory-price-list-view"
+    ]
+  },
+  {
+    "id": 11130,
+    "title": "Manage inventory - Part 3 Conclusion",
+    "tags": [
+      "sales-invoices",
+      "purchase-invoices",
+      "inventory-items",
+      "reports",
+      "production-orders",
+      "delivery-notes",
+      "goods-receipts",
+      "inventory-transfers",
+      "settings",
+      "inventory-transfer-view",
+      "inventory-quantity-movement-list",
+      "inventory-profit-margin-list",
+      "inventory-kits",
+      "inventory-kit-form",
+      "inventory-kit-view",
+      "inventory-write-offs",
+      "inventory-locations",
+      "inventory-location-form",
+      "inventory-transfer-form",
+      "inventory-write-off-form",
+      "inventory-value-movement-form",
+      "inventory-value-movement-view",
+      "inventory-quantity-movement-form",
+      "inventory-quantity-movement-view",
+      "inventory-profit-margin-form",
+      "inventory-profit-margin-view",
+      "inventory-price-list",
+      "inventory-price-list-form",
+      "inventory-price-list-view",
+      "inventory-quantity-by-location"
+    ]
+  },
+  {
+    "id": 11144,
+    "title": "View email",
+    "tags": [
+      "email-settings",
+      "email-templates",
+      "email-template-form",
+      "email-settings-form",
+      "emails"
+    ]
+  },
+  {
+    "id": 11367,
+    "title": "Set up a bank account",
+    "tags": [
+      "starting-balances",
+      "bank-accounts",
+      "bank-account-form",
+      "starting-balances-for-bank-accounts",
+      "starting-balances-for-bank-account-pending-deposit",
+      "starting-balances-for-bank-account-pending-withdra"
+    ]
+  },
+  {
+    "id": 11727,
+    "title": "Convert a bank or cash account into the other type",
+    "tags": [
+      "cash-accounts",
+      "bank-accounts",
+      "convert-into-bank-account",
+      "convert-into-cash-account"
+    ]
+  },
+  {
+    "id": 11961,
+    "title": "Correct missing tracking codes",
+    "tags": [
+      "reports",
+      "tracking-codes",
+      "tracking-exception-report-list",
+      "tracking-exception-report-form",
+      "tracking-exception-report-view"
+    ]
+  },
+  {
+    "id": 12280,
+    "title": "Open a data file directly",
+    "tags": [
+      "businesses"
+    ]
+  },
+  {
+    "id": 12310,
+    "title": "Create sales invoice reports",
+    "tags": [
+      "sales-invoices",
+      "reports"
+    ]
+  },
+  {
+    "id": 12346,
+    "title": "Account for withholding tax (tax withheld at source)",
+    "tags": [
+      "sales-invoices",
+      "purchase-invoices",
+      "tax-codes",
+      "sales-invoice-form",
+      "purchase-invoice-form"
+    ]
+  },
+  {
+    "id": 12626,
+    "title": "Exchange inventory",
+    "tags": [
+      "inventory-items",
+      "receipts-and-payments",
+      "receipt-or-payment-form",
+      "receipt-or-payment-view"
+    ]
+  },
+  {
+    "id": 12725,
+    "title": "Adjust recipient information to fit windowed envelopes",
+    "tags": [
+      "themes",
+      "theme-form",
+      "theme-view"
+    ]
+  },
+  {
+    "id": 12951,
+    "title": "Resolve overpaid status on invoices",
+    "tags": [
+      "sales-invoices",
+      "purchase-invoices"
+    ]
+  },
+  {
+    "id": 13086,
+    "title": "Archive tax codes",
+    "tags": [
+      "tax-codes",
+      "in-built-tax-code-form",
+      "tax-code-form"
+    ]
+  },
+  {
+    "id": 13392,
+    "title": "Use HTML code in fields",
+    "tags": [
+      "employees",
+      "payslips",
+      "sales-invoices",
+      "cash-accounts",
+      "purchase-invoices",
+      "credit-notes",
+      "inventory-items",
+      "expense-claims",
+      "billable-time",
+      "customers",
+      "sales-quotes",
+      "suppliers",
+      "fixed-assets",
+      "journal-entries",
+      "billable-expenses",
+      "production-orders",
+      "purchase-orders",
+      "debit-notes",
+      "intangible-assets",
+      "delivery-notes",
+      "goods-receipts",
+      "inventory-transfers",
+      "customer-form",
+      "sales-quote-form",
+      "sales-invoice-form",
+      "sales-order-form",
+      "expense-claim-form",
+      "purchase-invoice-form",
+      "journal-entry-form",
+      "credit-note-form",
+      "purchase-order-form",
+      "goods-receipt-form",
+      "supplier-form",
+      "debit-note-form",
+      "inventory-item-form",
+      "production-order-form",
+      "payslip-form",
+      "employee-form",
+      "billable-time-entries",
+      "billable-expense-form",
+      "fixed-asset-form",
+      "intangible-asset-form",
+      "inventory-write-offs",
+      "delivery-note-form",
+      "inventory-transfer-form",
+      "inventory-write-off-form",
+      "bank-accounts",
+      "inter-account-transfers"
+    ]
+  },
+  {
+    "id": 13606,
+    "title": "Find and merge duplicate inventory items",
+    "tags": [
+      "inventory-items",
+      "merge-inventory-items"
+    ]
+  },
+  {
+    "id": 14059,
+    "title": "Set form defaults",
+    "tags": [
+      "employees",
+      "payslips",
+      "sales-invoices",
+      "purchase-invoices",
+      "credit-notes",
+      "customers",
+      "sales-quotes",
+      "suppliers",
+      "journal-entries",
+      "production-orders",
+      "sales-orders",
+      "purchase-orders",
+      "debit-notes",
+      "delivery-notes",
+      "goods-receipts",
+      "inventory-transfers",
+      "settings",
+      "themes",
+      "customer-form",
+      "sales-quote-form",
+      "sales-invoice-form",
+      "sales-order-form",
+      "expense-claim-form",
+      "purchase-invoice-form",
+      "journal-entry-form",
+      "credit-note-form",
+      "purchase-order-form",
+      "goods-receipt-form",
+      "supplier-form",
+      "debit-note-form",
+      "production-order-form",
+      "payslip-form",
+      "employee-form",
+      "billable-time-entries",
+      "billable-time-entry-form",
+      "recurring-payslip-form",
+      "recurring-sales-invoice-form",
+      "inventory-write-offs",
+      "delivery-note-form",
+      "inventory-transfer-form",
+      "inventory-write-off-form",
+      "inter-account-transfer-form",
+      "recurring-purchase-invoice-form",
+      "form-defaults",
+      "receipt-or-payment-form"
+    ]
+  },
+  {
+    "id": 14063,
+    "title": "Set up and manage recurring journal entries",
+    "tags": [
+      "journal-entries",
+      "recurring-journal-entries"
+    ]
+  },
+  {
+    "id": 14397,
+    "title": "Use capital subaccounts",
+    "tags": [
+      "capital-accounts",
+      "capital-subaccounts",
+      "capital-subaccount-form"
+    ]
+  },
+  {
+    "id": 14398,
+    "title": "Set up expense claim payers",
+    "tags": [
+      "expense-claims",
+      "expense-claims-payers",
+      "expense-claims-payer-form"
+    ]
+  },
+  {
+    "id": 14418,
+    "title": "Set a theme for customer or supplier statements",
+    "tags": [
+      "reports",
+      "customers",
+      "suppliers",
+      "themes",
+      "supplier-statements-unpaid-invoices",
+      "supplier-statements-unpaid-invoices-view",
+      "supplier-statements-transactions",
+      "supplier-statements-transactions-view",
+      "customer-statements-unpaid-invoices",
+      "customer-statements-transactions",
+      "customer-statements-transactions-view",
+      "supplier-statements-unpaid-invoices-form",
+      "supplier-statements-transactions-form",
+      "customer-statements-transactions-form",
+      "customer-statements-unpaid-invoices-form",
+      "customer-statements-unpaid-invoices-view"
+    ]
+  },
+  {
+    "id": 14465,
+    "title": "Write off bad debts",
+    "tags": [
+      "sales-invoices",
+      "customers",
+      "journal-entries",
+      "journal-entry-form"
+    ]
+  },
+  {
+    "id": 14497,
+    "title": "Record early payment discounts on receipts for sales invoices",
+    "tags": [
+      "sales-invoices",
+      "credit-notes",
+      "credit-note-form",
+      "sales-invoice-view",
+      "receipts-and-payments",
+      "receipt-or-payment-form",
+      "receipt-or-payment-view"
+    ]
+  },
+  {
+    "id": 15076,
+    "title": "Record early payment discounts on purchases",
+    "tags": [
+      "purchase-invoices",
+      "receipts-and-payments",
+      "receipt-or-payment-form",
+      "receipt-or-payment-view"
+    ]
+  },
+  {
+    "id": 15078,
+    "title": "Offer early payment discounts on sales invoices",
+    "tags": [
+      "sales-invoices",
+      "sales-invoice-form",
+      "sales-invoice-view",
+      "recurring-sales-invoice-form"
+    ]
+  },
+  {
+    "id": 15243,
+    "title": "Rebrand the desktop edition (Windows)",
+    "tags": [
+      "support"
+    ]
+  },
+  {
+    "id": 15287,
+    "title": "Determine version number",
+    "tags": []
+  },
+  {
+    "id": 15718,
+    "title": "Enter starting balances",
+    "tags": [
+      "starting-balances",
+      "starting-balances-for-supplier-invoices",
+      "starting-balances-for-customer-invoices",
+      "balance-sheet-control-account-form",
+      "starting-balances-for-bank-accounts",
+      "starting-balances-for-cash-accounts",
+      "starting-balances-for-fixed-assets",
+      "starting-balances-for-intangible-assets",
+      "starting-balances-for-inventory-items",
+      "starting-balances-for-employees",
+      "starting-balances-for-capital-accounts",
+      "starting-balances-for-special-accounts",
+      "starting-balances-for-bank-account-pending-deposit",
+      "starting-balances-for-bank-account-pending-withdra"
+    ]
+  },
+  {
+    "id": 15915,
+    "title": "Attach files to emails sent from Manager",
+    "tags": [
+      "expense-claim-view",
+      "sales-order-view",
+      "sales-quote-view",
+      "credit-note-view",
+      "sales-invoice-view",
+      "purchase-invoice-view",
+      "purchase-order-view",
+      "delivery-note-view",
+      "goods-receipt-view",
+      "journal-entry-view",
+      "debit-note-view",
+      "inventory-transfer-view",
+      "production-order-view",
+      "payslip-view",
+      "inter-account-transfer-view",
+      "inventory-write-off-view"
+    ]
+  },
+  {
+    "id": 16188,
+    "title": "Add an image to a custom field",
+    "tags": [
+      "custom-fields",
+      "custom-field-form"
+    ]
+  },
+  {
+    "id": 16348,
+    "title": "Create PDF files of transactions and reports",
+    "tags": [
+      "reports",
+      "expense-claim-view",
+      "sales-order-view",
+      "sales-quote-view",
+      "credit-note-view",
+      "sales-invoice-view",
+      "purchase-invoice-view",
+      "purchase-order-view",
+      "delivery-note-view",
+      "goods-receipt-view",
+      "journal-entry-view",
+      "debit-note-view",
+      "inventory-transfer-view",
+      "production-order-view",
+      "payslip-view",
+      "inter-account-transfer-view",
+      "inventory-write-off-view"
+    ]
+  },
+  {
+    "id": 16455,
+    "title": "Reverse charge VAT (Value Added Tax)",
+    "tags": [
+      "tax-codes",
+      "in-built-tax-code-form",
+      "new-tax-code"
+    ]
+  },
+  {
+    "id": 16464,
+    "title": "Use the Batch Delete function",
+    "tags": [
+      "employees",
+      "payslips",
+      "sales-invoices",
+      "cash-accounts",
+      "purchase-invoices",
+      "credit-notes",
+      "capital-accounts",
+      "inventory-items",
+      "expense-claims",
+      "customers",
+      "sales-quotes",
+      "suppliers",
+      "fixed-assets",
+      "journal-entries",
+      "billable-expenses",
+      "production-orders",
+      "sales-orders",
+      "purchase-orders",
+      "debit-notes",
+      "intangible-assets",
+      "delivery-notes",
+      "goods-receipts",
+      "inventory-transfers",
+      "special-accounts",
+      "folders",
+      "billable-time-entries",
+      "inventory-write-offs",
+      "bank-accounts",
+      "inter-account-transfers"
+    ]
+  },
+  {
+    "id": 16487,
+    "title": "Search for records",
+    "tags": []
+  },
+  {
+    "id": 16488,
+    "title": "Sort lists and tables",
+    "tags": []
+  },
+  {
+    "id": 16489,
+    "title": "Add page numbers to PDFs of custom themes",
+    "tags": [
+      "themes",
+      "theme-form",
+      "theme-view"
+    ]
+  },
+  {
+    "id": 17060,
+    "title": "Handle dishonored cheques",
+    "tags": [
+      "receipts-and-payments",
+      "receipt-or-payment-form",
+      "receipt-or-payment-view"
+    ]
+  },
+  {
+    "id": 17100,
+    "title": "Move a custom field on transaction forms",
+    "tags": [
+      "themes",
+      "theme-form",
+      "theme-view"
+    ]
+  },
+  {
+    "id": 17115,
+    "title": "Include calculations in custom themes",
+    "tags": [
+      "custom-fields",
+      "settings",
+      "themes",
+      "theme-form",
+      "theme-view"
+    ]
+  },
+  {
+    "id": 17304,
+    "title": "Post inter account transfers from imported bank statements",
+    "tags": [
+      "bank-rules",
+      "import-bank-statement-form",
+      "bank-rule-form",
+      "bank-accounts",
+      "uncategorized-bank-transactions"
+    ]
+  },
+  {
+    "id": 17468,
+    "title": "Create receipts or payments from customer or supplier statements",
+    "tags": [
+      "supplier-statements-unpaid-invoices",
+      "supplier-statements-unpaid-invoices-view",
+      "customer-statements-unpaid-invoices",
+      "customer-statements-unpaid-invoices-view"
+    ]
+  },
+  {
+    "id": 17520,
+    "title": "Use a custom domain name with the cloud edition",
+    "tags": [
+      "businesses"
+    ]
+  }
+]
