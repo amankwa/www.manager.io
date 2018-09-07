@@ -1,0 +1,35 @@
+{% if page.url == '/' or url_parts[1] == 'desktop' %}
+<div style="background-color: rgb(102,0,0); border-top: 1px solid #990000; border-bottom: 1px solid #330000; text-shadow: 1px 1px 1px #333">
+	<div class="container small" style="font-weight: 600">
+    <ul id="secondary" class="nav">
+      <li class="nav-item"><a href="/" class="nav-link{% if page.url == '/' %} active{% endif %}"><i class="fa fa-caret-{% if page.url == '/' %}down{% else %}right{% endif %} mr-2"></i>Home</a></li>
+      <li class="nav-item"><a href="/desktop/screenshots/" class="nav-link{% if url_parts[2] == 'screenshots' %} active{% endif %}"><i class="fa fa-caret-{% if url_parts[2] == 'screenshots' %}down{% else %}right{% endif %} mr-2"></i>Screenshots</a></li>
+      <li class="nav-item"><a href="/desktop/features/" class="nav-link{% if url_parts[2] == 'features' %} active{% endif %}"><i class="fa fa-caret-{% if url_parts[2] == 'features' %}down{% else %}right{% endif %} mr-2"></i>Features</a></li>
+      <li class="nav-item"><a href="/desktop/compare/" class="nav-link{% if url_parts[2] == 'compare' %} active{% endif %}"><i class="fa fa-caret-{% if url_parts[2] == 'compare' %}down{% else %}right{% endif %} mr-2"></i>Compare</a></li>
+      <li class="nav-item"><a href="/desktop/download/" class="nav-link{% if url_parts[2] == 'download' %} active{% endif %}"><i class="fa fa-caret-{% if url_parts[2] == 'download' %}down{% else %}right{% endif %} mr-2"></i>Download</a></li>
+      <li class="nav-item"><a href="/desktop/releases/" class="nav-link{% if url_parts[2] == 'releases' %} active{% endif %}"><i class="fa fa-caret-{% if url_parts[2] == 'releases' %}down{% else %}right{% endif %} mr-2"></i>Releases</a></li>
+      <li class="nav-item"><a href="/desktop/translations/" class="nav-link{% if url_parts[2] == 'translations' %} active{% endif %}"><i class="fa fa-caret-{% if url_parts[2] == 'translations' %}down{% else %}right{% endif %} mr-2"></i>Translations</a></li>
+      <li class="nav-item"><a href="/desktop/faq/" class="nav-link{% if url_parts[2] == 'faq' %} active{% endif %}"><i class="fa fa-caret-{% if url_parts[2] == 'faq' %}down{% else %}right{% endif %} mr-2"></i>FAQ</a></li>
+		</ul>
+	</div>
+</div>
+{% if page.url == '/' %}
+<div style="border-top: 1px solid #990000; background: rgb(102,0,0);background: -moz-linear-gradient(left, rgb(102,0,0) 0%, rgb(204,0,0) 50%, rgb(102,0,0) 100%);background: -webkit-gradient(linear, left top, right top, color-stop(0%,rgb(102,0,0)), color-stop(50%,rgb(204,0,0)), color-stop(100%,rgb(102,0,0)));background: -webkit-linear-gradient(left, rgb(102,0,0) 0%,rgb(204,0,0) 50%,rgb(102,0,0) 100%);background: -o-linear-gradient(left, rgb(102,0,0) 0%,rgb(204,0,0) 50%,rgb(102,0,0) 100%);background: -ms-linear-gradient(left, rgb(102,0,0) 0%,rgb(204,0,0) 50%,rgb(102,0,0) 100%);background: linear-gradient(to right, rgb(102,0,0) 0%,rgb(204,0,0) 50%,rgb(102,0,0) 100%);filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#660000', endColorstr='#660000',GradientType=1 );border-bottom: 1px solid #333">
+  <div class="container py-4">
+    <div class="row">
+      <div class="col py-4">
+        <h3 class="font-weight-bold" style="color: #fff; text-shadow: 2px 2px 2px #333333;">Looking for accounting software?</h3>
+        <p class="mb-4" style="font-weight: 600; color: #fff; line-height: 200%; text-shadow: 1px 1px 1px #333333">Manager is free accounting software for small business. Available for Windows, Mac and Linux.</p>
+        <a class="btn btn-lg btn-light mr-3 mb-3" href="/desktop/download/" style="font-weight: bold">Free Download</a>
+        <a class="btn btn-lg btn-outline-light mb-3" href="/desktop/compare/" style="font-weight: bold">Compare with Cloud Edition <i class="fa fa-cloud"></i></a>
+      </div>
+      <div class="col d-none d-lg-block" style="min-height: 300px">
+        <a href="/desktop/screenshots/"><img src="desktop/cover.png" class="position-absolute"></a>
+      </div>
+    </div>
+  </div>
+</div>
+{% else %}
+<div style="border-top: 1px solid #990000; background: rgb(102,0,0);background: -moz-linear-gradient(left, rgb(102,0,0) 0%, rgb(204,0,0) 50%, rgb(102,0,0) 100%);background: -webkit-gradient(linear, left top, right top, color-stop(0%,rgb(102,0,0)), color-stop(50%,rgb(204,0,0)), color-stop(100%,rgb(102,0,0)));background: -webkit-linear-gradient(left, rgb(102,0,0) 0%,rgb(204,0,0) 50%,rgb(102,0,0) 100%);background: -o-linear-gradient(left, rgb(102,0,0) 0%,rgb(204,0,0) 50%,rgb(102,0,0) 100%);background: -ms-linear-gradient(left, rgb(102,0,0) 0%,rgb(204,0,0) 50%,rgb(102,0,0) 100%);background: linear-gradient(to right, rgb(102,0,0) 0%,rgb(204,0,0) 50%,rgb(102,0,0) 100%);filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#660000', endColorstr='#660000',GradientType=1 );border-bottom: 1px solid #333; color: #fff; text-shadow: 2px 2px 2px #333333"><div class="container pt-4 pb-4"><h3 class="font-weight-bold">{{ page.title }}</h3></div></div>
+{% endif %}
+{% endif %}

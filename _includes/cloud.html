@@ -1,0 +1,29 @@
+{% if url_parts[1] == 'cloud' %}
+<div style="background-color: rgb(0,37,63); border-top: 1px solid #00375F; border-bottom: 1px solid #00121F; text-shadow: 1px 1px 1px #333">
+	<div class="container small" style="font-weight: 600">
+    <ul id="secondary" class="nav">
+      <li class="nav-item"><a href="/cloud/" class="nav-link{% if url_parts[2] == nil %} active{% endif %}"><i class="fa fa-caret-{% if url_parts[2] == nil %}down{% else %}right{% endif %} mr-2"></i>Home</a></li>
+      <li class="nav-item"><a href="/cloud/pricing/" class="nav-link{% if url_parts[2] == 'pricing' %} active{% endif %}"><i class="fa fa-caret-{% if url_parts[2] == 'pricing' %}down{% else %}right{% endif %} mr-2"></i>Pricing</a></li>
+		</ul>
+	</div>
+</div>
+{% if url_parts[2] == nil %}
+<div style="border-top: 1px solid #00375F; background: rgb(0,37,63);background: -moz-linear-gradient(left, rgb(0,37,63) 0%, rgb(0,74,127) 50%, rgb(0,37,63) 100%);background: -webkit-gradient(linear, left top, right top, color-stop(0%,rgb(0,37,63)), color-stop(50%,rgb(0,74,127)), color-stop(100%,rgb(0,37,63)));background: -webkit-linear-gradient(left, rgb(0,37,63) 0%,rgb(0,74,127) 50%,rgb(0,37,63) 100%);background: -o-linear-gradient(left, rgb(0,37,63) 0%,rgb(0,74,127) 50%,rgb(0,37,63) 100%);background: -ms-linear-gradient(left, rgb(0,37,63) 0%,rgb(0,74,127) 50%,rgb(0,37,63) 100%);background: linear-gradient(to right, rgb(0,37,63) 0%,rgb(0,74,127) 50%,rgb(0,37,63) 100%);filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00253F', endColorstr='#00253F',GradientType=1 );border-bottom: 1px solid #333">
+  <div class="container">
+    <div class="row">
+      <div class="col py-4">
+        <h3 class="font-weight-bold" style="color: #fff; text-shadow: 2px 2px 2px #333333;">Cloud-hosted online accounting software</h3>
+        <p class="mb-4" style="font-weight: 600; color: #fff; line-height: 200%; text-shadow: 1px 1px 1px #333333">Nothing to install. All you need is a device with a web-browser and Internet connection.</p>
+        <a class="btn btn-lg btn-light mr-3 mb-3" href="https://cloud.manager.io" style="font-weight: bold">Start a Free Trial</a>
+        <a class="btn btn-lg btn-outline-light mb-3" href="/cloud/pricing/" style="font-weight: bold">See Pricing</a>
+      </div>
+      <div class="col d-none d-lg-block">
+        <img src="/cloud/cover.png">
+      </div>
+    </div>
+  </div>
+</div>
+{% else %}
+<div style="border-top: 1px solid #00375F; background: rgb(0,37,63);background: -moz-linear-gradient(left, rgb(0,37,63) 0%, rgb(0,74,127) 50%, rgb(0,37,63) 100%);background: -webkit-gradient(linear, left top, right top, color-stop(0%,rgb(0,37,63)), color-stop(50%,rgb(0,74,127)), color-stop(100%,rgb(0,37,63)));background: -webkit-linear-gradient(left, rgb(0,37,63) 0%,rgb(0,74,127) 50%,rgb(0,37,63) 100%);background: -o-linear-gradient(left, rgb(0,37,63) 0%,rgb(0,74,127) 50%,rgb(0,37,63) 100%);background: -ms-linear-gradient(left, rgb(0,37,63) 0%,rgb(0,74,127) 50%,rgb(0,37,63) 100%);background: linear-gradient(to right, rgb(0,37,63) 0%,rgb(0,74,127) 50%,rgb(0,37,63) 100%);filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00253F', endColorstr='#00253F',GradientType=1 );border-bottom: 1px solid #333; color: #fff; text-shadow: 2px 2px 2px #333333"><div class="container pt-4 pb-4"><h3 class="font-weight-bold">{{ page.title }}</h3></div></div>
+{% endif %}
+{% endif %}

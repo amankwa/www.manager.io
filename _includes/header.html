@@ -2,25 +2,22 @@
 <html>
   <head>
     <meta charset="UTF-8">
-    {% if page.url == '/' %}
-    <title>Manager • Free Accounting Software for Small Businesses</title>
-    {% else %}
     <title>Manager • {{ page.title }}</title>
-    {% endif %}
     <meta content="index, follow" name="robots">
-    <meta content="Looking for accounting software? Manager is free accounting software for small business. Windows, Mac and Linux." name="description">
+    {% if page.url == '/' %}<meta content="Looking for accounting software? Manager is free accounting software for small business. Windows, Mac and Linux." name="description">{% endif %}
     <meta content="S1uHC5KU4n8QUrh5DQNJd5s-Nbd0GckqzX-u8Jcjiso" name="google-site-verification">
     <link href="/favicon.ico" rel="shortcut icon">
     <link href="/apple-touch-icon.png" rel="apple-touch-icon">
     <link href="/apple-touch-icon-72.png" rel="apple-touch-icon" sizes="72x72">
     <link href="/apple-touch-icon-114.png" rel="apple-touch-icon" sizes="114x114">
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/css/bootstrap.min.css">
-    <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.0.13/css/all.css">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.3.1/css/all.css" integrity="sha384-9ralMzdK1QYsk4yBY680hmsb4/hJ98xK3w0TIaJ3ll4POWpWUYaA2bRjGGujGT8w" crossorigin="anonymous">
     <style>
       .navbar { background-color: #292929; border-bottom: 1px solid #000; text-shadow: 1px 1px 1px #000; font-weight: 600 }
       .navbar-expand-lg .navbar-nav .nav-link { padding: 10px 20px; border-left: 1px solid #444; border-right: 1px solid #000 }
       .navbar-nav .nav-link { color: #fff }
       .navbar-nav .nav-link:hover { text-decoration: underline }
+      .navbar-nav .active > .nav-link { color: gold; background-color: #333 }
       .navbar-nav .active > .nav-link { color: gold; background-color: #333 }
       
       #secondary .nav-item a { color: #fff }
@@ -44,107 +41,16 @@
         <li class="nav-item{% if page.url == '/' or url_parts[1] == 'desktop' %} active{% endif %}"><a href="/" class="nav-link"><i class="fa fa-laptop mr-2"></i>Desktop Edition</a></li>
         <li class="nav-item{% if url_parts[1] == 'cloud' %} active{% endif %}"><a href="/cloud/" class="nav-link"><i class="fa fa-cloud mr-2"></i>Cloud Edition</a></li>
         <li class="nav-item{% if url_parts[1] == 'server' %} active{% endif %}"><a href="/server/" class="nav-link"><i class="fa fa-server mr-2"></i>Server Edition</a></li>
-        <li class="nav-item"><a href="https://guides.manager.io" class="nav-link"><i class="fa fa-book mr-2"></i>Guides</a></li>
+        <li class="nav-item{% if url_parts[1] == 'guides' %} active{% endif %}"><a href="/guides/" class="nav-link"><i class="fa fa-book mr-2"></i>Guides</a></li>
         <li class="nav-item"><a href="https://forum.manager.io" class="nav-link"><i class="fa fa-comment mr-2"></i>Forum</a></li>
       </ul>
     </div>
   </div>
   
-{% if page.url == '/' or url_parts[1] == 'desktop' %}
-<div style="background-color: rgb(102,0,0); border-top: 1px solid #990000; border-bottom: 1px solid #330000; text-shadow: 1px 1px 1px #333">
-	<div class="container small" style="font-weight: 600">
-    <ul id="secondary" class="nav">
-      <li class="nav-item"><a href="/" class="nav-link{% if page.url == '/' %} active{% endif %}"><i class="fa fa-caret-{% if page.url == '/' %}down{% else %}right{% endif %} mr-2"></i>Home</a></li>
-      <li class="nav-item"><a href="/desktop/screenshots/" class="nav-link{% if url_parts[2] == 'screenshots' %} active{% endif %}"><i class="fa fa-caret-{% if url_parts[2] == 'screenshots' %}down{% else %}right{% endif %} mr-2"></i>Screenshots</a></li>
-      <li class="nav-item"><a href="/desktop/features/" class="nav-link{% if url_parts[2] == 'features' %} active{% endif %}"><i class="fa fa-caret-{% if url_parts[2] == 'features' %}down{% else %}right{% endif %} mr-2"></i>Features</a></li>
-      <li class="nav-item"><a href="/desktop/compare/" class="nav-link{% if url_parts[2] == 'compare' %} active{% endif %}"><i class="fa fa-caret-{% if url_parts[2] == 'compare' %}down{% else %}right{% endif %} mr-2"></i>Compare</a></li>
-      <li class="nav-item"><a href="/desktop/download/" class="nav-link{% if url_parts[2] == 'download' %} active{% endif %}"><i class="fa fa-caret-{% if url_parts[2] == 'download' %}down{% else %}right{% endif %} mr-2"></i>Download</a></li>
-      <li class="nav-item"><a href="/desktop/releases/" class="nav-link{% if url_parts[2] == 'releases' %} active{% endif %}"><i class="fa fa-caret-{% if url_parts[2] == 'releases' %}down{% else %}right{% endif %} mr-2"></i>Releases</a></li>
-      <li class="nav-item"><a href="/desktop/translations/" class="nav-link{% if url_parts[2] == 'translations' %} active{% endif %}"><i class="fa fa-caret-{% if url_parts[2] == 'translations' %}down{% else %}right{% endif %} mr-2"></i>Translations</a></li>
-      <li class="nav-item"><a href="/desktop/faq/" class="nav-link{% if url_parts[2] == 'faq' %} active{% endif %}"><i class="fa fa-caret-{% if url_parts[2] == 'faq' %}down{% else %}right{% endif %} mr-2"></i>FAQ</a></li>
-		</ul>
-	</div>
-</div>
-{% if page.url == '/' %}
-<div style="border-top: 1px solid #990000; background: rgb(102,0,0);background: -moz-linear-gradient(left, rgb(102,0,0) 0%, rgb(204,0,0) 50%, rgb(102,0,0) 100%);background: -webkit-gradient(linear, left top, right top, color-stop(0%,rgb(102,0,0)), color-stop(50%,rgb(204,0,0)), color-stop(100%,rgb(102,0,0)));background: -webkit-linear-gradient(left, rgb(102,0,0) 0%,rgb(204,0,0) 50%,rgb(102,0,0) 100%);background: -o-linear-gradient(left, rgb(102,0,0) 0%,rgb(204,0,0) 50%,rgb(102,0,0) 100%);background: -ms-linear-gradient(left, rgb(102,0,0) 0%,rgb(204,0,0) 50%,rgb(102,0,0) 100%);background: linear-gradient(to right, rgb(102,0,0) 0%,rgb(204,0,0) 50%,rgb(102,0,0) 100%);filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#660000', endColorstr='#660000',GradientType=1 );border-bottom: 1px solid #333">
+  {% if page.url == '/' or url_parts[1] == 'desktop' %}{% include desktop.html %}{% endif %}
+  {% if url_parts[1] == 'cloud' %}{% include cloud.html %}{% endif %}
+  {% if url_parts[1] == 'server' %}{% include server.html %}{% endif %}
+  {% if url_parts[1] == 'guides' %}{% include guides.html %}{% endif %}
+  
+  <div style="background-color: #fff">
   <div class="container py-4">
-    <div class="row">
-      <div class="col py-4">
-        <h3 class="font-weight-bold" style="color: #fff; text-shadow: 2px 2px 2px #333333;">Looking for accounting software?</h3>
-        <p class="mb-4" style="font-weight: 600; color: #fff; line-height: 200%; text-shadow: 1px 1px 1px #333333">Manager is free accounting software for small business. Available for Windows, Mac and Linux.</p>
-        <a class="btn btn-lg btn-light mr-3 mb-3" href="/desktop/download/" style="font-weight: bold">Free Download</a>
-        <a class="btn btn-lg btn-outline-light mb-3" href="/desktop/compare/" style="font-weight: bold">Compare with Cloud Edition <i class="fa fa-cloud"></i></a>
-      </div>
-      <div class="col d-none d-lg-block" style="min-height: 300px">
-        <a href="/desktop/screenshots/"><img src="desktop/cover.png" class="position-absolute"></a>
-      </div>
-    </div>
-  </div>
-</div>
-{% else %}
-<div style="border-top: 1px solid #990000; background: rgb(102,0,0);background: -moz-linear-gradient(left, rgb(102,0,0) 0%, rgb(204,0,0) 50%, rgb(102,0,0) 100%);background: -webkit-gradient(linear, left top, right top, color-stop(0%,rgb(102,0,0)), color-stop(50%,rgb(204,0,0)), color-stop(100%,rgb(102,0,0)));background: -webkit-linear-gradient(left, rgb(102,0,0) 0%,rgb(204,0,0) 50%,rgb(102,0,0) 100%);background: -o-linear-gradient(left, rgb(102,0,0) 0%,rgb(204,0,0) 50%,rgb(102,0,0) 100%);background: -ms-linear-gradient(left, rgb(102,0,0) 0%,rgb(204,0,0) 50%,rgb(102,0,0) 100%);background: linear-gradient(to right, rgb(102,0,0) 0%,rgb(204,0,0) 50%,rgb(102,0,0) 100%);filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#660000', endColorstr='#660000',GradientType=1 );border-bottom: 1px solid #333; color: #fff; text-shadow: 2px 2px 2px #333333"><div class="container pt-4 pb-4"><h3 class="font-weight-bold">{{ page.title }}</h3></div></div>
-{% endif %}
-{% endif %}
-
-{% if url_parts[1] == 'cloud' %}
-<div style="background-color: rgb(0,37,63); border-top: 1px solid #00375F; border-bottom: 1px solid #00121F; text-shadow: 1px 1px 1px #333">
-	<div class="container small" style="font-weight: 600">
-    <ul id="secondary" class="nav">
-      <li class="nav-item"><a href="/cloud/" class="nav-link{% if url_parts[2] == nil %} active{% endif %}"><i class="fa fa-caret-{% if url_parts[2] == nil %}down{% else %}right{% endif %} mr-2"></i>Home</a></li>
-      <li class="nav-item"><a href="/cloud/pricing/" class="nav-link{% if url_parts[2] == 'pricing' %} active{% endif %}"><i class="fa fa-caret-{% if url_parts[2] == 'pricing' %}down{% else %}right{% endif %} mr-2"></i>Pricing</a></li>
-		</ul>
-	</div>
-</div>
-{% if url_parts[2] == nil %}
-<div style="border-top: 1px solid #00375F; background: rgb(0,37,63);background: -moz-linear-gradient(left, rgb(0,37,63) 0%, rgb(0,74,127) 50%, rgb(0,37,63) 100%);background: -webkit-gradient(linear, left top, right top, color-stop(0%,rgb(0,37,63)), color-stop(50%,rgb(0,74,127)), color-stop(100%,rgb(0,37,63)));background: -webkit-linear-gradient(left, rgb(0,37,63) 0%,rgb(0,74,127) 50%,rgb(0,37,63) 100%);background: -o-linear-gradient(left, rgb(0,37,63) 0%,rgb(0,74,127) 50%,rgb(0,37,63) 100%);background: -ms-linear-gradient(left, rgb(0,37,63) 0%,rgb(0,74,127) 50%,rgb(0,37,63) 100%);background: linear-gradient(to right, rgb(0,37,63) 0%,rgb(0,74,127) 50%,rgb(0,37,63) 100%);filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00253F', endColorstr='#00253F',GradientType=1 );border-bottom: 1px solid #333">
-  <div class="container">
-    <div class="row">
-      <div class="col py-4">
-        <h3 class="font-weight-bold" style="color: #fff; text-shadow: 2px 2px 2px #333333;">Cloud-hosted online accounting software</h3>
-        <p class="mb-4" style="font-weight: 600; color: #fff; line-height: 200%; text-shadow: 1px 1px 1px #333333">Nothing to install. All you need is a device with a web-browser and Internet connection.</p>
-        <a class="btn btn-lg btn-light mr-3 mb-3" href="https://cloud.manager.io" style="font-weight: bold">Start a Free Trial</a>
-        <a class="btn btn-lg btn-outline-light mb-3" href="/cloud/pricing/" style="font-weight: bold">See Pricing</a>
-      </div>
-      <div class="col d-none d-lg-block">
-        <img src="/cloud/cover.png">
-      </div>
-    </div>
-  </div>
-</div>
-{% else %}
-<div style="border-top: 1px solid #00375F; background: rgb(0,37,63);background: -moz-linear-gradient(left, rgb(0,37,63) 0%, rgb(0,74,127) 50%, rgb(0,37,63) 100%);background: -webkit-gradient(linear, left top, right top, color-stop(0%,rgb(0,37,63)), color-stop(50%,rgb(0,74,127)), color-stop(100%,rgb(0,37,63)));background: -webkit-linear-gradient(left, rgb(0,37,63) 0%,rgb(0,74,127) 50%,rgb(0,37,63) 100%);background: -o-linear-gradient(left, rgb(0,37,63) 0%,rgb(0,74,127) 50%,rgb(0,37,63) 100%);background: -ms-linear-gradient(left, rgb(0,37,63) 0%,rgb(0,74,127) 50%,rgb(0,37,63) 100%);background: linear-gradient(to right, rgb(0,37,63) 0%,rgb(0,74,127) 50%,rgb(0,37,63) 100%);filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00253F', endColorstr='#00253F',GradientType=1 );border-bottom: 1px solid #333; color: #fff; text-shadow: 2px 2px 2px #333333"><div class="container pt-4 pb-4"><h3 class="font-weight-bold">{{ page.title }}</h3></div></div>
-{% endif %}
-{% endif %}
-{% if url_parts[1] == 'server' %}
-<div style="background-color: rgb(19,63,0); border-top: 1px solid #1C5F00; border-bottom: 1px solid #091F00; text-shadow: 1px 1px 1px #333">
-	<div class="container small" style="font-weight: 600">
-    <ul id="secondary" class="nav">
-      <li class="nav-item"><a href="/server/" class="nav-link{% if url_parts[2] == nil %} active{% endif %}"><i class="fa fa-caret-{% if url_parts[2] == nil %}down{% else %}right{% endif %} mr-2"></i>Home</a></li>
-      <li class="nav-item"><a href="/server/compare/" class="nav-link{% if url_parts[2] == 'compare' %} active{% endif %}"><i class="fa fa-caret-{% if url_parts[2] == 'compare' %}down{% else %}right{% endif %} mr-2"></i>Compare</a></li>      
-      <li class="nav-item"><a href="/server/pricing/" class="nav-link{% if url_parts[2] == 'pricing' %} active{% endif %}"><i class="fa fa-caret-{% if url_parts[2] == 'pricing' %}down{% else %}right{% endif %} mr-2"></i>Pricing</a></li>
-      <li class="nav-item"><a href="/server/installation/" class="nav-link{% if url_parts[2] == 'installation' %} active{% endif %}"><i class="fa fa-caret-{% if url_parts[2] == 'installation' %}down{% else %}right{% endif %} mr-2"></i>Installation</a></li>
-		</ul>
-	</div>
-</div>
-{% if url_parts[2] == nil %}
-<div style="border-top: 1px solid #1C5F00; background: rgb(19,63,0);background: -moz-linear-gradient(left, rgb(19,63,0) 0%, rgb(38,127,0) 50%, rgb(19,63,0) 100%);background: -webkit-gradient(linear, left top, right top, color-stop(0%,rgb(19,63,0)), color-stop(50%,rgb(38,127,0)), color-stop(100%,rgb(19,63,0)));background: -webkit-linear-gradient(left, rgb(19,63,0) 0%,rgb(38,127,0) 50%,rgb(19,63,0) 100%);background: -o-linear-gradient(left, rgb(19,63,0) 0%,rgb(38,127,0) 50%,rgb(19,63,0) 100%);background: -ms-linear-gradient(left, rgb(19,63,0) 0%,rgb(38,127,0) 50%,rgb(19,63,0) 100%);background: linear-gradient(to right, rgb(19,63,0) 0%,rgb(38,127,0) 50%,rgb(19,63,0) 100%);filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#133F00', endColorstr='#133F00',GradientType=1 );border-bottom: 1px solid #333">
-  <div class="container">
-    <div class="row">
-      <div class="col py-4">
-        <h3 class="font-weight-bold" style="color: #fff; text-shadow: 2px 2px 2px #333333;">A painless self-hosted accounting software</h3>
-        <p class="mb-4" style="font-weight: 600; color: #fff; line-height: 200%; text-shadow: 1px 1px 1px #333333">Download, install and use. All on your own server. No monthly fees, ever. You own it.</p>
-        <a class="btn btn-light btn-lg mr-3 mb-3" href="/server/installation/" style="font-weight: bold">Free Trial</a>
-        <a class="btn btn-outline-light btn-lg mb-3" href="/server/compare/" style="font-weight: bold">Compare with Cloud Edition <i class="fa fa-cloud"></i></a>
-      </div>
-      <div class="col d-none d-lg-block">
-        <img src="/server/cover.png">
-      </div>
-    </div>
-  </div>
-</div>
-{% else %}
-<div style="border-top: 1px solid #1C5F00; background: rgb(19,63,0);background: -moz-linear-gradient(left, rgb(19,63,0) 0%, rgb(38,127,0) 50%, rgb(19,63,0) 100%);background: -webkit-gradient(linear, left top, right top, color-stop(0%,rgb(19,63,0)), color-stop(50%,rgb(38,127,0)), color-stop(100%,rgb(19,63,0)));background: -webkit-linear-gradient(left, rgb(19,63,0) 0%,rgb(38,127,0) 50%,rgb(19,63,0) 100%);background: -o-linear-gradient(left, rgb(19,63,0) 0%,rgb(38,127,0) 50%,rgb(19,63,0) 100%);background: -ms-linear-gradient(left, rgb(19,63,0) 0%,rgb(38,127,0) 50%,rgb(19,63,0) 100%);background: linear-gradient(to right, rgb(19,63,0) 0%,rgb(38,127,0) 50%,rgb(19,63,0) 100%);filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#133F00', endColorstr='#133F00',GradientType=1 );border-bottom: 1px solid #333; color: #fff; text-shadow: 2px 2px 2px #333333"><div class="container pt-4 pb-4"><h3 class="font-weight-bold">{{ page.title }}</h3></div></div>
-{% endif %}
-{% endif %}
-<div style="background-color: #fff">
-<div class="container py-4">

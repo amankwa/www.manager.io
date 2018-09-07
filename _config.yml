@@ -1,7 +1,12 @@
 markdown: kramdown
-page_gen-dirs: true
 page_gen:
-  - data: 'translations'
-    template: 'translation'
-    name: 'code'
-    dir: ''
+- index_files: true
+  data: 'translations'
+  template: 'translation'
+  name: 'code'
+  dir: ''
+- index_files: false
+  data: 'guides'
+  template: 'guides'
+  name: 'id'
+  dir: 'guides'
