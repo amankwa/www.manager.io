@@ -1,4 +1,0 @@
----
-layout: translation
-language: ro
----
