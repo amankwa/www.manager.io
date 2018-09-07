@@ -4,3 +4,11 @@ collections:
   translations:
     output: true
     permalink: /:name/index.html
+
+page_gen-dirs: true
+
+page_gen:
+- data: "categories"
+  template: "translation"
+  name: "name"
+  dir: "test"
