@@ -29440,7 +29440,7 @@
     WriteOn: "Write-on"
     WrittenOff: "Written-off"
     XXX_Transactions: "{0} transactions"
-"no":
+"nb":
   percentage: 56
   name: "Norwegian Bokmål"
   translators: "Kevin Jung Park, theodor, Rune Michael Hofstad, alexander.dawson"

@@ -1,4 +1,4 @@
 ---
 layout: translation
-language: "no"
+language: nb
 ---
