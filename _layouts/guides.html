@@ -1,16 +1,18 @@
 {% include header.html %}
 <style>
+{% if page.id == "index" %}
   #content a { border-bottom: 1px dotted #007bff }
   #content a:hover { text-decoration: none; border-bottom: 1px solid #007bff }
   #content span.divider { color: #999; margin-left: 3px; margin-right: 3px }
   #content li { line-height: 200% }
-                        
+{% else %}
   code { max-height: 500px; }
   kbd { background-color: #fff; border: 1px solid #e9e9e9; border-radius: 3px; box-shadow: 0 1px 0 rgba(0, 0, 0, 0.8); color: #222; display: inline-block; font-size: 0.857em; line-height: 1.4; margin: 0 0.1em; padding: 0.1em 0.6em; }
   h3 { border-bottom: 1px solid #ddd; margin-top: 40px; padding-bottom: 20px; }
   div.media-example { background-color: #F6FFF2 }
   div.media-warning { background-color: #ffffdb }
   div.media-default { background-color: #F2F9FF }
+{% endif %}
 </style>
 <div class="mb-4" id="content">
 {{ page.html }}
