@@ -7011,7 +7011,7 @@
 - code: "af"
   percentage: 97
   name: "Afrikaans"
-  translators: "martinmeyer007, jannie, durkpotgieter, claudine.venter1, thinusg, belinda.truscott, gerhard.bez, alex.caudron, hitimanajphugues, Andrew van der Spuy"
+  translators: "martinmeyer007, jannie, durkpotgieter, claudine.venter1, thinusg, belinda.truscott, gerhard.bez, hitimanajphugues, alex.caudron, Andrew van der Spuy"
   strings:
     _1_30_days_overdue: "1-30 dae agterstallig"
     _1_day: "1 dag"
@@ -30144,7 +30144,7 @@
 - code: "ur"
   percentage: 50
   name: "Urdu"
-  translators: "aasim.sethi, tmntbob, Moeen Hashmi, Hassaan Khawer, Amjad Cheema, thenewelectricstore, muhammadatif.memon, mshahid7194090, awais_sohail89, jahangir.amin, ashfaq202, ajmal.kh86, celticom, 91.syedhunain, mzraza, saqib.pcg, usrana52"
+  translators: "aasim.sethi, tmntbob, Moeen Hashmi, Hassaan Khawer, Amjad Cheema, thenewelectricstore, muhammadatif.memon, mshahid7194090, awais_sohail89, jahangir.amin, ajmal.kh86, celticom, 91.syedhunain, mzraza, ashfaq202, saqib.pcg, usrana52"
   strings:
     _1_30_days_overdue: "1 سے 30 دن زائد المیعاد"
     _1_day: "1 دن"
