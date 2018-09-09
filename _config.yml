@@ -10,3 +10,8 @@ page_gen:
   template: 'guides'
   name: 'id'
   dir: 'guides'
+- index_files: false
+  data: 'cloud_pricing'
+  template: 'cloud_pricing'
+  name: 'Code'
+  dir: 'cloud/pricing'
