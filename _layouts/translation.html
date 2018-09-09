@@ -1,1 +1,278 @@
-{% assign release = site.data.releases | last %}<!DOCTYPE html><html moznomarginboxes mozdisallowselectionprint lang="{{ page.code }}"><head><meta charset="UTF-8"><title>Manager • {{ page.strings.FreeAccountingSoftware }}</title><meta content="index, follow" name="robots"><link href="/favicon.ico" rel="shortcut icon"><link href="/apple-touch-icon.png" rel="apple-touch-icon"><link href="/apple-touch-icon-72.png" rel="apple-touch-icon" sizes="72x72"><link href="/apple-touch-icon-114.png" rel="apple-touch-icon" sizes="114x114"><link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" /><link rel="stylesheet" type="text/css" href="https://pro.fontawesome.com/releases/v5.0.13/css/all.css" /></head><body><div class="bg-dark border-bottom border-dark" style="box-shadow: inset 0 1rem 3rem rgba(0,0,0,.175)"><div class="container"><div class="p-4 text-center"><div class="m-2"><img src="https://www.manager.io/apple-touch-icon-72.png" /></div><h1 class="text-white">{{ page.strings.FreeAccountingSoftware }}</h1></div></div><div class="container pt-4" style="height: 500px; overflow: hidden"><img src="https://www.manager.io/resources/summary-{{ page.code }}.png" class="img-fluid img-thumbnail" style="padding: .5rem; background-color: #f8f9fa; border: 0 solid #dee2e6; border-radius: .375rem; box-shadow: 0 1rem 3rem rgba(0,0,0,.175);" /></div></div><div class="bg-light"><div class="container py-4"><h2 class="text-center pb-2 pt-4">{{ page.strings.Download }}</h2><div class="card-deck text-center my-4"><div class="card"><div class="card-body"><div class="card-title font-weight-bold">Windows</div><p class="card-text text-muted small">{{ release.version }}</p><p class="card-text"><img src="https://www.manager.io/desktop/download/windows.png" /></p><p class="card-text"><a href="https://d2ap5zrlkavzl7.cloudfront.net/{{ release.version }}/Manager.msi" class="btn btn-primary font-weight-bold">{{ page.strings.FreeDownload }}</a></p><p class="card-text text-muted small">Windows Vista / 7 / 8 / 10</p></div></div><div class="card"><div class="card-body"><div class="card-title font-weight-bold">Mac</div><p class="card-text text-muted small">{{ release.version }}</p><p class="card-text"><img src="https://www.manager.io/desktop/download/mac.png" /></p><p class="card-text"><a href="https://d2ap5zrlkavzl7.cloudfront.net/{{ release.version }}/Manager.dmg" class="btn btn-primary font-weight-bold">{{ page.strings.FreeDownload }}</a></p><p class="card-text text-muted small">Mac OS X 10.7+</p></div></div><div class="card"><div class="card-body"><div class="card-title font-weight-bold">Ubuntu</div><p class="card-text text-muted small">{{ release.version }}</p><p class="card-text"><img src="https://www.manager.io/desktop/download/ubuntu.png" /></p><p class="card-text"><a href="https://d2ap5zrlkavzl7.cloudfront.net/{{ release.version }}/Manager.deb" class="btn btn-primary font-weight-bold">{{ page.strings.FreeDownload }}</a></p><p class="card-text text-muted small">Ubuntu 16.04+ LTS (x64)</p></div></div><div class="card"><div class="card-body"><div class="card-title font-weight-bold">Fedora</div><p class="card-text text-muted small">{{ release.version }}</p><p class="card-text"><img src="https://www.manager.io/desktop/download/fedora.png" /></p><p class="card-text"><a href="https://d2ap5zrlkavzl7.cloudfront.net/{{ release.version }}/Manager.rpm" class="btn btn-primary font-weight-bold">{{ page.strings.FreeDownload }}</a></p><p class="card-text text-muted small">Fedora 22+ (x64)</p></div></div></div></div></div><div class="bg-light"><div class="container py-4"><h2 class="text-center pb-2">{{ page.strings.Features }}</h2><div class="card-columns mt-4"><div class="card"><div class="card-body p-3"><i class="fa fa-check mr-2"></i>{{ page.strings.Accrual_basis }}</div></div><div class="card"><div class="card-body p-3"><i class="fa fa-check mr-2"></i>{{ page.strings.Accounts_payable }}</div></div><div class="card"><div class="card-body p-3"><i class="fa fa-check mr-2"></i>{{ page.strings.Accounts_receivable }}</div></div><div class="card"><div class="card-body p-3"><i class="fa fa-check mr-2"></i>{{ page.strings.Aged_payables }}</div></div><div class="card"><div class="card-body p-3"><i class="fa fa-check mr-2"></i>{{ page.strings.Aged_receivables }}</div></div><div class="card"><div class="card-body p-3"><i class="fa fa-check mr-2"></i>{{ page.strings.Accrual_basis }}</div></div><div class="card"><div class="card-body p-3"><i class="fa fa-check mr-2"></i>{{ page.strings.Cash_basis }}</div></div><div class="card"><div class="card-body p-3"><i class="fa fa-check mr-2"></i>{{ page.strings.Chart_of_accounts }}</div></div><div class="card"><div class="card-body p-3"><i class="fa fa-check mr-2"></i>{{ page.strings.CostOfSales }}</div></div><div class="card"><div class="card-body p-3"><i class="fa fa-check mr-2"></i>{{ page.strings.CreditNotes }}</div></div><div class="card"><div class="card-body p-3"><i class="fa fa-check mr-2"></i>{{ page.strings.CurrencyGainsLosses }}</div></div><div class="card"><div class="card-body p-3"><i class="fa fa-check mr-2"></i>{{ page.strings.Customers }}</div></div><div class="card"><div class="card-body p-3"><i class="fa fa-check mr-2"></i>{{ page.strings.CustomerStatements }}</div></div><div class="card"><div class="card-body p-3"><i class="fa fa-check mr-2"></i>{{ page.strings.CustomFields }}</div></div><div class="card"><div class="card-body p-3"><i class="fa fa-check mr-2"></i>{{ page.strings.DebitNotes }}</div></div><div class="card"><div class="card-body p-3"><i class="fa fa-check mr-2"></i>{{ page.strings.DeliveryNotes }}</div></div><div class="card"><div class="card-body p-3"><i class="fa fa-check mr-2"></i>{{ page.strings.EarlyPaymentDiscounts }}</div></div><div class="card"><div class="card-body p-3"><i class="fa fa-check mr-2"></i>{{ page.strings.EmailTemplates }}</div></div><div class="card"><div class="card-body p-3"><i class="fa fa-check mr-2"></i>{{ page.strings.Employees }}</div></div><div class="card"><div class="card-body p-3"><i class="fa fa-check mr-2"></i>{{ page.strings.ExchangeRates }}</div></div><div class="card"><div class="card-body p-3"><i class="fa fa-check mr-2"></i>{{ page.strings.ExpenseClaims }}</div></div><div class="card"><div class="card-body p-3"><i class="fa fa-check mr-2"></i>{{ page.strings.FinancialStatements }}</div></div><div class="card"><div class="card-body p-3"><i class="fa fa-check mr-2"></i>{{ page.strings.FixedAssets }}</div></div><div class="card"><div class="card-body p-3"><i class="fa fa-check mr-2"></i>{{ page.strings.FormDefaults }}</div></div><div class="card"><div class="card-body p-3"><i class="fa fa-check mr-2"></i>{{ page.strings.General_ledger }}</div></div><div class="card"><div class="card-body p-3"><i class="fa fa-check mr-2"></i>{{ page.strings.GoodsReceipts }}</div></div><div class="card"><div class="card-body p-3"><i class="fa fa-check mr-2"></i>{{ page.strings.ImportBankStatement }}</div></div><div class="card"><div class="card-body p-3"><i class="fa fa-check mr-2"></i>{{ page.strings.IntangibleAssets }}</div></div><div class="card"><div class="card-body p-3"><i class="fa fa-check mr-2"></i>{{ page.strings.InterAccountTransfers }}</div></div><div class="card"><div class="card-body p-3"><i class="fa fa-check mr-2"></i>{{ page.strings.InventoryItems }}</div></div><div class="card"><div class="card-body p-3"><i class="fa fa-check mr-2"></i>{{ page.strings.InventoryKits }}</div></div><div class="card"><div class="card-body p-3"><i class="fa fa-check mr-2"></i>{{ page.strings.InventoryLocations }}</div></div><div class="card"><div class="card-body p-3"><i class="fa fa-check mr-2"></i>{{ page.strings.InventoryWriteOffs }}</div></div><div class="card"><div class="card-body p-3"><i class="fa fa-check mr-2"></i>{{ page.strings.Journal_entries }}</div></div><div class="card"><div class="card-body p-3"><i class="fa fa-check mr-2"></i>{{ page.strings.LatePaymentFees }}</div></div><div class="card"><div class="card-body p-3"><i class="fa fa-check mr-2"></i>{{ page.strings.NonInventoryItems }}</div></div><div class="card"><div class="card-body p-3"><i class="fa fa-check mr-2"></i>{{ page.strings.Payslips }}</div></div><div class="card"><div class="card-body p-3"><i class="fa fa-check mr-2"></i>{{ page.strings.ProductionOrders }}</div></div><div class="card"><div class="card-body p-3"><i class="fa fa-check mr-2"></i>{{ page.strings.Profit_and_loss_statement }}</div></div><div class="card"><div class="card-body p-3"><i class="fa fa-check mr-2"></i>{{ page.strings.PurchaseInvoices }}</div></div><div class="card"><div class="card-body p-3"><i class="fa fa-check mr-2"></i>{{ page.strings.PurchaseOrders }}</div></div><div class="card"><div class="card-body p-3"><i class="fa fa-check mr-2"></i>{{ page.strings.ReceiptsAndPayments }}</div></div><div class="card"><div class="card-body p-3"><i class="fa fa-check mr-2"></i>{{ page.strings.RecurringJournalEntries }}</div></div><div class="card"><div class="card-body p-3"><i class="fa fa-check mr-2"></i>{{ page.strings.RecurringPayslips }}</div></div><div class="card"><div class="card-body p-3"><i class="fa fa-check mr-2"></i>{{ page.strings.RecurringPurchaseInvoices }}</div></div><div class="card"><div class="card-body p-3"><i class="fa fa-check mr-2"></i>{{ page.strings.RecurringSalesInvoices }}</div></div><div class="card"><div class="card-body p-3"><i class="fa fa-check mr-2"></i>{{ page.strings.SalesInvoices }}</div></div><div class="card"><div class="card-body p-3"><i class="fa fa-check mr-2"></i>{{ page.strings.SalesOrders }}</div></div><div class="card"><div class="card-body p-3"><i class="fa fa-check mr-2"></i>{{ page.strings.SalesQuotes }}</div></div><div class="card"><div class="card-body p-3"><i class="fa fa-check mr-2"></i>{{ page.strings.SpecialAccounts }}</div></div><div class="card"><div class="card-body p-3"><i class="fa fa-check mr-2"></i>{{ page.strings.StatementOfChangesInEquity }}</div></div><div class="card"><div class="card-body p-3"><i class="fa fa-check mr-2"></i>{{ page.strings.Suppliers }}</div></div><div class="card"><div class="card-body p-3"><i class="fa fa-check mr-2"></i>{{ page.strings.SupplierStatements }}</div></div><div class="card"><div class="card-body p-3"><i class="fa fa-check mr-2"></i>{{ page.strings.TaxCodes }}</div></div><div class="card"><div class="card-body p-3"><i class="fa fa-check mr-2"></i>{{ page.strings.TaxReconciliation }}</div></div><div class="card"><div class="card-body p-3"><i class="fa fa-check mr-2"></i>{{ page.strings.Themes }}</div></div><div class="card"><div class="card-body p-3"><i class="fa fa-check mr-2"></i>{{ page.strings.TrackingCodes }}</div></div><div class="card"><div class="card-body p-3"><i class="fa fa-check mr-2"></i>{{ page.strings.Trial_balance }}</div></div><div class="card"><div class="card-body p-3"><i class="fa fa-check mr-2"></i>{{ page.strings.WithholdingTax }}</div></div></div></div></div><div class="bg-dark border-bottom border-dark" style="box-shadow: inset 0 1rem 3rem rgba(0,0,0,.175)"><div class="container text-center p-2"><a href="https://www.manager.io" class="text-white text-muted small">www.manager.io</a></div></div></body></html>
+{% assign release = site.data.releases | last %}
+<!DOCTYPE html>
+<html moznomarginboxes mozdisallowselectionprint lang="{{ page.code }}">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Manager • {{ page.strings.FreeAccountingSoftware }}</title>
+    <meta content="index, follow" name="robots">
+    <link href="/favicon.ico" rel="shortcut icon">
+    <link href="/apple-touch-icon.png" rel="apple-touch-icon">
+    <link href="/apple-touch-icon-72.png" rel="apple-touch-icon" sizes="72x72">
+    <link href="/apple-touch-icon-114.png" rel="apple-touch-icon" sizes="114x114">
+    <link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" />
+    <link rel="stylesheet" type="text/css" href="https://pro.fontawesome.com/releases/v5.0.13/css/all.css" />
+    <!-- Google Tag Manager -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0], j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-TKJ2MWW');</script>
+    <!-- End Google Tag Manager -->
+</head>
+
+<body>
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TKJ2MWW" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+    <div class="bg-dark border-bottom border-dark" style="box-shadow: inset 0 1rem 3rem rgba(0,0,0,.175)">
+        <div class="container">
+            <div class="p-4 text-center">
+                <div class="m-2"><img src="https://www.manager.io/apple-touch-icon-72.png" /></div>
+                <h1 class="text-white">{{ page.strings.FreeAccountingSoftware }}</h1></div>
+        </div>
+        <div class="container pt-4" style="height: 500px; overflow: hidden"><img src="https://www.manager.io/resources/summary-{{ page.code }}.png" class="img-fluid img-thumbnail" style="padding: .5rem; background-color: #f8f9fa; border: 0 solid #dee2e6; border-radius: .375rem; box-shadow: 0 1rem 3rem rgba(0,0,0,.175);" /></div>
+    </div>
+    <div class="bg-light">
+        <div class="container py-4">
+            <h2 class="text-center pb-2 pt-4">{{ page.strings.Download }}</h2>
+            <div class="card-deck text-center my-4">
+                <div class="card">
+                    <div class="card-body">
+                        <div class="card-title font-weight-bold">Windows</div>
+                        <p class="card-text text-muted small">{{ release.version }}</p>
+                        <p class="card-text"><img src="https://www.manager.io/desktop/download/windows.png" /></p>
+                        <p class="card-text"><a href="https://d2ap5zrlkavzl7.cloudfront.net/{{ release.version }}/Manager.msi" class="btn btn-primary font-weight-bold">{{ page.strings.FreeDownload }}</a></p>
+                        <p class="card-text text-muted small">Windows Vista / 7 / 8 / 10</p>
+                    </div>
+                </div>
+                <div class="card">
+                    <div class="card-body">
+                        <div class="card-title font-weight-bold">Mac</div>
+                        <p class="card-text text-muted small">{{ release.version }}</p>
+                        <p class="card-text"><img src="https://www.manager.io/desktop/download/mac.png" /></p>
+                        <p class="card-text"><a href="https://d2ap5zrlkavzl7.cloudfront.net/{{ release.version }}/Manager.dmg" class="btn btn-primary font-weight-bold">{{ page.strings.FreeDownload }}</a></p>
+                        <p class="card-text text-muted small">Mac OS X 10.7+</p>
+                    </div>
+                </div>
+                <div class="card">
+                    <div class="card-body">
+                        <div class="card-title font-weight-bold">Ubuntu</div>
+                        <p class="card-text text-muted small">{{ release.version }}</p>
+                        <p class="card-text"><img src="https://www.manager.io/desktop/download/ubuntu.png" /></p>
+                        <p class="card-text"><a href="https://d2ap5zrlkavzl7.cloudfront.net/{{ release.version }}/Manager.deb" class="btn btn-primary font-weight-bold">{{ page.strings.FreeDownload }}</a></p>
+                        <p class="card-text text-muted small">Ubuntu 16.04+ LTS (x64)</p>
+                    </div>
+                </div>
+                <div class="card">
+                    <div class="card-body">
+                        <div class="card-title font-weight-bold">Fedora</div>
+                        <p class="card-text text-muted small">{{ release.version }}</p>
+                        <p class="card-text"><img src="https://www.manager.io/desktop/download/fedora.png" /></p>
+                        <p class="card-text"><a href="https://d2ap5zrlkavzl7.cloudfront.net/{{ release.version }}/Manager.rpm" class="btn btn-primary font-weight-bold">{{ page.strings.FreeDownload }}</a></p>
+                        <p class="card-text text-muted small">Fedora 22+ (x64)</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="bg-light">
+        <div class="container py-4">
+            <h2 class="text-center pb-2">{{ page.strings.Features }}</h2>
+            <div class="card-columns mt-4">
+                <div class="card">
+                    <div class="card-body p-3"><i class="fa fa-check mr-2"></i>{{ page.strings.Accrual_basis }}</div>
+                </div>
+                <div class="card">
+                    <div class="card-body p-3"><i class="fa fa-check mr-2"></i>{{ page.strings.Accounts_payable }}</div>
+                </div>
+                <div class="card">
+                    <div class="card-body p-3"><i class="fa fa-check mr-2"></i>{{ page.strings.Accounts_receivable }}</div>
+                </div>
+                <div class="card">
+                    <div class="card-body p-3"><i class="fa fa-check mr-2"></i>{{ page.strings.Aged_payables }}</div>
+                </div>
+                <div class="card">
+                    <div class="card-body p-3"><i class="fa fa-check mr-2"></i>{{ page.strings.Aged_receivables }}</div>
+                </div>
+                <div class="card">
+                    <div class="card-body p-3"><i class="fa fa-check mr-2"></i>{{ page.strings.Accrual_basis }}</div>
+                </div>
+                <div class="card">
+                    <div class="card-body p-3"><i class="fa fa-check mr-2"></i>{{ page.strings.Cash_basis }}</div>
+                </div>
+                <div class="card">
+                    <div class="card-body p-3"><i class="fa fa-check mr-2"></i>{{ page.strings.Chart_of_accounts }}</div>
+                </div>
+                <div class="card">
+                    <div class="card-body p-3"><i class="fa fa-check mr-2"></i>{{ page.strings.CostOfSales }}</div>
+                </div>
+                <div class="card">
+                    <div class="card-body p-3"><i class="fa fa-check mr-2"></i>{{ page.strings.CreditNotes }}</div>
+                </div>
+                <div class="card">
+                    <div class="card-body p-3"><i class="fa fa-check mr-2"></i>{{ page.strings.CurrencyGainsLosses }}</div>
+                </div>
+                <div class="card">
+                    <div class="card-body p-3"><i class="fa fa-check mr-2"></i>{{ page.strings.Customers }}</div>
+                </div>
+                <div class="card">
+                    <div class="card-body p-3"><i class="fa fa-check mr-2"></i>{{ page.strings.CustomerStatements }}</div>
+                </div>
+                <div class="card">
+                    <div class="card-body p-3"><i class="fa fa-check mr-2"></i>{{ page.strings.CustomFields }}</div>
+                </div>
+                <div class="card">
+                    <div class="card-body p-3"><i class="fa fa-check mr-2"></i>{{ page.strings.DebitNotes }}</div>
+                </div>
+                <div class="card">
+                    <div class="card-body p-3"><i class="fa fa-check mr-2"></i>{{ page.strings.DeliveryNotes }}</div>
+                </div>
+                <div class="card">
+                    <div class="card-body p-3"><i class="fa fa-check mr-2"></i>{{ page.strings.EarlyPaymentDiscounts }}</div>
+                </div>
+                <div class="card">
+                    <div class="card-body p-3"><i class="fa fa-check mr-2"></i>{{ page.strings.EmailTemplates }}</div>
+                </div>
+                <div class="card">
+                    <div class="card-body p-3"><i class="fa fa-check mr-2"></i>{{ page.strings.Employees }}</div>
+                </div>
+                <div class="card">
+                    <div class="card-body p-3"><i class="fa fa-check mr-2"></i>{{ page.strings.ExchangeRates }}</div>
+                </div>
+                <div class="card">
+                    <div class="card-body p-3"><i class="fa fa-check mr-2"></i>{{ page.strings.ExpenseClaims }}</div>
+                </div>
+                <div class="card">
+                    <div class="card-body p-3"><i class="fa fa-check mr-2"></i>{{ page.strings.FinancialStatements }}</div>
+                </div>
+                <div class="card">
+                    <div class="card-body p-3"><i class="fa fa-check mr-2"></i>{{ page.strings.FixedAssets }}</div>
+                </div>
+                <div class="card">
+                    <div class="card-body p-3"><i class="fa fa-check mr-2"></i>{{ page.strings.FormDefaults }}</div>
+                </div>
+                <div class="card">
+                    <div class="card-body p-3"><i class="fa fa-check mr-2"></i>{{ page.strings.General_ledger }}</div>
+                </div>
+                <div class="card">
+                    <div class="card-body p-3"><i class="fa fa-check mr-2"></i>{{ page.strings.GoodsReceipts }}</div>
+                </div>
+                <div class="card">
+                    <div class="card-body p-3"><i class="fa fa-check mr-2"></i>{{ page.strings.ImportBankStatement }}</div>
+                </div>
+                <div class="card">
+                    <div class="card-body p-3"><i class="fa fa-check mr-2"></i>{{ page.strings.IntangibleAssets }}</div>
+                </div>
+                <div class="card">
+                    <div class="card-body p-3"><i class="fa fa-check mr-2"></i>{{ page.strings.InterAccountTransfers }}</div>
+                </div>
+                <div class="card">
+                    <div class="card-body p-3"><i class="fa fa-check mr-2"></i>{{ page.strings.InventoryItems }}</div>
+                </div>
+                <div class="card">
+                    <div class="card-body p-3"><i class="fa fa-check mr-2"></i>{{ page.strings.InventoryKits }}</div>
+                </div>
+                <div class="card">
+                    <div class="card-body p-3"><i class="fa fa-check mr-2"></i>{{ page.strings.InventoryLocations }}</div>
+                </div>
+                <div class="card">
+                    <div class="card-body p-3"><i class="fa fa-check mr-2"></i>{{ page.strings.InventoryWriteOffs }}</div>
+                </div>
+                <div class="card">
+                    <div class="card-body p-3"><i class="fa fa-check mr-2"></i>{{ page.strings.Journal_entries }}</div>
+                </div>
+                <div class="card">
+                    <div class="card-body p-3"><i class="fa fa-check mr-2"></i>{{ page.strings.LatePaymentFees }}</div>
+                </div>
+                <div class="card">
+                    <div class="card-body p-3"><i class="fa fa-check mr-2"></i>{{ page.strings.NonInventoryItems }}</div>
+                </div>
+                <div class="card">
+                    <div class="card-body p-3"><i class="fa fa-check mr-2"></i>{{ page.strings.Payslips }}</div>
+                </div>
+                <div class="card">
+                    <div class="card-body p-3"><i class="fa fa-check mr-2"></i>{{ page.strings.ProductionOrders }}</div>
+                </div>
+                <div class="card">
+                    <div class="card-body p-3"><i class="fa fa-check mr-2"></i>{{ page.strings.Profit_and_loss_statement }}</div>
+                </div>
+                <div class="card">
+                    <div class="card-body p-3"><i class="fa fa-check mr-2"></i>{{ page.strings.PurchaseInvoices }}</div>
+                </div>
+                <div class="card">
+                    <div class="card-body p-3"><i class="fa fa-check mr-2"></i>{{ page.strings.PurchaseOrders }}</div>
+                </div>
+                <div class="card">
+                    <div class="card-body p-3"><i class="fa fa-check mr-2"></i>{{ page.strings.ReceiptsAndPayments }}</div>
+                </div>
+                <div class="card">
+                    <div class="card-body p-3"><i class="fa fa-check mr-2"></i>{{ page.strings.RecurringJournalEntries }}</div>
+                </div>
+                <div class="card">
+                    <div class="card-body p-3"><i class="fa fa-check mr-2"></i>{{ page.strings.RecurringPayslips }}</div>
+                </div>
+                <div class="card">
+                    <div class="card-body p-3"><i class="fa fa-check mr-2"></i>{{ page.strings.RecurringPurchaseInvoices }}</div>
+                </div>
+                <div class="card">
+                    <div class="card-body p-3"><i class="fa fa-check mr-2"></i>{{ page.strings.RecurringSalesInvoices }}</div>
+                </div>
+                <div class="card">
+                    <div class="card-body p-3"><i class="fa fa-check mr-2"></i>{{ page.strings.SalesInvoices }}</div>
+                </div>
+                <div class="card">
+                    <div class="card-body p-3"><i class="fa fa-check mr-2"></i>{{ page.strings.SalesOrders }}</div>
+                </div>
+                <div class="card">
+                    <div class="card-body p-3"><i class="fa fa-check mr-2"></i>{{ page.strings.SalesQuotes }}</div>
+                </div>
+                <div class="card">
+                    <div class="card-body p-3"><i class="fa fa-check mr-2"></i>{{ page.strings.SpecialAccounts }}</div>
+                </div>
+                <div class="card">
+                    <div class="card-body p-3"><i class="fa fa-check mr-2"></i>{{ page.strings.StatementOfChangesInEquity }}</div>
+                </div>
+                <div class="card">
+                    <div class="card-body p-3"><i class="fa fa-check mr-2"></i>{{ page.strings.Suppliers }}</div>
+                </div>
+                <div class="card">
+                    <div class="card-body p-3"><i class="fa fa-check mr-2"></i>{{ page.strings.SupplierStatements }}</div>
+                </div>
+                <div class="card">
+                    <div class="card-body p-3"><i class="fa fa-check mr-2"></i>{{ page.strings.TaxCodes }}</div>
+                </div>
+                <div class="card">
+                    <div class="card-body p-3"><i class="fa fa-check mr-2"></i>{{ page.strings.TaxReconciliation }}</div>
+                </div>
+                <div class="card">
+                    <div class="card-body p-3"><i class="fa fa-check mr-2"></i>{{ page.strings.Themes }}</div>
+                </div>
+                <div class="card">
+                    <div class="card-body p-3"><i class="fa fa-check mr-2"></i>{{ page.strings.TrackingCodes }}</div>
+                </div>
+                <div class="card">
+                    <div class="card-body p-3"><i class="fa fa-check mr-2"></i>{{ page.strings.Trial_balance }}</div>
+                </div>
+                <div class="card">
+                    <div class="card-body p-3"><i class="fa fa-check mr-2"></i>{{ page.strings.WithholdingTax }}</div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="bg-dark border-bottom border-dark" style="box-shadow: inset 0 1rem 3rem rgba(0,0,0,.175)">
+        <div class="container text-center p-2"><a href="https://www.manager.io" class="text-white text-muted small">www.manager.io</a></div>
+    </div>
+    
+    <script type="text/javascript">
+var clicky_site_ids = clicky_site_ids || [];
+clicky_site_ids.push(66498219);
+(function() {
+  var s = document.createElement('script');
+  s.type = 'text/javascript';
+  s.async = true;
+  s.src = '//static.getclicky.com/js';
+  ( document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0] ).appendChild( s );
+})();
+    </script>
+    <noscript><p><img alt="Clicky" width="1" height="1" src="//in.getclicky.com/66498219ns.gif" /></p></noscript>
+
+</body>
+
+</html>
