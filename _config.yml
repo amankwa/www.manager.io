@@ -1,5 +1,4 @@
 markdown: kramdown
-include: [ '_redirects' ]
 page_gen:
 - index_files: true
   data: 'translations'
