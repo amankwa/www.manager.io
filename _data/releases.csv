@@ -894,3 +894,4 @@ date,version,message
 2018-09-10,18.9.32,"Improved 'Businesses' screen so clicking on database size will repack it into a minimal amount of disk space"
 2018-09-10,18.9.33,"no message"
 2018-09-10,18.9.34,"Fixed receipt or payment view so retained earnings account name is shown if used #17916"
+2018-09-10,18.9.35,"no message"
