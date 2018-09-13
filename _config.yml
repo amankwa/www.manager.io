@@ -17,3 +17,5 @@ page_gen:
 algolia:
   application_id: 0IPEUWCLRX
   index_name:     jekyll
+  files_to_exclude:
+  - guides/index.html
