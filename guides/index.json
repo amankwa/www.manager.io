@@ -849,7 +849,7 @@
   },
   {
     "id": 9265,
-    "title": "Add a business",
+    "title": "Add a new business",
     "tags": [
       "businesses"
     ]
@@ -1464,7 +1464,9 @@
     "title": "Set up business as a self-employed services provider",
     "tags": [
       "chart-of-accounts",
-      "businesses"
+      "businesses",
+      "browse-online-businesses",
+      "view-online-business-template"
     ]
   },
   {
@@ -2081,6 +2083,22 @@
   {
     "id": 17520,
     "title": "Use a custom domain name with the cloud edition",
+    "tags": [
+      "businesses"
+    ]
+  },
+  {
+    "id": 17973,
+    "title": "Import a business template",
+    "tags": [
+      "businesses",
+      "browse-online-businesses",
+      "view-online-business-template"
+    ]
+  },
+  {
+    "id": 17974,
+    "title": "Reduce data file size",
     "tags": [
       "businesses"
     ]
