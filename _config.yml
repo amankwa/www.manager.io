@@ -1,5 +1,7 @@
 markdown: kramdown
+
 include: [ "_redirects" ]
+
 page_gen:
 - index_files: true
   data: 'translations'
@@ -11,3 +13,7 @@ page_gen:
   template: 'guides'
   name: 'id'
   dir: 'guides'
+  
+algolia:
+  application_id: 0IPEUWCLRX
+  index_name:     jekyll
