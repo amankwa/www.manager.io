@@ -1,4 +1,1 @@
-# Specifying the Ruby version
-# By default Netlify uses Ruby v2.1.2. This version is not compatible with the jekyll-algolia.
-# To fix this, you’ll have to add a file named .ruby-version at the root of your repository. The file content should be 2.4. It will be picked up by Netlify and used as the local Ruby version.
-2.4
+2.4.3
