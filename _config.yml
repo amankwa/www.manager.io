@@ -20,9 +20,9 @@ algolia:
   - guides/index.html
   settings:
     searchableAttributes:
-    - hierarchy.lvl0
-    - hierarchy.lvl1
-    - hierarchy.lvl2
+    - unordered(hierarchy.lvl0)
+    - unordered(hierarchy.lvl1)
+    - unordered(hierarchy.lvl2)
     - unordered(content)
     customRanking:
     - asc(rank)
