@@ -15,6 +15,25 @@ page_gen:
 algolia:
   application_id: 0IPEUWCLRX
   index_name:     manager
-  nodes_to_index: 'div.guide p,div.guide li'
+  nodes_to_index: 'div.guide p,div.guide li,div.guide h4,div.guide h5,div.guide h6'
   files_to_exclude:
   - guides/index.html
+  settings:
+    searchableAttributes:
+    - hierarchy.lvl0
+    - hierarchy.lvl1
+    - hierarchy.lvl2
+    - unordered(content)
+    customRanking:
+    unretrievableAttributes: []
+    attributesToHighlight:
+    - content
+    - hierarchy.lvl2
+    - hierarchy.lvl0
+    - hierarchy.lvl1
+    attributesToSnippet:
+    - content:30
+    - hierarchy.lvl2:10
+    - hierarchy.lvl0:10
+    - hierarchy.lvl1:10
+    attributesForFaceting: []
