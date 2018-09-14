@@ -32,7 +32,7 @@ algolia:
     - hierarchy.lvl0
     - hierarchy.lvl1
     attributesToSnippet:
-    - content:30
+    - content:55
     - hierarchy.lvl2:10
     - hierarchy.lvl0:10
     - hierarchy.lvl1:10
