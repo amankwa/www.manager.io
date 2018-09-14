@@ -14,6 +14,13 @@
   div.media-default { background-color: #F2F9FF }
 {% endif %}
 </style>
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsearch.js@2/dist/cdn/docsearch.min.css"/>
+<style>
+div.algolia-docsearch-footer { display: none }
+</style>
+
+
 <div class="mb-4">
 <div class="guide">{{ page.html }}</div>
 </div>
@@ -22,4 +29,23 @@
 <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js" type="text/javascript"></script>
 <script type="text/javascript">hljs.initHighlightingOnLoad();</script>
 {% endif %}
+
+<!-- Before the closing </body> -->
+<script
+  src="https://cdn.jsdelivr.net/npm/docsearch.js@2/dist/cdn/docsearch.min.js"></script>
+<script>
+  docsearch({
+    // Your apiKey and indexName will be given to you once
+    // we create your config
+    appId: '0IPEUWCLRX',
+    apiKey: '543a0aa9c12f93ad6792cd085f0938b5',
+    indexName: 'manager',
+    // Replace inputSelector with a CSS selector
+    // matching your search input
+    inputSelector: 'input#search-input',
+    // Set debug to true if you want to inspect the dropdown
+    debug: false
+  });
+</script>
+
 {% include footer.html %}

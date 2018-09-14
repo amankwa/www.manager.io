@@ -16,6 +16,7 @@ page_gen:
   
 algolia:
   application_id: 0IPEUWCLRX
-  index_name:     jekyll
+  index_name:     manager
+  nodes_to_index: 'div.guide p,div.guide li'
   files_to_exclude:
   - guides/index.html
