@@ -24,12 +24,16 @@ algolia:
     - hierarchy.lvl1
     - hierarchy.lvl2
     - unordered(content)
+    customRanking:
+    - asc(rank)
     unretrievableAttributes: []
     attributesToHighlight:
     - content
     - hierarchy.lvl0
     - hierarchy.lvl1
     - hierarchy.lvl2
+    highlightPreTag: '<span class="algolia-docsearch-suggestion--highlight">'
+    highlightPostTag: '</span>'
     attributesToSnippet:
     - content:55
     - hierarchy.lvl0:10
