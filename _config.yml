@@ -24,16 +24,15 @@ algolia:
     - hierarchy.lvl1
     - hierarchy.lvl2
     - unordered(content)
-    customRanking:
     unretrievableAttributes: []
     attributesToHighlight:
     - content
-    - hierarchy.lvl2
     - hierarchy.lvl0
     - hierarchy.lvl1
+    - hierarchy.lvl2
     attributesToSnippet:
     - content:55
-    - hierarchy.lvl2:10
     - hierarchy.lvl0:10
     - hierarchy.lvl1:10
+    - hierarchy.lvl2:10
     attributesForFaceting: []
