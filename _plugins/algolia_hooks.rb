@@ -2,6 +2,7 @@ module Jekyll
   module Algolia
     module Hooks
       def self.before_indexing_each(record, node, context)
+        return nil if record[:content].strip.empty?
         record[:url] = "/guides/#{record[:id]}"
         record.delete(:html)
         record.delete(:categories)
