@@ -918,3 +918,4 @@ date,version,message
 2018-09-18,18.9.57,"no message"
 2018-09-18,18.9.58,"no message"
 2018-09-19,18.9.59,"no message"
+2018-09-19,18.9.60,"Improved custom reports (added visual query builder & greater scope) #18065"
