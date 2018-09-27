@@ -955,3 +955,4 @@ date,version,message
 2018-09-26,18.9.96,"WebTranslateIt"
 2018-09-26,18.9.97,"Merge branch 'master' of https://github.com/lubos/Manager"
 2018-09-26,18.9.98,"Merge branch 'master' of https://github.com/lubos/Manager"
+2018-09-26,18.9.99,"When multitasking between programs, ensure active field stays active #18254"
