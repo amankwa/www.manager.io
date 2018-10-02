@@ -42,8 +42,12 @@
     <div class="container">
       <input type="checkbox" id="navbar-toggle-cbox" class="d-none">
       <div class="navbar-header">
-        <label for="navbar-toggle-cbox" class="navbar-toggler hidden-sm-up text-white m-2" data-toggle="collapse" data-toggle="collapse" data-target="#navbar" aria-controls="navbar">
-          <i class="fa fa-bars"></i>
+        <label for="navbar-toggle-cbox" class="navbar-toggler hidden-sm-up text-white-50 m-2" data-toggle="collapse" data-toggle="collapse" data-target="#navbar" aria-controls="navbar">
+          <i class="fa fa-bars mr-1"></i>
+          {% if page.url == '/' or url_parts[1] == 'desktop' %}Desktop Edition{% endif %}
+          {% if url_parts[1] == 'cloud' %}Cloud Edition{% endif %}
+          {% if url_parts[1] == 'server' %}Server Edition{% endif %}
+          {% if url_parts[1] == 'guides' %}Guides{% endif %}
         </label>
       </div>
       <div class="collapse navbar-collapse" id="navbar">
