@@ -980,3 +980,4 @@ date,version,message
 2018-10-04,18.10.22,"WebTranslateIt"
 2018-10-05,18.10.23,"no message"
 2018-10-05,18.10.24,"WebTranslateIt"
+2018-10-06,18.10.25,"Fixed 'Inventory Profit Margin' report by excluding sales of inventory kits #9631"
