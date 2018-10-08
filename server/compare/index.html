@@ -28,19 +28,18 @@ title: Compare
     <tr><td class="text-left text-nowrap">Easy to Setup</td><td><i class="fas fa-ban text-muted"></i></td><td class="bg-light"><i class="fas fa-check-circle text-success"></i></td></tr>
     <tr><td class="text-left text-nowrap">Automatic Backups</td><td><i class="fas fa-ban text-muted"></i></td><td class="bg-light"><i class="fas fa-check-circle text-success"></i></td></tr>
     <tr><td class="text-left text-nowrap">Automatic Updates</td><td><i class="fas fa-ban text-muted"></i></td><td class="bg-light"><i class="fas fa-check-circle text-success"></i></td></tr>
-    <tr>
+        <tr class="bg-dark text-white font-weight-bold">
       <td class="text-left">Pricing</td>
-      <td class="text-muted font-weight-bold">
-        <select id="server-currency" class="custom-select d-none text-center mb-2" onchange="document.getElementById('server-price').innerHTML = this.value">{% for currency in site.data.server_pricing %}<option value="{{ currency.Price }} {{ currency.Code }}"{% if currency.Code == "USD" %} selected{% endif %}>{{ currency.Code }} - {{ currency.Name }}</option>{% endfor %}</select>
-        <div><span id="server-price">390 USD</span></div>
-        <button class="btn btn-outline-dark btn-sm mt-2" onclick="this.classList.add('d-none'); document.getElementById('server-currency').classList.remove('d-none')">See pricing in your currency</button>
-      </td>
-      <td class="font-weight-bold bg-light">
-        <select id="cloud-currency" class="custom-select d-none text-center mb-2" onchange="document.getElementById('cloud-price').innerHTML = this.value">{% for currency in site.data.cloud_pricing %}<option value="{{ currency.Price }} {{ currency.Code }}"{% if currency.Code == "USD" %} selected{% endif %}>{{ currency.Code }} - {{ currency.Name }}</option>{% endfor %}</select>
-        <div><span id="cloud-price">39 USD</span> / month</div>
-        <button class="btn btn-outline-dark btn-sm mt-2" onclick="this.classList.add('d-none'); document.getElementById('cloud-currency').classList.remove('d-none')">See pricing in your currency</button>
-      </td>
+      <td></td>
+      <td><div><span id="price">39 USD</span> / month</div></td>
     </tr>
-    <tr><td></td><td><a href="/server/installation/" class="btn btn-light btn-lg font-weight-bold text-muted">Free Trial</a></td><td class="bg-light"><a href="https://cloud.manager.io" class="btn btn-lg btn-success font-weight-bold">Start a Free Trial</a></td></tr>
   </tbody>
 </table>
+
+<div class="text-center">  
+  <div class="form-group form-inline justify-content-center">
+    <button class="btn btn-outline-dark btn-sm" id="currencyButton" onclick="this.classList.add('d-none'); document.getElementById('currency').classList.remove('d-none')">See pricing in your currency</button>
+    <select id="currency" class="custom-select d-none text-center" onchange="document.getElementById('price').innerHTML = this.value">{% for currency in site.data.cloud_pricing %}<option value="{{ currency.Price }} {{ currency.Code }}"{% if currency.Code == "USD" %} selected{% endif %}>{{ currency.Code }} - {{ currency.Name }}</option>{% endfor %}</select>
+  </div>
+  <div><a href="https://cloud.manager.io" class="btn btn-lg btn-success font-weight-bold">Start a Free Trial</a></div>
+</div>
