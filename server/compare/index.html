@@ -28,16 +28,12 @@ title: Compare
     <tr><td class="text-left">Easy to Setup</td><td><i class="fas fa-ban text-muted"></i></td><td class="bg-light"><i class="fas fa-check-circle text-success"></i></td></tr>
     <tr><td class="text-left">Automatic Backups</td><td><i class="fas fa-ban text-muted"></i></td><td class="bg-light"><i class="fas fa-check-circle text-success"></i></td></tr>
     <tr><td class="text-left">Automatic Updates</td><td><i class="fas fa-ban text-muted"></i></td><td class="bg-light"><i class="fas fa-check-circle text-success"></i></td></tr>
-    <tr class="bg-dark text-white font-weight-bold">
-      <td class="text-left">Pricing</td>
-      <td></td>
-      <td><div><span id="price">39 USD</span> / month</div></td>
-    </tr>
   </tbody>
 </table>
 
 <div class="text-center">  
   <div class="form-group form-inline justify-content-center">
+    <span class="font-weight-bold p-2"><span id="price">39 USD</span> / month</span>
     <button class="btn btn-outline-dark btn-sm" id="currencyButton" onclick="this.classList.add('d-none'); document.getElementById('currency').classList.remove('d-none')">See pricing in your currency</button>
     <select id="currency" class="custom-select d-none text-center" onchange="document.getElementById('price').innerHTML = this.value">{% for currency in site.data.cloud_pricing %}<option value="{{ currency.Price }} {{ currency.Code }}"{% if currency.Code == "USD" %} selected{% endif %}>{{ currency.Code }} - {{ currency.Name }}</option>{% endfor %}</select>
   </div>
