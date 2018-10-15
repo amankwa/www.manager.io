@@ -1016,3 +1016,4 @@ date,version,message
 2018-10-14,18.10.59,"Automatically deactivate unused tabs in the left navigation when program restarts"
 2018-10-14,18.10.60,"no message"
 2018-10-14,18.10.61,"WebTranslateIt"
+2018-10-14,18.10.62,"Merge branch 'master' of https://github.com/lubos/Manager"
