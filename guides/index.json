@@ -4,7 +4,7 @@
     "title": "Set reporting period",
     "tags": [
       "summary",
-      "summary-start-date-form"
+      "summary-form"
     ]
   },
   {
@@ -238,7 +238,7 @@
       "summary",
       "chart-of-accounts",
       "settings",
-      "summary-start-date-form"
+      "summary-form"
     ]
   },
   {
@@ -247,7 +247,7 @@
     "tags": [
       "reports",
       "summary",
-      "summary-start-date-form"
+      "summary-form"
     ]
   },
   {
@@ -471,7 +471,7 @@
     "title": "Close an accounting period",
     "tags": [
       "summary",
-      "summary-start-date-form"
+      "summary-form"
     ]
   },
   {
@@ -2157,6 +2157,14 @@
       "inventory-write-off-form",
       "inter-account-transfer-form",
       "receipt-or-payment-form"
+    ]
+  },
+  {
+    "id": 18604,
+    "title": "Exclude zero-balance accounts from Summary page",
+    "tags": [
+      "summary",
+      "summary-form"
     ]
   }
 ]
