@@ -1021,3 +1021,4 @@ date,version,message
 2018-10-15,18.10.64,"no message"
 2018-10-15,18.10.65,"no message"
 2018-10-15,18.10.67,"Added optional reference number field to payslips #18047"
+2018-10-15,18.10.68,"Added 'Copy to clipboard' button to all reports #18431"
