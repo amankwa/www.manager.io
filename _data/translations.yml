@@ -1,7 +1,7 @@
 - code: "nl"
   percentage: 100
   name: "Dutch"
-  translators: "Hennie Eerhart, Ernst Bunders, martijn, vincent, Tomasz Nguyen, carel.ketelaars, Paul van Rijn, Mehh, Yorrick Hardeman, tomas.scheldeman, Richard, Martijn D., Aart van Oploo, fred.roubos, joost, Anton, Jos Geluk, Frank, sraslan, reyjamin, aartdijkstra, rory, Mitch Gooijer, rob, ingeschuffelen, 2BeFresh, bram.kort, alex, Reggie Dinsbach, marloesknetemann, t.aski, rikroukens, raymondlukassen, peterfick.nl, trudyvendel"
+  translators: "Hennie Eerhart, Ernst Bunders, martijn, vincent, Tomasz Nguyen, carel.ketelaars, Paul van Rijn, Mehh, Yorrick Hardeman, tomas.scheldeman, Richard, Martijn D., Aart van Oploo, fred.roubos, joost, Anton, Jos Geluk, Frank, reyjamin, sraslan, aartdijkstra, rory, Mitch Gooijer, rob, ingeschuffelen, 2BeFresh, bram.kort, alex, Reggie Dinsbach, marloesknetemann, t.aski, rikroukens, raymondlukassen, peterfick.nl, trudyvendel"
   strings:
     _1_30_days_overdue: "1-30 dagen te laat"
     _1_day: "1 dag"
@@ -7261,7 +7261,7 @@
 - code: "id"
   percentage: 96
   name: "Indonesian"
-  translators: "reyjamin, stanisk3101, Yhoga Heru Pratama, kapkuncara, Ajisaka, teddie, tesargusmawan, w.nugrahadi, mandau, Anies Pertiwi, adipriyanto.bpn, darmawan.sidiq, 19.guardians, rahmat, jeppy.chriz, khairfathul, fikri514, herrycandi1963, dnirawan79, tuliskode, amantun, didi.purwadi, mastertranskrip, morsen_hepi, rhama.donny, sariningbhuana, ubaylicious, bermansnbbn"
+  translators: "reyjamin, stanisk3101, Yhoga Heru Pratama, kapkuncara, Ajisaka, teddie, tesargusmawan, w.nugrahadi, mandau, Anies Pertiwi, adipriyanto.bpn, darmawan.sidiq, 19.guardians, rahmat, khairfathul, jeppy.chriz, herrycandi1963, fikri514, dnirawan79, amantun, tuliskode, didi.purwadi, mastertranskrip, morsen_hepi, rhama.donny, sariningbhuana, ubaylicious, bermansnbbn"
   strings:
     _1_30_days_overdue: "Jatuh Tempo dalam 1-30 Hari"
     _1_day: "1 hari"
@@ -9439,7 +9439,7 @@
 - code: "tr"
   percentage: 92
   name: "Turkish"
-  translators: "ahmetnsr07, erincfirtina, posta, Ufuk, enesemretas, ŞENOL KOÇAN, bunyaminkoz, ademalp, selimelitas7, ipek, srknakarcay, ilham123836, brnozcan, alisanari, doganhatip, İsmail Demirbilek, a.kadirgngr, alierhanersoy, okanciftci34, berke.turgan, Egzon Prokupla, ahmet, talatcorak, netusta, artunalyan"
+  translators: "ahmetnsr07, erincfirtina, posta, Ufuk, enesemretas, ŞENOL KOÇAN, bunyaminkoz, ademalp, selimelitas7, srknakarcay, ipek, ilham123836, brnozcan, alisanari, doganhatip, İsmail Demirbilek, a.kadirgngr, alierhanersoy, okanciftci34, berke.turgan, Egzon Prokupla, ahmet, talatcorak, netusta, artunalyan"
   strings:
     _1_30_days_overdue: "1-30 gün vadeli"
     _1_day: "1 gün"
@@ -15247,7 +15247,7 @@
 - code: "fa"
   percentage: 87
   name: "Persian"
-  translators: "pnshad, Aiub, MRNasseri, o.ahmadi.mail, monib19, hamzelo.ali, mehdi_song, torabian.7, metalixon, mo_jair, efa, kamitoto1995, programingc42, peyman.mohamadpour, navidhaghi, waheed, mmojadad"
+  translators: "pnshad, Aiub, MRNasseri, o.ahmadi.mail, monib19, hamzelo.ali, mehdi_song, torabian.7, metalixon, mo_jair, efa, programingc42, kamitoto1995, peyman.mohamadpour, navidhaghi, waheed, mmojadad"
   strings:
     _1_30_days_overdue: "۱ تا ۳۰ روز دیرکرد"
     _1_day: "1 روز"
@@ -16699,7 +16699,7 @@
 - code: "fr"
   percentage: 85
   name: "French"
-  translators: "antoinebargel, nujabe.com, webtranslateit.com, 500assets.com, jpmorin, nicolas, robert.demeester, julien, Erwin Mayer, scialet, Daniel G, doris.gagnon, olivier.asselin, icij79, eriam, kdaffef, pavel, Wesly , robert, ju, alexandrehitchcox, alexandre.gauvin, lamarane, natalia.pokrovskaya, jacques.huyghebaert, antoine.rouse, chsmo33, mickaelramanitrera, Abdellah Elfilali, rabodanmaha, karensg.mk"
+  translators: "antoinebargel, nujabe.com, webtranslateit.com, 500assets.com, jpmorin, nicolas, robert.demeester, julien, Erwin Mayer, scialet, Daniel G, doris.gagnon, olivier.asselin, icij79, eriam, kdaffef, pavel, Wesly , robert, ju, alexandrehitchcox, alexandre.gauvin, Abdellah Elfilali, lamarane, natalia.pokrovskaya, jacques.huyghebaert, antoine.rouse, chsmo33, mickaelramanitrera, rabodanmaha, karensg.mk"
   strings:
     _1_30_days_overdue: "en retard de 1-30 jours"
     _1_day: "1 jour"
@@ -18152,7 +18152,7 @@
 - code: "es"
   percentage: 82
   name: "Spanish"
-  translators: "Marco Picón, oscargonz, Diego Represas, jf150552, taxmatters.richmond, cametiope, romsaz, info, juanmagic01, josegjimenez, greatexe, Luis Galvez, lublanchod, fernando.lguevara, Angel, luis, info, egonzalez, Freddy Isaac, Luigi, osorio022, caparra, ferwind, alaskamama, antoniomagagna, mauricio.iturriaga, des, flira1010, gustavo, malrod, waldinads1987, leonsk29, arlopeza, franciscobama, leoxordonez, info, rodrigo.ortiz"
+  translators: "Marco Picón, oscargonz, Diego Represas, jf150552, taxmatters.richmond, cametiope, romsaz, info, juanmagic01, josegjimenez, greatexe, Luis Galvez, lublanchod, fernando.lguevara, Angel, luis, info, Freddy Isaac, egonzalez, Luigi, osorio022, caparra, ferwind, alaskamama, antoniomagagna, des, flira1010, gustavo, malrod, leonsk29, waldinads1987, arlopeza, franciscobama, leoxordonez, info, rodrigo.ortiz, mauricio.iturriaga"
   strings:
     _1_30_days_overdue: "1-30 días vencido"
     _1_day: "1 día"
@@ -27590,7 +27590,7 @@
 - code: "zh-cn"
   percentage: 63
   name: "Chinese, China"
-  translators: "zlg.happy, thresh14, fantacyzc, ryan.lufh, jameslee4848, xoojulian, zack, hzfywkj, 593915157, jtayyw, beiruoyi_1016, admin, tony.tong, yanchoo"
+  translators: "zlg.happy, thresh14, fantacyzc, ryan.lufh, jameslee4848, xoojulian, zack, hzfywkj, 593915157, beiruoyi_1016, jtayyw, admin, tony.tong, yanchoo"
   strings:
     _1_30_days_overdue: "逾期1-30日"
     _1_day: "1天"
@@ -28316,7 +28316,7 @@
 - code: "bn"
   percentage: 59
   name: "Bengali"
-  translators: "andrew, Monowar Hossain, sykat007, iktheruddin096, hasandhali, arif.css123, qstar.inc, hasan87abc, mazhar266, jessoreit, rashidul6, mannuinfo, shafizelal, ceo, polashpalchowdury, contact, Md. Ikramul Hossain , topu11543"
+  translators: "andrew, Monowar Hossain, sykat007, iktheruddin096, hasandhali, arif.css123, qstar.inc, hasan87abc, mazhar266, jessoreit, mannuinfo, rashidul6, shafizelal, ceo, polashpalchowdury, contact, Md. Ikramul Hossain , topu11543"
   strings:
     _1_30_days_overdue: "১-৩০ দিনের বকেয়া সমূহ"
     _1_day: "১ দিন"
@@ -35576,7 +35576,7 @@
 - code: "it"
   percentage: 34
   name: "Italian"
-  translators: "a.giordano.mi, tommaso.muro, ruozzistefano, Enrico Baioni, grassi.alessio, francesco.monte, davide, io, brigo92.pb, webmaster, aces85, info, Daniele Giulianelli, piccioli66, m.apice74, jessica.oppedisano, nlogozzo123, aurasanu, alby, fbgulotta"
+  translators: "a.giordano.mi, tommaso.muro, ruozzistefano, Enrico Baioni, grassi.alessio, francesco.monte, davide, io, webmaster, brigo92.pb, aces85, info, piccioli66, Daniele Giulianelli, m.apice74, jessica.oppedisano, nlogozzo123, aurasanu, alby, fbgulotta"
   strings:
     _1_30_days_overdue: "Scaduto 1-30 giorni"
     _1_day: "1 giorno"
