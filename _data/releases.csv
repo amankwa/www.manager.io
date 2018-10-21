@@ -1032,3 +1032,4 @@ date,version,message
 2018-10-20,18.10.78,"Added ability to 'General Ledger Transactions' report to show opening balances #11818"
 2018-10-20,18.10.79,"no message"
 2018-10-21,18.10.80,"WebTranslateIt"
+2018-10-21,18.10.81,"Merge branch 'master' of https://github.com/lubos/Manager"
