@@ -2166,5 +2166,28 @@
       "summary",
       "summary-form"
     ]
+  },
+  {
+    "id": 18764,
+    "title": "Use reference numbers",
+    "tags": [
+      "sales-quote-form",
+      "sales-invoice-form",
+      "sales-order-form",
+      "expense-claim-form",
+      "purchase-invoice-form",
+      "journal-entry-form",
+      "credit-note-form",
+      "purchase-order-form",
+      "goods-receipt-form",
+      "debit-note-form",
+      "production-order-form",
+      "payslip-form",
+      "delivery-note-form",
+      "inventory-transfer-form",
+      "inventory-write-off-form",
+      "inter-account-transfer-form",
+      "receipt-or-payment-form"
+    ]
   }
 ]
