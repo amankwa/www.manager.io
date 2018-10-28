@@ -1,7 +1,7 @@
 - code: "nl"
   percentage: 100
   name: "Dutch"
-  translators: "Hennie Eerhart, Ernst Bunders, martijn, vincent, Tomasz Nguyen, carel.ketelaars, Paul van Rijn, Mehh, Yorrick Hardeman, tomas.scheldeman, Richard, Martijn D., Aart van Oploo, fred.roubos, joost, Anton, Jos Geluk, Frank, reyjamin, sraslan, aartdijkstra, rory, Mitch Gooijer, 2BeFresh, rob, ingeschuffelen, rikroukens, raymondlukassen, Reggie Dinsbach, t.aski, bram.kort, trudyvendel, peterfick.nl, alex, marloesknetemann"
+  translators: "Hennie Eerhart, Ernst Bunders, martijn, vincent, Tomasz Nguyen, carel.ketelaars, Paul van Rijn, Mehh, Yorrick Hardeman, tomas.scheldeman, Richard, Martijn D., Aart van Oploo, fred.roubos, joost, Anton, Jos Geluk, Frank, sraslan, reyjamin, aartdijkstra, rory, Mitch Gooijer, ingeschuffelen, 2BeFresh, rob, alex, rikroukens, raymondlukassen, t.aski, Reggie Dinsbach, bram.kort, trudyvendel, peterfick.nl, marloesknetemann"
   strings:
     _1_30_days_overdue: "1-30 dagen te laat"
     _1_day: "1 dag"
@@ -7261,7 +7261,7 @@
 - code: "ar"
   percentage: 96
   name: "Arabic"
-  translators: "Haitham Doraidy, mohammad naji, yaser nanoua, Abdulbari, mokhles.atallah, efaiald, Yasser Elkhateeb €gypt, southern.carpenter, majed404, imosa3da, a.gamal.eldin88, luai.naji, k.alqaheri, loubani.yahia, samarrai, m256a, acc.mohamedhamza88, adnan, facysd, SBSCC, aalkaf.94, z.kheliwi, usama.ibraheem, akhatib, scony10, ms.ismail, bookkuwait, aabuzaid, yasir_smart8889, mohammadayoubq, aymanaaat, omair5354, omarelmasry2006, mohammedessam111, osman.a.mahmoud, asaawan, atmaalouf, ashraf.i.salameh, jihad, magasal20, rizkadel, ali.nasser.93"
+  translators: "Haitham Doraidy, mohammad naji, yaser nanoua, Abdulbari, mokhles.atallah, efaiald, Yasser Elkhateeb €gypt, southern.carpenter, majed404, imosa3da, a.gamal.eldin88, luai.naji, k.alqaheri, loubani.yahia, samarrai, m256a, acc.mohamedhamza88, adnan, facysd, SBSCC, aalkaf.94, usama.ibraheem, z.kheliwi, akhatib, scony10, ms.ismail, bookkuwait, aabuzaid, yasir_smart8889, mohammadayoubq, aymanaaat, omair5354, omarelmasry2006, mohammedessam111, osman.a.mahmoud, asaawan, atmaalouf, ashraf.i.salameh, jihad, magasal20, rizkadel, ali.nasser.93"
   strings:
     _1_30_days_overdue: "30-01 يوماً بعد تاريخ الإستحقاق"
     _1_day: "يوم واحد"
@@ -7987,7 +7987,7 @@
 - code: "id"
   percentage: 96
   name: "Indonesian"
-  translators: "reyjamin, stanisk3101, Yhoga Heru Pratama, kapkuncara, Ajisaka, teddie, tesargusmawan, w.nugrahadi, mandau, Anies Pertiwi, adipriyanto.bpn, darmawan.sidiq, 19.guardians, rahmat, jeppy.chriz, khairfathul, fikri514, herrycandi1963, rhama.donny, morsen_hepi, sariningbhuana, ubaylicious, mastertranskrip, didi.purwadi, bermansnbbn, dnirawan79, tuliskode, amantun"
+  translators: "reyjamin, stanisk3101, Yhoga Heru Pratama, kapkuncara, Ajisaka, teddie, tesargusmawan, w.nugrahadi, mandau, Anies Pertiwi, adipriyanto.bpn, darmawan.sidiq, 19.guardians, rahmat, khairfathul, jeppy.chriz, herrycandi1963, fikri514, amantun, rhama.donny, morsen_hepi, sariningbhuana, ubaylicious, bermansnbbn, mastertranskrip, didi.purwadi, dnirawan79, tuliskode"
   strings:
     _1_30_days_overdue: "Jatuh Tempo dalam 1-30 Hari"
     _1_day: "1 hari"
@@ -9439,7 +9439,7 @@
 - code: "tr"
   percentage: 92
   name: "Turkish"
-  translators: "ahmetnsr07, erincfirtina, posta, Ufuk, enesemretas, ŞENOL KOÇAN, bunyaminkoz, ademalp, selimelitas7, ipek, srknakarcay, ilham123836, brnozcan, alisanari, doganhatip, a.kadirgngr, İsmail Demirbilek, ahmet, Egzon Prokupla, artunalyan, berke.turgan, netusta, talatcorak, okanciftci34, alierhanersoy"
+  translators: "ahmetnsr07, erincfirtina, posta, Ufuk, enesemretas, ŞENOL KOÇAN, bunyaminkoz, ademalp, selimelitas7, ipek, srknakarcay, ilham123836, brnozcan, alisanari, doganhatip, İsmail Demirbilek, a.kadirgngr, alierhanersoy, ahmet, Egzon Prokupla, artunalyan, berke.turgan, netusta, talatcorak, okanciftci34"
   strings:
     _1_30_days_overdue: "1-30 gün vadeli"
     _1_day: "1 gün"
@@ -15973,7 +15973,7 @@
 - code: "fa"
   percentage: 87
   name: "Persian"
-  translators: "pnshad, Aiub, MRNasseri, o.ahmadi.mail, monib19, hamzelo.ali, mehdi_song, torabian.7, metalixon, mo_jair, efa, programingc42, kamitoto1995, waheed, mmojadad, peyman.mohamadpour, navidhaghi"
+  translators: "pnshad, Aiub, MRNasseri, o.ahmadi.mail, monib19, hamzelo.ali, mehdi_song, torabian.7, metalixon, mo_jair, efa, kamitoto1995, programingc42, navidhaghi, waheed, mmojadad, peyman.mohamadpour"
   strings:
     _1_30_days_overdue: "۱ تا ۳۰ روز دیرکرد"
     _1_day: "1 روز"
@@ -16699,7 +16699,7 @@
 - code: "fr"
   percentage: 85
   name: "French"
-  translators: "antoinebargel, nujabe.com, webtranslateit.com, 500assets.com, jpmorin, nicolas, robert.demeester, julien, Erwin Mayer, scialet, Daniel G, doris.gagnon, olivier.asselin, icij79, eriam, kdaffef, pavel, Wesly , robert, ju, alexandrehitchcox, alexandre.gauvin, jacques.huyghebaert, chsmo33, mickaelramanitrera, rabodanmaha, Abdellah Elfilali, karensg.mk, natalia.pokrovskaya, lamarane, antoine.rouse"
+  translators: "antoinebargel, nujabe.com, webtranslateit.com, 500assets.com, jpmorin, nicolas, robert.demeester, julien, Erwin Mayer, scialet, Daniel G, olivier.asselin, doris.gagnon, icij79, eriam, kdaffef, Wesly , pavel, robert, ju, alexandre.gauvin, alexandrehitchcox, antoine.rouse, jacques.huyghebaert, chsmo33, mickaelramanitrera, rabodanmaha, Abdellah Elfilali, natalia.pokrovskaya, karensg.mk, lamarane"
   strings:
     _1_30_days_overdue: "en retard de 1-30 jours"
     _1_day: "1 jour"
@@ -18152,7 +18152,7 @@
 - code: "es"
   percentage: 82
   name: "Spanish"
-  translators: "Marco Picón, oscargonz, Diego Represas, jf150552, taxmatters.richmond, cametiope, romsaz, info, juanmagic01, josegjimenez, greatexe, Luis Galvez, lublanchod, fernando.lguevara, Angel, luis, info, egonzalez, Freddy Isaac, osorio022, Luigi, caparra, waldinads1987, franciscobama, leonsk29, info, rodrigo.ortiz, mauricio.iturriaga, leoxordonez, arlopeza, flira1010, des, alaskamama, ferwind, antoniomagagna, gustavo, malrod"
+  translators: "Marco Picón, oscargonz, Diego Represas, jf150552, taxmatters.richmond, cametiope, romsaz, info, juanmagic01, josegjimenez, greatexe, Luis Galvez, lublanchod, fernando.lguevara, Angel, luis, info, egonzalez, Freddy Isaac, Luigi, osorio022, caparra, waldinads1987, franciscobama, leonsk29, info, rodrigo.ortiz, mauricio.iturriaga, leoxordonez, arlopeza, flira1010, des, antoniomagagna, alaskamama, ferwind, gustavo, malrod"
   strings:
     _1_30_days_overdue: "1-30 días vencido"
     _1_day: "1 día"
@@ -26138,7 +26138,7 @@
 - code: "ms"
   percentage: 66
   name: "Malay"
-  translators: "firdauspr, auradash, hamzah, norman05051984, aeo.ashraf, detjohn13, asyrafkhairuddin92, Rshd Mohd, mydispomail-001, cskhua, idea_hairul, mysycsolutions, adrysabry, amirul.asswad, halimhamdan, od3n, talkinsidemind"
+  translators: "firdauspr, auradash, hamzah, norman05051984, aeo.ashraf, detjohn13, asyrafkhairuddin92, Rshd Mohd, mydispomail-001, idea_hairul, cskhua, mysycsolutions, amirul.asswad, adrysabry, halimhamdan, od3n, talkinsidemind"
   strings:
     _1_30_days_overdue: "1-30 hari tertunggak"
     _1_day: "1 hari"
@@ -27590,7 +27590,7 @@
 - code: "zh-cn"
   percentage: 63
   name: "Chinese, China"
-  translators: "zlg.happy, thresh14, fantacyzc, ryan.lufh, jameslee4848, xoojulian, zack, hzfywkj, beiruoyi_1016, admin, tony.tong, yanchoo, jtayyw, 593915157"
+  translators: "zlg.happy, thresh14, fantacyzc, ryan.lufh, jameslee4848, xoojulian, zack, hzfywkj, 593915157, beiruoyi_1016, admin, tony.tong, yanchoo, jtayyw"
   strings:
     _1_30_days_overdue: "逾期1-30日"
     _1_day: "1天"
@@ -29766,7 +29766,7 @@
     WithholdingTaxReceivable: "Withholding tax receivable"
     XXX_Transactions: "{0} transactions"
 - code: "th"
-  percentage: 55
+  percentage: 56
   name: "Thai"
   translators: "Pichaya.L, ChiVasCz, nattariya, kunthawat, ssrinora, saravuthc, suratlee, tawat.ted"
   strings:
@@ -29855,6 +29855,7 @@
     CurrencyGainsLosses: "กำไร (ขาดทุน) อัตราแลกเปลี่ยน"
     Current: "ปัจจุบัน"
     Custom: "ปรับแต่ง"
+    Custom_title: "ข้อมูลเพิ่มเติม"
     Customer: "ลูกค้า"
     Customers: "ลูกค้า"
     CustomerStatement: "งบการเงินลูกค้า"
@@ -29869,6 +29870,7 @@
     Debit: "เดบิต"
     DebitNote: "ใบเพิ่มหนี้"
     DebitNotes: "ใบเพิ่มหนี้"
+    DeductWithholdingTax: "หัก ภาษีเงินได้หัก ณ ที่จ่าย"
     Delete: "ลบ"
     DeliveryAddress: "ที่อยู่ในการจัดส่ง"
     DeliveryDate: "วันที่จัดส่ง"
@@ -29886,6 +29888,7 @@
     Due_in_XXX_days: "ครบกำหนดใน {0} วัน"
     Due_today: "ครบกำหนดวันนี้"
     Due_tomorrow: "ครบกำหนดพรุ่งนี้"
+    EarlyPaymentDiscount: "อัตราส่วนลดเงินสด"
     Edit: "แก้ไข"
     Electricity: "ค่าไฟฟ้า"
     EmailAddress: "อีเมล์"
@@ -30081,6 +30084,7 @@
     Repairs_and_maintenance: "ค่าซ่อมแซมและบำรุงรักษา"
     Reports: "รีพอร์ต"
     Retained_earnings: "กำไรสะสม"
+    RoundOffTheTotal: "วิธีปัดเศษทศนิยม"
     Sales: "ขายสินค้าและบริการ"
     SalesInvoice: "ใบกำกับสินค้า"
     SalesInvoices: "ใบกำกับสินค้า"
@@ -30245,10 +30249,8 @@
     CustomReport: "Custom Report"
     CustomReports: "Custom Reports"
     CustomTheme: "Custom theme"
-    Custom_title: "Custom title"
     DaysAfterIssueDate: "days after issue date"
     Deduction: "Deduction"
-    DeductWithholdingTax: "Deduct withholding tax"
     Deposit: "Deposit"
     Descending: "Descending"
     Disposed_intangible_asset: "Disposed intangible asset"
@@ -30256,7 +30258,6 @@
     Download: "Download"
     Drawings: "Drawings"
     DropdownList: "Drop-down list"
-    EarlyPaymentDiscount: "Early payment discount"
     EarlyPaymentDiscounts: "Early payment discounts"
     Earnings: "Earnings"
     EmailTemplate: "Email template"
@@ -30426,7 +30427,6 @@
     RoundDown: "Round down"
     Rounding: "Rounding"
     RoundingExpense: "Rounding expense"
-    RoundOffTheTotal: "Round off the total"
     RoundToNearest: "Round to nearest"
     SalesInvoiceTotalsByCustomer: "Sales Invoice Totals by Customer"
     SalesInvoiceTotalsByCustomField: "Sales Invoice Totals by Custom Field"
@@ -31220,7 +31220,7 @@
 - code: "ur"
   percentage: 48
   name: "Urdu"
-  translators: "aasim.sethi, tmntbob, Moeen Hashmi, Hassaan Khawer, Amjad Cheema, thenewelectricstore, muhammadatif.memon, ajmal.kh86, celticom, mzraza, 91.syedhunain, saqib.pcg, ashfaq202, jahangir.amin, awais_sohail89, mshahid7194090, usrana52"
+  translators: "aasim.sethi, tmntbob, Moeen Hashmi, Hassaan Khawer, Amjad Cheema, thenewelectricstore, muhammadatif.memon, ajmal.kh86, mzraza, celticom, 91.syedhunain, saqib.pcg, ashfaq202, jahangir.amin, awais_sohail89, mshahid7194090, usrana52"
   strings:
     _1_30_days_overdue: "1 سے 30 دن زائد المیعاد"
     _1_day: "1 دن"
@@ -31946,7 +31946,7 @@
 - code: "pl"
   percentage: 48
   name: "Polish"
-  translators: "Krzysztof Pilars, greg, goliat4, daaaaniel, info, atudetank, rzeka"
+  translators: "Krzysztof Pilars, greg, goliat4, daaaaniel, atudetank, info, rzeka"
   strings:
     _1_30_days_overdue: "1-30 dni opóźnienia"
     _1_day: "1 dzień"
@@ -35576,7 +35576,7 @@
 - code: "it"
   percentage: 34
   name: "Italian"
-  translators: "a.giordano.mi, tommaso.muro, ruozzistefano, Enrico Baioni, grassi.alessio, francesco.monte, davide, io, brigo92.pb, webmaster, aces85, info, piccioli66, Daniele Giulianelli, alby, aurasanu, m.apice74, fbgulotta, jessica.oppedisano, nlogozzo123"
+  translators: "a.giordano.mi, tommaso.muro, ruozzistefano, Enrico Baioni, grassi.alessio, francesco.monte, davide, io, brigo92.pb, webmaster, aces85, info, piccioli66, Daniele Giulianelli, nlogozzo123, alby, aurasanu, m.apice74, fbgulotta, jessica.oppedisano"
   strings:
     _1_30_days_overdue: "Scaduto 1-30 giorni"
     _1_day: "1 giorno"
@@ -38480,7 +38480,7 @@
 - code: "ne"
   percentage: 25
   name: "Nepali"
-  translators: "Shital Subedi, psychrabi, rushon_4life, srsroshan16, surendra.chand8, knocktouraj"
+  translators: "Shital Subedi, psychrabi, rushon_4life, srsroshan16, knocktouraj, surendra.chand8"
   strings:
     _1_30_days_overdue: "१-३० दिन भाका नाघेको"
     _31_60_days_overdue: "३१-६० दिन भाका नाघेको"
@@ -42110,7 +42110,7 @@
 - code: "ml"
   percentage: 18
   name: "Malayalam"
-  translators: "supergassales, shinerajendran, xkaterboi, rafeekpp, muraliksa, chinturj, sameeh1986, spacesofttech, sameerudma, musthafaanas"
+  translators: "supergassales, shinerajendran, xkaterboi, rafeekpp, chinturj, muraliksa, sameeh1986, spacesofttech, sameerudma, musthafaanas"
   strings:
     Account: "വ്യാപാര ഇടപാട്"
     AddLine: "വരി ചേർക്കുക"
@@ -48644,7 +48644,7 @@
 - code: "sw"
   percentage: 6
   name: "Swahili"
-  translators: "atbazel, faraji5, jamesmpemba, mjema.ezekiel, kweixalice"
+  translators: "atbazel, faraji5, jamesmpemba, kweixalice, mjema.ezekiel"
   strings:
     Account: "Akaunti"
     Aged_payables: "Malipo ya kale"
