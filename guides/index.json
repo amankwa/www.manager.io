@@ -2189,5 +2189,12 @@
       "inter-account-transfer-form",
       "receipt-or-payment-form"
     ]
+  },
+  {
+    "id": 19000,
+    "title": "Copy reports to the clipboard",
+    "tags": [
+      "reports"
+    ]
   }
 ]
