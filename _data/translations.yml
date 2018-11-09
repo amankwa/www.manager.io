@@ -731,7 +731,7 @@
 - code: "nl"
   percentage: 100
   name: "Dutch"
-  translators: "Hennie Eerhart, Ernst Bunders, martijn, vincent, Tomasz Nguyen, carel.ketelaars, Paul van Rijn, Mehh, Yorrick Hardeman, tomas.scheldeman, Richard, Martijn D., Aart van Oploo, fred.roubos, joost, Anton, Jos Geluk, Frank, sraslan, reyjamin, aartdijkstra, rory, Mitch Gooijer, rob, ingeschuffelen, 2BeFresh, Reggie Dinsbach, trudyvendel, peterfick.nl, alex, marloesknetemann, t.aski, rikroukens, raymondlukassen, bram.kort"
+  translators: "Hennie Eerhart, Ernst Bunders, martijn, vincent, Tomasz Nguyen, carel.ketelaars, Paul van Rijn, Mehh, Yorrick Hardeman, tomas.scheldeman, Richard, Martijn D., Aart van Oploo, fred.roubos, joost, Anton, Jos Geluk, Frank, sraslan, reyjamin, aartdijkstra, rory, Mitch Gooijer, 2BeFresh, rob, ingeschuffelen, trudyvendel, peterfick.nl, Reggie Dinsbach, alex, marloesknetemann, t.aski, rikroukens, raymondlukassen, bram.kort"
   strings:
     _1_30_days_overdue: "1-30 dagen te laat"
     _1_day: "1 dag"
@@ -9491,7 +9491,7 @@
 - code: "tr"
   percentage: 91
   name: "Turkish"
-  translators: "ahmetnsr07, erincfirtina, posta, Ufuk, enesemretas, ŞENOL KOÇAN, bunyaminkoz, ademalp, selimelitas7, srknakarcay, ipek, ilham123836, brnozcan, alisanari, doganhatip, İsmail Demirbilek, a.kadirgngr, berke.turgan, okanciftci34, alierhanersoy, Egzon Prokupla, ahmet, artunalyan, talatcorak, netusta"
+  translators: "ahmetnsr07, erincfirtina, posta, Ufuk, enesemretas, ŞENOL KOÇAN, bunyaminkoz, ademalp, selimelitas7, srknakarcay, ipek, ilham123836, brnozcan, alisanari, doganhatip, a.kadirgngr, İsmail Demirbilek, berke.turgan, okanciftci34, alierhanersoy, Egzon Prokupla, ahmet, artunalyan, talatcorak, netusta"
   strings:
     _1_30_days_overdue: "1-30 gün vadeli"
     _1_day: "1 gün"
@@ -16791,7 +16791,7 @@
 - code: "fr"
   percentage: 84
   name: "French"
-  translators: "antoinebargel, nujabe.com, webtranslateit.com, 500assets.com, jpmorin, nicolas, robert.demeester, julien, Erwin Mayer, scialet, Daniel G, olivier.asselin, doris.gagnon, icij79, eriam, kdaffef, pavel, Wesly , robert, ju, alexandrehitchcox, alexandre.gauvin, karensg.mk, lamarane, natalia.pokrovskaya, antoine.rouse, Abdellah Elfilali, jacques.huyghebaert, chsmo33, mickaelramanitrera, rabodanmaha"
+  translators: "antoinebargel, nujabe.com, webtranslateit.com, 500assets.com, jpmorin, nicolas, robert.demeester, julien, Erwin Mayer, scialet, Daniel G, olivier.asselin, doris.gagnon, icij79, eriam, kdaffef, pavel, Wesly , robert, ju, alexandre.gauvin, alexandrehitchcox, karensg.mk, lamarane, natalia.pokrovskaya, antoine.rouse, Abdellah Elfilali, jacques.huyghebaert, chsmo33, mickaelramanitrera, rabodanmaha"
   strings:
     _1_30_days_overdue: "en retard de 1-30 jours"
     _1_day: "1 jour"
@@ -28471,7 +28471,7 @@
 - code: "bn"
   percentage: 58
   name: "Bengali"
-  translators: "andrew, Monowar Hossain, sykat007, iktheruddin096, hasandhali, arif.css123, qstar.inc, hasan87abc, mazhar266, rashidul6, shafizelal, mannuinfo, ceo, Md. Ikramul Hossain , contact, polashpalchowdury, topu11543, jessoreit"
+  translators: "andrew, Monowar Hossain, sykat007, iktheruddin096, hasandhali, arif.css123, qstar.inc, mazhar266, hasan87abc, rashidul6, shafizelal, mannuinfo, ceo, Md. Ikramul Hossain , contact, polashpalchowdury, topu11543, jessoreit"
   strings:
     _1_30_days_overdue: "১-৩০ দিনের বকেয়া সমূহ"
     _1_day: "১ দিন"
@@ -42341,7 +42341,7 @@
 - code: "ml"
   percentage: 18
   name: "Malayalam"
-  translators: "supergassales, shinerajendran, xkaterboi, chinturj, muraliksa, rafeekpp, musthafaanas, spacesofttech, sameeh1986, sameerudma"
+  translators: "supergassales, shinerajendran, xkaterboi, muraliksa, chinturj, rafeekpp, musthafaanas, spacesofttech, sameeh1986, sameerudma"
   strings:
     Account: "വ്യാപാര ഇടപാട്"
     AddLine: "വരി ചേർക്കുക"
@@ -45261,7 +45261,7 @@
 - code: "ka"
   percentage: 16
   name: "Georgian"
-  translators: "sssfile, g.mikaia, gzirishvili, bmamuka, gzviadadze"
+  translators: "sssfile, g.mikaia, gzirishvili, gzviadadze, bmamuka"
   strings:
     _1_30_days_overdue: "1-30 დღემდე ვადაგადაცილება"
     _31_60_days_overdue: "31-60  დღემდე ვადაგადაცილება"
