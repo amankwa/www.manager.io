@@ -1064,3 +1064,4 @@ date,version,message
 2018-11-06,18.11.10,"WebTranslateIt"
 2018-11-07,18.11.11,"WebTranslateIt"
 2018-11-09,18.11.12,"WebTranslateIt"
+2018-11-10,18.11.13,"Added ability to set starting balances for one or more inventory locations using batch operations #16893"
