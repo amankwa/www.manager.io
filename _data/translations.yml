@@ -731,7 +731,7 @@
 - code: "nl"
   percentage: 100
   name: "Dutch"
-  translators: "Hennie Eerhart, Ernst Bunders, martijn, vincent, Tomasz Nguyen, carel.ketelaars, Paul van Rijn, Mehh, Yorrick Hardeman, tomas.scheldeman, Richard, Martijn D., Aart van Oploo, fred.roubos, joost, Anton, Jos Geluk, Frank, reyjamin, sraslan, aartdijkstra, rory, Mitch Gooijer, ingeschuffelen, 2BeFresh, rob, rikroukens, raymondlukassen, bram.kort, t.aski, Reggie Dinsbach, trudyvendel, peterfick.nl, alex, marloesknetemann"
+  translators: "Hennie Eerhart, Ernst Bunders, martijn, vincent, Tomasz Nguyen, carel.ketelaars, Paul van Rijn, Mehh, Yorrick Hardeman, tomas.scheldeman, Richard, Martijn D., Aart van Oploo, fred.roubos, joost, Anton, Jos Geluk, Frank, reyjamin, sraslan, aartdijkstra, rory, Mitch Gooijer, rob, 2BeFresh, ingeschuffelen, rikroukens, raymondlukassen, bram.kort, t.aski, Reggie Dinsbach, trudyvendel, peterfick.nl, alex, marloesknetemann"
   strings:
     _1_30_days_overdue: "1-30 dagen te laat"
     _1_day: "1 dag"
@@ -28471,7 +28471,7 @@
 - code: "bn"
   percentage: 58
   name: "Bengali"
-  translators: "andrew, Monowar Hossain, sykat007, iktheruddin096, hasandhali, arif.css123, qstar.inc, mazhar266, hasan87abc, contact, shafizelal, rashidul6, polashpalchowdury, jessoreit, topu11543, mannuinfo, Md. Ikramul Hossain , ceo"
+  translators: "andrew, Monowar Hossain, sykat007, iktheruddin096, hasandhali, arif.css123, qstar.inc, hasan87abc, mazhar266, contact, shafizelal, rashidul6, polashpalchowdury, jessoreit, topu11543, mannuinfo, Md. Ikramul Hossain , ceo"
   strings:
     _1_30_days_overdue: "১-৩০ দিনের বকেয়া সমূহ"
     _1_day: "১ দিন"
@@ -42341,7 +42341,7 @@
 - code: "ml"
   percentage: 18
   name: "Malayalam"
-  translators: "supergassales, shinerajendran, xkaterboi, muraliksa, rafeekpp, chinturj, spacesofttech, sameeh1986, sameerudma, musthafaanas"
+  translators: "supergassales, shinerajendran, xkaterboi, chinturj, muraliksa, rafeekpp, spacesofttech, sameeh1986, sameerudma, musthafaanas"
   strings:
     Account: "വ്യാപാര ഇടപാട്"
     AddLine: "വരി ചേർക്കുക"
