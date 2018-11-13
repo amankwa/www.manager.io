@@ -1077,3 +1077,4 @@ date,version,message
 2018-11-13,18.11.23,"no message"
 2018-11-13,18.11.24,"no message"
 2018-11-13,18.11.25,"no message"
+2018-11-13,18.11.26,"Added ability to do batch operations on bank rules #17612"
