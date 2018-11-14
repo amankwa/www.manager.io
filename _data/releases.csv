@@ -1079,3 +1079,4 @@ date,version,message
 2018-11-13,18.11.25,"no message"
 2018-11-13,18.11.26,"Added ability to do batch operations on bank rules #17612"
 2018-11-13,18.11.27,"WebTranslateIt"
+2018-11-14,18.11.28,"Merge branch 'master' of https://github.com/lubos/Manager"
