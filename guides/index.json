@@ -954,16 +954,14 @@
       "inventory-items",
       "customers",
       "suppliers",
-      "batch-operations",
       "fixed-assets",
       "tracking-codes",
       "non-inventory-items",
       "intangible-assets",
       "batch-create",
       "batch-update",
-      "batch-delete",
-      "exchange-rates",
-      "receipts-and-payments"
+      "inventory-kits",
+      "exchange-rates"
     ]
   },
   {
