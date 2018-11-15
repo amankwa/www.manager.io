@@ -27741,7 +27741,7 @@
 - code: "zh-cn"
   percentage: 63
   name: "Chinese, China"
-  translators: "zlg.happy, thresh14, fantacyzc, ryan.lufh, jameslee4848, xoojulian, zack, hzfywkj, jtayyw, 593915157, beiruoyi_1016, admin, tony.tong, yanchoo"
+  translators: "zlg.happy, thresh14, fantacyzc, ryan.lufh, jameslee4848, xoojulian, zack, hzfywkj, 593915157, jtayyw, beiruoyi_1016, admin, tony.tong, yanchoo"
   strings:
     _1_30_days_overdue: "逾期1-30日"
     _1_day: "1天"
@@ -28471,7 +28471,7 @@
 - code: "bn"
   percentage: 58
   name: "Bengali"
-  translators: "andrew, Monowar Hossain, sykat007, iktheruddin096, hasandhali, arif.css123, qstar.inc, mazhar266, hasan87abc, rashidul6, shafizelal, Md. Ikramul Hossain , mannuinfo, polashpalchowdury, ceo, contact, jessoreit, topu11543"
+  translators: "andrew, Monowar Hossain, sykat007, iktheruddin096, hasandhali, arif.css123, qstar.inc, mazhar266, hasan87abc, rashidul6, polashpalchowdury, shafizelal, Md. Ikramul Hossain , mannuinfo, ceo, contact, jessoreit, topu11543"
   strings:
     _1_30_days_overdue: "১-৩০ দিনের বকেয়া সমূহ"
     _1_day: "১ দিন"
