@@ -25,7 +25,7 @@ BSB: 082-356
 Account number: 23-239-7983
 ```
 
-*Australia doesn’t use International Bank Account Numbers (IBANs), instead we use a BIC/SWIFT code.*
+*Australia doesnâ€™t use International Bank Account Numbers (IBANs), instead we use a BIC/SWIFT code.*
 
 Our office address:
 
