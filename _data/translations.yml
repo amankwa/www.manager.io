@@ -10249,7 +10249,7 @@
 - code: "id"
   percentage: 95
   name: "Indonesian"
-  translators: "reyjamin, stanisk3101, Yhoga Heru Pratama, kapkuncara, Ajisaka, teddie, tesargusmawan, w.nugrahadi, mandau, Anies Pertiwi, adipriyanto.bpn, darmawan.sidiq, 19.guardians, rahmat, jeppy.chriz, khairfathul, herrycandi1963, fikri514, mastertranskrip, didi.purwadi, dnirawan79, amantun, morsen_hepi, ubaylicious, bermansnbbn, sariningbhuana, tuliskode, rhama.donny"
+  translators: "reyjamin, stanisk3101, Yhoga Heru Pratama, kapkuncara, Ajisaka, teddie, tesargusmawan, w.nugrahadi, mandau, Anies Pertiwi, adipriyanto.bpn, darmawan.sidiq, 19.guardians, rahmat, jeppy.chriz, khairfathul, fikri514, herrycandi1963, mastertranskrip, didi.purwadi, dnirawan79, amantun, morsen_hepi, ubaylicious, bermansnbbn, sariningbhuana, tuliskode, rhama.donny"
   strings:
     _1_30_days_overdue: "Jatuh Tempo dalam 1-30 Hari"
     _1_day: "1 hari"
@@ -28549,7 +28549,7 @@
 - code: "bn"
   percentage: 58
   name: "Bengali"
-  translators: "andrew, Monowar Hossain, sykat007, iktheruddin096, hasandhali, arif.css123, qstar.inc, mazhar266, hasan87abc, contact, polashpalchowdury, rashidul6, jessoreit, Md. Ikramul Hossain , shafizelal, ceo, topu11543, mannuinfo"
+  translators: "andrew, Monowar Hossain, sykat007, iktheruddin096, hasandhali, arif.css123, qstar.inc, mazhar266, hasan87abc, contact, polashpalchowdury, jessoreit, rashidul6, Md. Ikramul Hossain , shafizelal, ceo, topu11543, mannuinfo"
   strings:
     _1_30_days_overdue: "১-৩০ দিনের বকেয়া সমূহ"
     _1_day: "১ দিন"
