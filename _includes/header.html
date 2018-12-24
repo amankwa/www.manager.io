@@ -3,9 +3,9 @@
   <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Manager • {{ page.title }}</title>
+    <title>{{ page.title }} | Manager</title>
     <meta content="index, follow" name="robots">
-    {% if page.url == '/' %}<meta content="Looking for accounting software? Manager is free accounting software for small business. Windows, Mac and Linux." name="description">{% endif %}
+    {% if page.description %}<meta content="{{ page.description }}" name="description">{% endif %}
     <meta content="S1uHC5KU4n8QUrh5DQNJd5s-Nbd0GckqzX-u8Jcjiso" name="google-site-verification">
     <link href="/favicon.ico" rel="shortcut icon">
     <link href="/apple-touch-icon.png" rel="apple-touch-icon">
