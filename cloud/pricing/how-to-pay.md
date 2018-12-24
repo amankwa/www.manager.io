@@ -1,6 +1,7 @@
 ---
 layout: cloud
-title: How to Pay
+title: How To Pay | Online Accounting Software
+description: Pay For Manager Cloud Accounting Software Using Credit Or Debit Card, Bank Transfer Or Paypal Account. No Contract. Free 7-Day Trial!
 ---
 You can pay via a variety of methods outlined below.
 
